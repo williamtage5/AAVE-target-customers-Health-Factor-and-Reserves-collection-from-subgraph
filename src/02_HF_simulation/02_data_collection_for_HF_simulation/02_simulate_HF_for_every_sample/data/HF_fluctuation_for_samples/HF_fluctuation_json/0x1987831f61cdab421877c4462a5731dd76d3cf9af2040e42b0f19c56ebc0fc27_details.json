@@ -1,0 +1,171 @@
+[
+    {
+        "datetime_utc": "2025-10-20T04:00:00+00:00",
+        "numerator_eth": 0.00021457264998128538,
+        "denominator_eth": 0.00021371142286028281,
+        "health_factor_unadjusted": 1.004029860030297,
+        "health_factor_adjusted": 0.9901945732361259,
+        "price_details_eth": {
+            "WETH": 0.9993095692222194,
+            "cbBTC": 27.341284368785697,
+            "cbETH": 1.0950767616012436,
+            "USDbC": 0.0002486980102433
+        }
+    },
+    {
+        "datetime_utc": "2025-10-20T05:00:00+00:00",
+        "numerator_eth": 0.0002144562329167427,
+        "denominator_eth": 0.00021230681388081848,
+        "health_factor_unadjusted": 1.0101241170579236,
+        "health_factor_adjusted": 0.9962048528870517,
+        "price_details_eth": {
+            "WETH": 0.9987961937296508,
+            "cbBTC": 27.262565478220115,
+            "cbETH": 1.0993288527476268,
+            "USDbC": 0.0002470634534485
+        }
+    },
+    {
+        "datetime_utc": "2025-10-20T06:00:00+00:00",
+        "numerator_eth": 0.0002148912374465068,
+        "denominator_eth": 0.00021122276591249698,
+        "health_factor_unadjusted": 1.0173677847563531,
+        "health_factor_adjusted": 1.0033487046098424,
+        "price_details_eth": {
+            "WETH": 1.0008609313154035,
+            "cbBTC": 27.27237509078623,
+            "cbETH": 1.0995812575614148,
+            "USDbC": 0.0002458019365435
+        }
+    },
+    {
+        "datetime_utc": "2025-10-20T07:00:00+00:00",
+        "numerator_eth": 0.00021451800296683115,
+        "denominator_eth": 0.00021084717334234355,
+        "health_factor_unadjusted": 1.0174099067409712,
+        "health_factor_adjusted": 1.0033902461637774,
+        "price_details_eth": {
+            "WETH": 0.9990824186809856,
+            "cbBTC": 27.273331132760823,
+            "cbETH": 1.0994678710666013,
+            "USDbC": 0.0002453648559064
+        }
+    },
+    {
+        "datetime_utc": "2025-10-20T08:00:00+00:00",
+        "numerator_eth": 0.00021484916633938593,
+        "denominator_eth": 0.00021121231302203173,
+        "health_factor_unadjusted": 1.0172189455497078,
+        "health_factor_adjusted": 1.0032019163711934,
+        "price_details_eth": {
+            "WETH": 1.000547746749209,
+            "cbBTC": 27.40584699888833,
+            "cbETH": 1.1050805939517363,
+            "USDbC": 0.0002457897724157
+        }
+    },
+    {
+        "datetime_utc": "2025-10-20T09:00:00+00:00",
+        "numerator_eth": 0.00021465019776473483,
+        "denominator_eth": 0.00021230528648844092,
+        "health_factor_unadjusted": 1.0110449971127855,
+        "health_factor_adjusted": 0.9971130434391715,
+        "price_details_eth": {
+            "WETH": 0.999570374712447,
+            "cbBTC": 27.47774608412864,
+            "cbETH": 1.0987347334629782,
+            "USDbC": 0.0002470616760075
+        }
+    },
+    {
+        "datetime_utc": "2025-10-20T10:00:00+00:00",
+        "numerator_eth": 0.00021462833316798478,
+        "denominator_eth": 0.00021241390483513477,
+        "health_factor_unadjusted": 1.0104250629664229,
+        "health_factor_adjusted": 0.9965016518342709,
+        "price_details_eth": {
+            "WETH": 0.9994989846107788,
+            "cbBTC": 27.4375486002081,
+            "cbETH": 1.0974275167633996,
+            "USDbC": 0.000247188076208
+        }
+    },
+    {
+        "datetime_utc": "2025-10-20T11:00:00+00:00",
+        "numerator_eth": 0.00021476721367550024,
+        "denominator_eth": 0.0002135849706093083,
+        "health_factor_unadjusted": 1.0055352352874796,
+        "health_factor_adjusted": 0.991679204789117,
+        "price_details_eth": {
+            "WETH": 1.000082395793067,
+            "cbBTC": 27.53540686430163,
+            "cbETH": 1.1001527000188878,
+            "USDbC": 0.0002485508565592
+        }
+    },
+    {
+        "datetime_utc": "2025-10-20T12:00:00+00:00",
+        "numerator_eth": 0.00021466864938052936,
+        "denominator_eth": 0.00021270375961151544,
+        "health_factor_unadjusted": 1.0092376823644424,
+        "health_factor_adjusted": 0.995330633047627,
+        "price_details_eth": {
+            "WETH": 0.9996459804701372,
+            "cbBTC": 27.49685435370873,
+            "cbETH": 1.0983817008793553,
+            "USDbC": 0.0002475253829611
+        }
+    },
+    {
+        "datetime_utc": "2025-10-20T13:00:00+00:00",
+        "numerator_eth": 0.00021479020907054264,
+        "denominator_eth": 0.00021309509368425697,
+        "health_factor_unadjusted": 1.0079547368124642,
+        "health_factor_adjusted": 0.9940653661727077,
+        "price_details_eth": {
+            "WETH": 1.0002168456248264,
+            "cbBTC": 27.506220708108845,
+            "cbETH": 1.0988793246324986,
+            "USDbC": 0.0002479807821341
+        }
+    },
+    {
+        "datetime_utc": "2025-10-20T14:00:00+00:00",
+        "numerator_eth": 0.0002143411029058963,
+        "denominator_eth": 0.0002127149367097915,
+        "health_factor_unadjusted": 1.0076448143287813,
+        "health_factor_adjusted": 0.9937597143453234,
+        "price_details_eth": {
+            "WETH": 0.998090866978219,
+            "cbBTC": 27.49194276944844,
+            "cbETH": 1.097797920063273,
+            "USDbC": 0.0002475383898564
+        }
+    },
+    {
+        "datetime_utc": "2025-10-20T15:00:00+00:00",
+        "numerator_eth": 0.00021469127912273676,
+        "denominator_eth": 0.00021259113839670679,
+        "health_factor_unadjusted": 1.009878778305947,
+        "health_factor_adjusted": 0.9959628948432896,
+        "price_details_eth": {
+            "WETH": 0.999724894375778,
+            "cbBTC": 27.538053788428098,
+            "cbETH": 1.098325856615882,
+            "USDbC": 0.000247394324585
+        }
+    },
+    {
+        "datetime_utc": "2025-10-20T16:00:00+00:00",
+        "numerator_eth": 0.00021343965603246186,
+        "denominator_eth": 0.00021270794063947361,
+        "health_factor_unadjusted": 1.0034400003628847,
+        "health_factor_adjusted": 0.9896128416911848,
+        "price_details_eth": {
+            "WETH": 0.9936948611184284,
+            "cbBTC": 27.64434015338849,
+            "cbETH": 1.095894071996069,
+            "USDbC": 0.000247530248463
+        }
+    }
+]

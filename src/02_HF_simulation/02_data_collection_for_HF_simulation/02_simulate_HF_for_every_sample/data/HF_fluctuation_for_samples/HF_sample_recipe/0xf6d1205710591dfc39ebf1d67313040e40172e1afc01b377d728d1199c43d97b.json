@@ -1,0 +1,30 @@
+{
+    "txHash": "0xf6d1205710591dfc39ebf1d67313040e40172e1afc01b377d728d1199c43d97b",
+    "user_id": "0x12a61c7528f954b7899a291b8be41eae67e5c1fb",
+    "simulation_time_range_utc": {
+        "start_utc": "2025-09-07T14:00:00+00:00",
+        "end_utc": "2025-10-20T16:00:00+00:00",
+        "duration_days": 43.09502314814815,
+        "is_truncated_90d": false
+    },
+    "health_factor_anchors": {
+        "HF_True_OnChain": 0.9953956856622241,
+        "HF_Simulated_Final_Unadjusted": 1.0026411451278456,
+        "Adjustment_Factor_GAF": 0.9927736264357099
+    },
+    "numerator_collaterals": [
+        {
+            "symbol": "WETH",
+            "amount_raw": "134491491650443",
+            "decimals": 18,
+            "liquidation_threshold": "0.8300"
+        }
+    ],
+    "denominator_debts": [
+        {
+            "symbol": "USDC",
+            "amount_raw": "446355",
+            "decimals": 6
+        }
+    ]
+}

@@ -1,0 +1,2323 @@
+[
+    {
+        "datetime_utc": "2025-10-08T21:00:00+00:00",
+        "numerator_eth": 1.0870842240982702e-05,
+        "denominator_eth": 9.695515465181165e-06,
+        "health_factor_unadjusted": 1.1212237533963416,
+        "health_factor_adjusted": 0.8666235696769479,
+        "price_details_eth": {
+            "cbBTC": 27.32740633731197,
+            "USDC": 0.0002216979275417
+        }
+    },
+    {
+        "datetime_utc": "2025-10-08T22:00:00+00:00",
+        "numerator_eth": 1.0856155532594917e-05,
+        "denominator_eth": 9.675444201726124e-06,
+        "health_factor_unadjusted": 1.1220317440989585,
+        "health_factor_adjusted": 0.8672480871159037,
+        "price_details_eth": {
+            "cbBTC": 27.29048650727732,
+            "USDC": 0.0002212389774707
+        }
+    },
+    {
+        "datetime_utc": "2025-10-08T23:00:00+00:00",
+        "numerator_eth": 1.0848029425136429e-05,
+        "denominator_eth": 9.65949584320402e-06,
+        "health_factor_unadjusted": 1.1230430243177345,
+        "health_factor_adjusted": 0.8680297324123797,
+        "price_details_eth": {
+            "cbBTC": 27.27005888671802,
+            "USDC": 0.0002208743018591
+        }
+    },
+    {
+        "datetime_utc": "2025-10-09T00:00:00+00:00",
+        "numerator_eth": 1.0842642081101548e-05,
+        "denominator_eth": 9.65632654383629e-06,
+        "health_factor_unadjusted": 1.122853709625478,
+        "health_factor_adjusted": 0.8678834060668142,
+        "price_details_eth": {
+            "cbBTC": 27.256516040979253,
+            "USDC": 0.0002208018325712
+        }
+    },
+    {
+        "datetime_utc": "2025-10-09T01:00:00+00:00",
+        "numerator_eth": 1.08370257276672e-05,
+        "denominator_eth": 9.679180765195549e-06,
+        "health_factor_unadjusted": 1.1196222067300403,
+        "health_factor_adjusted": 0.8653856917915124,
+        "price_details_eth": {
+            "cbBTC": 27.242397505447965,
+            "USDC": 0.0002213244178354
+        }
+    },
+    {
+        "datetime_utc": "2025-10-09T02:00:00+00:00",
+        "numerator_eth": 1.0886690605472013e-05,
+        "denominator_eth": 9.768339352779964e-06,
+        "health_factor_unadjusted": 1.1144873465492144,
+        "health_factor_adjusted": 0.8614168222003895,
+        "price_details_eth": {
+            "cbBTC": 27.367246368707928,
+            "USDC": 0.0002233631205904
+        }
+    },
+    {
+        "datetime_utc": "2025-10-09T03:00:00+00:00",
+        "numerator_eth": 1.09656434630023e-05,
+        "denominator_eth": 9.906666991239227e-06,
+        "health_factor_unadjusted": 1.1068953334859806,
+        "health_factor_adjusted": 0.8555487539919131,
+        "price_details_eth": {
+            "cbBTC": 27.565720118155603,
+            "USDC": 0.0002265261242366
+        }
+    },
+    {
+        "datetime_utc": "2025-10-09T04:00:00+00:00",
+        "numerator_eth": 1.0898776681160297e-05,
+        "denominator_eth": 9.820098143995788e-06,
+        "health_factor_unadjusted": 1.1098439670711473,
+        "health_factor_adjusted": 0.8578278310766663,
+        "price_details_eth": {
+            "cbBTC": 27.397628660533677,
+            "USDC": 0.0002245466385566
+        }
+    },
+    {
+        "datetime_utc": "2025-10-09T05:00:00+00:00",
+        "numerator_eth": 1.0899910304163563e-05,
+        "denominator_eth": 9.813383905156953e-06,
+        "health_factor_unadjusted": 1.1107188314966092,
+        "health_factor_adjusted": 0.858504036989251,
+        "price_details_eth": {
+            "cbBTC": 27.4004783915625,
+            "USDC": 0.0002243931105837
+        }
+    },
+    {
+        "datetime_utc": "2025-10-09T06:00:00+00:00",
+        "numerator_eth": 1.089897518461815e-05,
+        "denominator_eth": 9.814012941666323e-06,
+        "health_factor_unadjusted": 1.1105523550254877,
+        "health_factor_adjusted": 0.8583753629103854,
+        "price_details_eth": {
+            "cbBTC": 27.3981276636957,
+            "USDC": 0.0002244074941501
+        }
+    },
+    {
+        "datetime_utc": "2025-10-09T07:00:00+00:00",
+        "numerator_eth": 1.095670951538968e-05,
+        "denominator_eth": 9.87029820264162e-06,
+        "health_factor_unadjusted": 1.1100687426502778,
+        "health_factor_adjusted": 0.8580015660819872,
+        "price_details_eth": {
+            "cbBTC": 27.54326172797808,
+            "USDC": 0.0002256945145003
+        }
+    },
+    {
+        "datetime_utc": "2025-10-09T08:00:00+00:00",
+        "numerator_eth": 1.0935731043005244e-05,
+        "denominator_eth": 9.85891537257787e-06,
+        "health_factor_unadjusted": 1.109222529024084,
+        "health_factor_adjusted": 0.8573475051318691,
+        "price_details_eth": {
+            "cbBTC": 27.49052549775074,
+            "USDC": 0.00022543423439
+        }
+    },
+    {
+        "datetime_utc": "2025-10-09T09:00:00+00:00",
+        "numerator_eth": 1.1144815001709839e-05,
+        "denominator_eth": 1.0098644861343288e-05,
+        "health_factor_unadjusted": 1.1035951015934027,
+        "health_factor_adjusted": 0.8529979172522846,
+        "price_details_eth": {
+            "cbBTC": 28.01612619836561,
+            "USDC": 0.0002309158955787
+        }
+    },
+    {
+        "datetime_utc": "2025-10-09T10:00:00+00:00",
+        "numerator_eth": 1.1179254176338205e-05,
+        "denominator_eth": 1.0088139104698262e-05,
+        "health_factor_unadjusted": 1.1081582103811185,
+        "health_factor_adjusted": 0.8565248650309557,
+        "price_details_eth": {
+            "cbBTC": 28.102700292454006,
+            "USDC": 0.0002306756706537
+        }
+    },
+    {
+        "datetime_utc": "2025-10-09T11:00:00+00:00",
+        "numerator_eth": 1.1165696731665184e-05,
+        "denominator_eth": 1.0037137147141685e-05,
+        "health_factor_unadjusted": 1.1124383943328784,
+        "health_factor_adjusted": 0.8598331327018038,
+        "price_details_eth": {
+            "cbBTC": 28.06861923495521,
+            "USDC": 0.0002295094584671
+        }
+    },
+    {
+        "datetime_utc": "2025-10-09T12:00:00+00:00",
+        "numerator_eth": 1.115916757144189e-05,
+        "denominator_eth": 9.995535385659498e-06,
+        "health_factor_unadjusted": 1.1164151934724622,
+        "health_factor_adjusted": 0.8629069062066861,
+        "price_details_eth": {
+            "cbBTC": 28.052206061945427,
+            "USDC": 0.0002285581914266
+        }
+    },
+    {
+        "datetime_utc": "2025-10-09T13:00:00+00:00",
+        "numerator_eth": 1.1154472868316772e-05,
+        "denominator_eth": 9.930707473468475e-06,
+        "health_factor_unadjusted": 1.1232304342986428,
+        "health_factor_adjusted": 0.8681745865560382,
+        "price_details_eth": {
+            "cbBTC": 28.040404394964234,
+            "USDC": 0.000227075834575
+        }
+    },
+    {
+        "datetime_utc": "2025-10-09T14:00:00+00:00",
+        "numerator_eth": 1.1177153380449231e-05,
+        "denominator_eth": 1.0010399265899557e-05,
+        "health_factor_unadjusted": 1.1165542036394316,
+        "health_factor_adjusted": 0.8630143508507685,
+        "price_details_eth": {
+            "cbBTC": 28.097419257036776,
+            "USDC": 0.0002288980693275
+        }
+    },
+    {
+        "datetime_utc": "2025-10-09T15:00:00+00:00",
+        "numerator_eth": 1.1107085963401938e-05,
+        "denominator_eth": 1.0074467665841937e-05,
+        "health_factor_unadjusted": 1.1024985470012627,
+        "health_factor_adjusted": 0.8521503611314769,
+        "price_details_eth": {
+            "cbBTC": 27.92128195928089,
+            "USDC": 0.0002303630591508
+        }
+    },
+    {
+        "datetime_utc": "2025-10-09T16:00:00+00:00",
+        "numerator_eth": 1.1163000427820697e-05,
+        "denominator_eth": 1.012978479057355e-05,
+        "health_factor_unadjusted": 1.1019977875747788,
+        "health_factor_adjusted": 0.851763310892473,
+        "price_details_eth": {
+            "cbBTC": 28.06184119613046,
+            "USDC": 0.0002316279420706
+        }
+    },
+    {
+        "datetime_utc": "2025-10-09T17:00:00+00:00",
+        "numerator_eth": 1.1121912798053957e-05,
+        "denominator_eth": 1.0174878162964353e-05,
+        "health_factor_unadjusted": 1.093075771515056,
+        "health_factor_adjusted": 0.8448672481012857,
+        "price_details_eth": {
+            "cbBTC": 27.95855404236792,
+            "USDC": 0.0002326590483837
+        }
+    },
+    {
+        "datetime_utc": "2025-10-09T18:00:00+00:00",
+        "numerator_eth": 1.1112813218928562e-05,
+        "denominator_eth": 1.0118898800517549e-05,
+        "health_factor_unadjusted": 1.0982235753123826,
+        "health_factor_adjusted": 0.8488461221568183,
+        "price_details_eth": {
+            "cbBTC": 27.935679283379997,
+            "USDC": 0.0002313790227178
+        }
+    },
+    {
+        "datetime_utc": "2025-10-09T19:00:00+00:00",
+        "numerator_eth": 1.115728454940249e-05,
+        "denominator_eth": 1.0155687748865867e-05,
+        "health_factor_unadjusted": 1.0986242217469198,
+        "health_factor_adjusted": 0.8491557924097229,
+        "price_details_eth": {
+            "cbBTC": 28.04747247210279,
+            "USDC": 0.0002322202398387
+        }
+    },
+    {
+        "datetime_utc": "2025-10-09T20:00:00+00:00",
+        "numerator_eth": 1.1106858879145646e-05,
+        "denominator_eth": 1.0087955195511646e-05,
+        "health_factor_unadjusted": 1.1010020032689412,
+        "health_factor_adjusted": 0.850993642798001,
+        "price_details_eth": {
+            "cbBTC": 27.920711108963413,
+            "USDC": 0.0002306714653811
+        }
+    },
+    {
+        "datetime_utc": "2025-10-09T21:00:00+00:00",
+        "numerator_eth": 1.1111647377804923e-05,
+        "denominator_eth": 1.0077679276847809e-05,
+        "health_factor_unadjusted": 1.102599822097189,
+        "health_factor_adjusted": 0.8522286393385566,
+        "price_details_eth": {
+            "cbBTC": 27.932748561601112,
+            "USDC": 0.0002304364959378
+        }
+    },
+    {
+        "datetime_utc": "2025-10-09T22:00:00+00:00",
+        "numerator_eth": 1.1098898929971685e-05,
+        "denominator_eth": 1.0034964244549008e-05,
+        "health_factor_unadjusted": 1.1060227679436534,
+        "health_factor_adjusted": 0.8548743249470608,
+        "price_details_eth": {
+            "cbBTC": 27.90070118142706,
+            "USDC": 0.0002294597728157
+        }
+    },
+    {
+        "datetime_utc": "2025-10-09T23:00:00+00:00",
+        "numerator_eth": 1.1066712450044546e-05,
+        "denominator_eth": 9.985366067398936e-06,
+        "health_factor_unadjusted": 1.108293113677232,
+        "health_factor_adjusted": 0.8566291353656547,
+        "price_details_eth": {
+            "cbBTC": 27.819789969946065,
+            "USDC": 0.0002283256595111
+        }
+    },
+    {
+        "datetime_utc": "2025-10-10T00:00:00+00:00",
+        "numerator_eth": 1.1078363531599854e-05,
+        "denominator_eth": 1.0008652535986482e-05,
+        "health_factor_unadjusted": 1.1068786224486449,
+        "health_factor_adjusted": 0.8555358375880419,
+        "price_details_eth": {
+            "cbBTC": 27.849078762191688,
+            "USDC": 0.0002288581285525
+        }
+    },
+    {
+        "datetime_utc": "2025-10-10T01:00:00+00:00",
+        "numerator_eth": 1.1055375331870115e-05,
+        "denominator_eth": 9.976314016245915e-06,
+        "health_factor_unadjusted": 1.1081623246689112,
+        "health_factor_adjusted": 0.8565280450730862,
+        "price_details_eth": {
+            "cbBTC": 27.79129042702392,
+            "USDC": 0.0002281186750565
+        }
+    },
+    {
+        "datetime_utc": "2025-10-10T02:00:00+00:00",
+        "numerator_eth": 1.1069602746144652e-05,
+        "denominator_eth": 9.995145724463312e-06,
+        "health_factor_unadjusted": 1.1074978846032815,
+        "health_factor_adjusted": 0.8560144817278859,
+        "price_details_eth": {
+            "cbBTC": 27.827055671555183,
+            "USDC": 0.0002285492814228
+        }
+    },
+    {
+        "datetime_utc": "2025-10-10T03:00:00+00:00",
+        "numerator_eth": 1.1054969499094149e-05,
+        "denominator_eth": 1.002653237241159e-05,
+        "health_factor_unadjusted": 1.1025715659695414,
+        "health_factor_adjusted": 0.8522067994282505,
+        "price_details_eth": {
+            "cbBTC": 27.790270234022497,
+            "USDC": 0.0002292669693918
+        }
+    },
+    {
+        "datetime_utc": "2025-10-10T04:00:00+00:00",
+        "numerator_eth": 1.1096493871047875e-05,
+        "denominator_eth": 1.0043602311523235e-05,
+        "health_factor_unadjusted": 1.1048320639215907,
+        "health_factor_adjusted": 0.8539539982353739,
+        "price_details_eth": {
+            "cbBTC": 27.894655281668868,
+            "USDC": 0.0002296572910965
+        }
+    },
+    {
+        "datetime_utc": "2025-10-10T05:00:00+00:00",
+        "numerator_eth": 1.1114779023646085e-05,
+        "denominator_eth": 1.0063309619243552e-05,
+        "health_factor_unadjusted": 1.1044854470533096,
+        "health_factor_adjusted": 0.8536860888668913,
+        "price_details_eth": {
+            "cbBTC": 27.940620974474825,
+            "USDC": 0.0002301079189455
+        }
+    },
+    {
+        "datetime_utc": "2025-10-10T06:00:00+00:00",
+        "numerator_eth": 1.107632738391166e-05,
+        "denominator_eth": 1.0008660340953767e-05,
+        "health_factor_unadjusted": 1.1066743206969647,
+        "health_factor_adjusted": 0.8553779273468469,
+        "price_details_eth": {
+            "cbBTC": 27.84396024110523,
+            "USDC": 0.0002288583070211
+        }
+    },
+    {
+        "datetime_utc": "2025-10-10T07:00:00+00:00",
+        "numerator_eth": 1.1166085838486544e-05,
+        "denominator_eth": 1.010584065090566e-05,
+        "health_factor_unadjusted": 1.1049141010833046,
+        "health_factor_adjusted": 0.8540174069329823,
+        "price_details_eth": {
+            "cbBTC": 28.06959738181635,
+            "USDC": 0.0002310804347039
+        }
+    },
+    {
+        "datetime_utc": "2025-10-10T08:00:00+00:00",
+        "numerator_eth": 1.1140230638999596e-05,
+        "denominator_eth": 1.0102974653537625e-05,
+        "health_factor_unadjusted": 1.1026683745166845,
+        "health_factor_adjusted": 0.8522816253213394,
+        "price_details_eth": {
+            "cbBTC": 28.00460190799295,
+            "USDC": 0.000231014900728
+        }
+    },
+    {
+        "datetime_utc": "2025-10-10T09:00:00+00:00",
+        "numerator_eth": 1.1134956315865236e-05,
+        "denominator_eth": 1.0066054992710182e-05,
+        "health_factor_unadjusted": 1.1061887029158046,
+        "health_factor_adjusted": 0.8550025804870138,
+        "price_details_eth": {
+            "cbBTC": 27.991343177137345,
+            "USDC": 0.0002301706947319
+        }
+    },
+    {
+        "datetime_utc": "2025-10-10T10:00:00+00:00",
+        "numerator_eth": 1.118522690759111e-05,
+        "denominator_eth": 1.0114110443148425e-05,
+        "health_factor_unadjusted": 1.1059031805578403,
+        "health_factor_adjusted": 0.8547818926855539,
+        "price_details_eth": {
+            "cbBTC": 28.117714699826823,
+            "USDC": 0.0002312695320044
+        }
+    },
+    {
+        "datetime_utc": "2025-10-10T11:00:00+00:00",
+        "numerator_eth": 1.113474459082762e-05,
+        "denominator_eth": 1.0065144614407815e-05,
+        "health_factor_unadjusted": 1.1062677206732547,
+        "health_factor_adjusted": 0.8550636554070036,
+        "price_details_eth": {
+            "cbBTC": 27.990810937223777,
+            "USDC": 0.0002301498779962
+        }
+    },
+    {
+        "datetime_utc": "2025-10-10T12:00:00+00:00",
+        "numerator_eth": 1.1130069616335676e-05,
+        "denominator_eth": 1.006036173281701e-05,
+        "health_factor_unadjusted": 1.1063289682744972,
+        "health_factor_adjusted": 0.8551109953020621,
+        "price_details_eth": {
+            "cbBTC": 27.97905886459446,
+            "USDC": 0.0002300405124921
+        }
+    },
+    {
+        "datetime_utc": "2025-10-10T13:00:00+00:00",
+        "numerator_eth": 1.1136232710612061e-05,
+        "denominator_eth": 1.005750099946336e-05,
+        "health_factor_unadjusted": 1.1072564358886228,
+        "health_factor_adjusted": 0.8558278596140056,
+        "price_details_eth": {
+            "cbBTC": 27.99455181149337,
+            "USDC": 0.0002299750988833
+        }
+    },
+    {
+        "datetime_utc": "2025-10-10T14:00:00+00:00",
+        "numerator_eth": 1.1141395539261015e-05,
+        "denominator_eth": 1.0048384588579661e-05,
+        "health_factor_unadjusted": 1.1087747927088298,
+        "health_factor_adjusted": 0.8570014378615101,
+        "price_details_eth": {
+            "cbBTC": 28.00753026460788,
+            "USDC": 0.0002297666427773
+        }
+    },
+    {
+        "datetime_utc": "2025-10-10T15:00:00+00:00",
+        "numerator_eth": 1.1140872061668109e-05,
+        "denominator_eth": 1.010471153169155e-05,
+        "health_factor_unadjusted": 1.102542316693241,
+        "health_factor_adjusted": 0.8521841918870162,
+        "price_details_eth": {
+            "cbBTC": 28.006214333001783,
+            "USDC": 0.0002310546162324
+        }
+    },
+    {
+        "datetime_utc": "2025-10-10T16:00:00+00:00",
+        "numerator_eth": 1.156293406645495e-05,
+        "denominator_eth": 1.0672619271373148e-05,
+        "health_factor_unadjusted": 1.0834204586937592,
+        "health_factor_adjusted": 0.8374044007987794,
+        "price_details_eth": {
+            "cbBTC": 29.067204792496103,
+            "USDC": 0.0002440404104766
+        }
+    },
+    {
+        "datetime_utc": "2025-10-10T17:00:00+00:00",
+        "numerator_eth": 1.1496927216077043e-05,
+        "denominator_eth": 1.0640449053871593e-05,
+        "health_factor_unadjusted": 1.0804926707387237,
+        "health_factor_adjusted": 0.835141435854303,
+        "price_details_eth": {
+            "cbBTC": 28.90127505298402,
+            "USDC": 0.0002433048053843
+        }
+    },
+    {
+        "datetime_utc": "2025-10-10T18:00:00+00:00",
+        "numerator_eth": 1.1432893545888617e-05,
+        "denominator_eth": 1.0678509676778931e-05,
+        "health_factor_unadjusted": 1.070645051785657,
+        "health_factor_adjusted": 0.8275299500433096,
+        "price_details_eth": {
+            "cbBTC": 28.740305545220256,
+            "USDC": 0.0002441751006512
+        }
+    },
+    {
+        "datetime_utc": "2025-10-10T19:00:00+00:00",
+        "numerator_eth": 1.1487943338605103e-05,
+        "denominator_eth": 1.0767992196513638e-05,
+        "health_factor_unadjusted": 1.0668602956756008,
+        "health_factor_adjusted": 0.824604611688215,
+        "price_details_eth": {
+            "cbBTC": 28.8786911478258,
+            "USDC": 0.0002462212104478
+        }
+    },
+    {
+        "datetime_utc": "2025-10-10T20:00:00+00:00",
+        "numerator_eth": 1.1592715157168386e-05,
+        "denominator_eth": 1.0908168179062512e-05,
+        "health_factor_unadjusted": 1.0627554477405121,
+        "health_factor_adjusted": 0.8214318658739099,
+        "price_details_eth": {
+            "cbBTC": 29.142069273927564,
+            "USDC": 0.0002494264783816
+        }
+    },
+    {
+        "datetime_utc": "2025-10-10T21:00:00+00:00",
+        "numerator_eth": 1.1823838959200195e-05,
+        "denominator_eth": 1.1242356529789072e-05,
+        "health_factor_unadjusted": 1.0517224683161719,
+        "health_factor_adjusted": 0.8129041835233255,
+        "price_details_eth": {
+            "cbBTC": 29.72307430668727,
+            "USDC": 0.0002570680385473
+        }
+    },
+    {
+        "datetime_utc": "2025-10-10T22:00:00+00:00",
+        "numerator_eth": 1.1452458538293074e-05,
+        "denominator_eth": 1.1165237862264006e-05,
+        "health_factor_unadjusted": 1.0257245460931745,
+        "health_factor_adjusted": 0.7928097000691265,
+        "price_details_eth": {
+            "cbBTC": 28.78948853266233,
+            "USDC": 0.0002553046409408
+        }
+    },
+    {
+        "datetime_utc": "2025-10-10T23:00:00+00:00",
+        "numerator_eth": 1.1541021245973636e-05,
+        "denominator_eth": 1.1328345881112475e-05,
+        "health_factor_unadjusted": 1.0187737351148283,
+        "health_factor_adjusted": 0.7874372339543503,
+        "price_details_eth": {
+            "cbBTC": 29.01211977368938,
+            "USDC": 0.0002590342734574
+        }
+    },
+    {
+        "datetime_utc": "2025-10-11T00:00:00+00:00",
+        "numerator_eth": 1.1784793341839569e-05,
+        "denominator_eth": 1.1402004348120873e-05,
+        "health_factor_unadjusted": 1.033572079261817,
+        "health_factor_adjusted": 0.7988752665425146,
+        "price_details_eth": {
+            "cbBTC": 29.624920416891825,
+            "USDC": 0.0002607185500222
+        }
+    },
+    {
+        "datetime_utc": "2025-10-11T01:00:00+00:00",
+        "numerator_eth": 1.1634583821056628e-05,
+        "denominator_eth": 1.1366038073830658e-05,
+        "health_factor_unadjusted": 1.0236270321708911,
+        "health_factor_adjusted": 0.7911884759403386,
+        "price_details_eth": {
+            "cbBTC": 29.2473198116054,
+            "USDC": 0.0002598961441893
+        }
+    },
+    {
+        "datetime_utc": "2025-10-11T02:00:00+00:00",
+        "numerator_eth": 1.1825754251134227e-05,
+        "denominator_eth": 1.1649706448524838e-05,
+        "health_factor_unadjusted": 1.0151117801454717,
+        "health_factor_adjusted": 0.784606811857131,
+        "price_details_eth": {
+            "cbBTC": 29.727889017431444,
+            "USDC": 0.0002663825131714
+        }
+    },
+    {
+        "datetime_utc": "2025-10-11T03:00:00+00:00",
+        "numerator_eth": 1.1710003539174521e-05,
+        "denominator_eth": 1.1369131313901848e-05,
+        "health_factor_unadjusted": 1.0299822577346665,
+        "health_factor_adjusted": 0.7961005982954866,
+        "price_details_eth": {
+            "cbBTC": 29.436911863183813,
+            "USDC": 0.0002599668743032
+        }
+    },
+    {
+        "datetime_utc": "2025-10-11T04:00:00+00:00",
+        "numerator_eth": 1.1753530629038998e-05,
+        "denominator_eth": 1.1512061585077454e-05,
+        "health_factor_unadjusted": 1.0209753085645885,
+        "health_factor_adjusted": 0.7891388884511961,
+        "price_details_eth": {
+            "cbBTC": 29.546331395271487,
+            "USDC": 0.0002632351218777
+        }
+    },
+    {
+        "datetime_utc": "2025-10-11T05:00:00+00:00",
+        "numerator_eth": 1.1729313399084837e-05,
+        "denominator_eth": 1.1430971133890214e-05,
+        "health_factor_unadjusted": 1.0260994679892164,
+        "health_factor_adjusted": 0.7930994871441093,
+        "price_details_eth": {
+            "cbBTC": 29.48545349191764,
+            "USDC": 0.000261380905355
+        }
+    },
+    {
+        "datetime_utc": "2025-10-11T06:00:00+00:00",
+        "numerator_eth": 1.1763250975263506e-05,
+        "denominator_eth": 1.1512644532274653e-05,
+        "health_factor_unadjusted": 1.0217679302341265,
+        "health_factor_adjusted": 0.7897515267569558,
+        "price_details_eth": {
+            "cbBTC": 29.570766654759947,
+            "USDC": 0.0002632484515646
+        }
+    },
+    {
+        "datetime_utc": "2025-10-11T07:00:00+00:00",
+        "numerator_eth": 1.1791572212810452e-05,
+        "denominator_eth": 1.154933034303362e-05,
+        "health_factor_unadjusted": 1.0209745381404687,
+        "health_factor_adjusted": 0.7891382929699651,
+        "price_details_eth": {
+            "cbBTC": 29.641961319282185,
+            "USDC": 0.0002640873103385
+        }
+    },
+    {
+        "datetime_utc": "2025-10-11T08:00:00+00:00",
+        "numerator_eth": 1.1684696067725801e-05,
+        "denominator_eth": 1.162428862508095e-05,
+        "health_factor_unadjusted": 1.0051966571541,
+        "health_factor_adjusted": 0.7769431503849761,
+        "price_details_eth": {
+            "cbBTC": 29.373293282367523,
+            "USDC": 0.0002658013085103
+        }
+    },
+    {
+        "datetime_utc": "2025-10-11T09:00:00+00:00",
+        "numerator_eth": 1.1596309657085506e-05,
+        "denominator_eth": 1.1438529558118342e-05,
+        "health_factor_unadjusted": 1.0137937396730494,
+        "health_factor_adjusted": 0.7835880634264728,
+        "price_details_eth": {
+            "cbBTC": 29.15110522143164,
+            "USDC": 0.0002615537364946
+        }
+    },
+    {
+        "datetime_utc": "2025-10-11T10:00:00+00:00",
+        "numerator_eth": 1.1607356114950238e-05,
+        "denominator_eth": 1.1414249026396727e-05,
+        "health_factor_unadjusted": 1.016918072148849,
+        "health_factor_adjusted": 0.7860029428426762,
+        "price_details_eth": {
+            "cbBTC": 29.17887409489753,
+            "USDC": 0.0002609985371778
+        }
+    },
+    {
+        "datetime_utc": "2025-10-11T11:00:00+00:00",
+        "numerator_eth": 1.1647300097064656e-05,
+        "denominator_eth": 1.1395823803381895e-05,
+        "health_factor_unadjusted": 1.022067408027854,
+        "health_factor_adjusted": 0.7899830010847632,
+        "price_details_eth": {
+            "cbBTC": 29.27928631740738,
+            "USDC": 0.0002605772255135
+        }
+    },
+    {
+        "datetime_utc": "2025-10-11T12:00:00+00:00",
+        "numerator_eth": 1.1644159124387275e-05,
+        "denominator_eth": 1.1391472415495413e-05,
+        "health_factor_unadjusted": 1.0221820937342692,
+        "health_factor_adjusted": 0.7900716447082892,
+        "price_details_eth": {
+            "cbBTC": 29.271390458489883,
+            "USDC": 0.0002604777265565
+        }
+    },
+    {
+        "datetime_utc": "2025-10-11T13:00:00+00:00",
+        "numerator_eth": 1.1685449007128784e-05,
+        "denominator_eth": 1.14306858427318e-05,
+        "health_factor_unadjusted": 1.022287653418362,
+        "health_factor_adjusted": 0.7901532345871741,
+        "price_details_eth": {
+            "cbBTC": 29.375186041047723,
+            "USDC": 0.0002613743818794
+        }
+    },
+    {
+        "datetime_utc": "2025-10-11T14:00:00+00:00",
+        "numerator_eth": 1.1641312416896485e-05,
+        "denominator_eth": 1.139763491592862e-05,
+        "health_factor_unadjusted": 1.021379654881498,
+        "health_factor_adjusted": 0.7894514184412933,
+        "price_details_eth": {
+            "cbBTC": 29.264234331062056,
+            "USDC": 0.0002606186384636
+        }
+    },
+    {
+        "datetime_utc": "2025-10-11T15:00:00+00:00",
+        "numerator_eth": 1.1665844640222922e-05,
+        "denominator_eth": 1.1453336669745012e-05,
+        "health_factor_unadjusted": 1.0185542411443531,
+        "health_factor_adjusted": 0.7872675812444077,
+        "price_details_eth": {
+            "cbBTC": 29.325904072958576,
+            "USDC": 0.0002618923163228
+        }
+    },
+    {
+        "datetime_utc": "2025-10-11T16:00:00+00:00",
+        "numerator_eth": 1.1626935249856552e-05,
+        "denominator_eth": 1.1405536880815396e-05,
+        "health_factor_unadjusted": 1.0194114815772992,
+        "health_factor_adjusted": 0.7879301651058543,
+        "price_details_eth": {
+            "cbBTC": 29.22809263412909,
+            "USDC": 0.0002607993250135
+        }
+    },
+    {
+        "datetime_utc": "2025-10-11T17:00:00+00:00",
+        "numerator_eth": 1.1647184195808642e-05,
+        "denominator_eth": 1.1434406843511418e-05,
+        "health_factor_unadjusted": 1.0186085168395043,
+        "health_factor_adjusted": 0.7873095323683792,
+        "price_details_eth": {
+            "cbBTC": 29.27899496181157,
+            "USDC": 0.0002614594663872
+        }
+    },
+    {
+        "datetime_utc": "2025-10-11T18:00:00+00:00",
+        "numerator_eth": 1.163643591977532e-05,
+        "denominator_eth": 1.1417358391013069e-05,
+        "health_factor_unadjusted": 1.019188110004035,
+        "health_factor_adjusted": 0.7877575152938965,
+        "price_details_eth": {
+            "cbBTC": 29.251975665599097,
+            "USDC": 0.000261069635996
+        }
+    },
+    {
+        "datetime_utc": "2025-10-11T19:00:00+00:00",
+        "numerator_eth": 1.1686778993151815e-05,
+        "denominator_eth": 1.1456377832393616e-05,
+        "health_factor_unadjusted": 1.0201111698766365,
+        "health_factor_adjusted": 0.7884709727455392,
+        "price_details_eth": {
+            "cbBTC": 29.37852939454956,
+            "USDC": 0.0002619618556329
+        }
+    },
+    {
+        "datetime_utc": "2025-10-11T20:00:00+00:00",
+        "numerator_eth": 1.1736245447722787e-05,
+        "denominator_eth": 1.1615704488347827e-05,
+        "health_factor_unadjusted": 1.0103774127084482,
+        "health_factor_adjusted": 0.7809474937272687,
+        "price_details_eth": {
+            "cbBTC": 29.502879456316712,
+            "USDC": 0.0002656050233999
+        }
+    },
+    {
+        "datetime_utc": "2025-10-11T21:00:00+00:00",
+        "numerator_eth": 1.1899942829789221e-05,
+        "denominator_eth": 1.186058108912575e-05,
+        "health_factor_unadjusted": 1.0033187025465016,
+        "health_factor_adjusted": 0.7754916294724032,
+        "price_details_eth": {
+            "cbBTC": 29.914386198565158,
+            "USDC": 0.0002712043785957
+        }
+    },
+    {
+        "datetime_utc": "2025-10-11T22:00:00+00:00",
+        "numerator_eth": 1.1797738603968679e-05,
+        "denominator_eth": 1.1691609740881445e-05,
+        "health_factor_unadjusted": 1.0090773525151235,
+        "health_factor_adjusted": 0.7799426427310949,
+        "price_details_eth": {
+            "cbBTC": 29.657462553968525,
+            "USDC": 0.0002673406750253
+        }
+    },
+    {
+        "datetime_utc": "2025-10-11T23:00:00+00:00",
+        "numerator_eth": 1.1790245274746692e-05,
+        "denominator_eth": 1.1673415933292736e-05,
+        "health_factor_unadjusted": 1.0100081537505021,
+        "health_factor_adjusted": 0.7806620836873002,
+        "price_details_eth": {
+            "cbBTC": 29.63862562781974,
+            "USDC": 0.0002669246549126
+        }
+    },
+    {
+        "datetime_utc": "2025-10-12T00:00:00+00:00",
+        "numerator_eth": 1.1773545382776672e-05,
+        "denominator_eth": 1.1668676586587069e-05,
+        "health_factor_unadjusted": 1.0089872056536513,
+        "health_factor_adjusted": 0.7798729658315041,
+        "price_details_eth": {
+            "cbBTC": 29.596645004466247,
+            "USDC": 0.0002668162848784
+        }
+    },
+    {
+        "datetime_utc": "2025-10-12T01:00:00+00:00",
+        "numerator_eth": 1.1795708384551772e-05,
+        "denominator_eth": 1.1793732369887842e-05,
+        "health_factor_unadjusted": 1.000167547863726,
+        "health_factor_adjusted": 0.7730560184612032,
+        "price_details_eth": {
+            "cbBTC": 29.652358935524816,
+            "USDC": 0.0002696758139137
+        }
+    },
+    {
+        "datetime_utc": "2025-10-12T02:00:00+00:00",
+        "numerator_eth": 1.1765922401072866e-05,
+        "denominator_eth": 1.1755853345599666e-05,
+        "health_factor_unadjusted": 1.0008565142127235,
+        "health_factor_adjusted": 0.7735885388211642,
+        "price_details_eth": {
+            "cbBTC": 29.57748215453209,
+            "USDC": 0.0002688096710859
+        }
+    },
+    {
+        "datetime_utc": "2025-10-12T03:00:00+00:00",
+        "numerator_eth": 1.1714097354588854e-05,
+        "denominator_eth": 1.1698799319268865e-05,
+        "health_factor_unadjusted": 1.001307658581235,
+        "health_factor_adjusted": 0.7739372402662548,
+        "price_details_eth": {
+            "cbBTC": 29.447203002988577,
+            "USDC": 0.0002675050721256
+        }
+    },
+    {
+        "datetime_utc": "2025-10-12T04:00:00+00:00",
+        "numerator_eth": 1.1653384848339847e-05,
+        "denominator_eth": 1.156258117650871e-05,
+        "health_factor_unadjusted": 1.0078532354017649,
+        "health_factor_adjusted": 0.7789964901551546,
+        "price_details_eth": {
+            "cbBTC": 29.294582323629577,
+            "USDC": 0.000264390304267
+        }
+    },
+    {
+        "datetime_utc": "2025-10-12T05:00:00+00:00",
+        "numerator_eth": 1.1665411415550158e-05,
+        "denominator_eth": 1.1497372332866805e-05,
+        "health_factor_unadjusted": 1.0146154336676554,
+        "health_factor_adjusted": 0.7842231725031673,
+        "price_details_eth": {
+            "cbBTC": 29.32481502149361,
+            "USDC": 0.0002628992370262
+        }
+    },
+    {
+        "datetime_utc": "2025-10-12T06:00:00+00:00",
+        "numerator_eth": 1.1665203429005386e-05,
+        "denominator_eth": 1.146768373700252e-05,
+        "health_factor_unadjusted": 1.017224026798501,
+        "health_factor_adjusted": 0.7862394233041697,
+        "price_details_eth": {
+            "cbBTC": 29.324292179500716,
+            "USDC": 0.0002622203767636
+        }
+    },
+    {
+        "datetime_utc": "2025-10-12T07:00:00+00:00",
+        "numerator_eth": 1.1608539209836549e-05,
+        "denominator_eth": 1.1403280568357885e-05,
+        "health_factor_unadjusted": 1.017999964154896,
+        "health_factor_adjusted": 0.7868391658618954,
+        "price_details_eth": {
+            "cbBTC": 29.18184818963436,
+            "USDC": 0.0002607477321098
+        }
+    },
+    {
+        "datetime_utc": "2025-10-12T08:00:00+00:00",
+        "numerator_eth": 1.1596423758597252e-05,
+        "denominator_eth": 1.1416819922660319e-05,
+        "health_factor_unadjusted": 1.015731511677823,
+        "health_factor_adjusted": 0.7850858187914568,
+        "price_details_eth": {
+            "cbBTC": 29.15139205278344,
+            "USDC": 0.0002610573233636
+        }
+    },
+    {
+        "datetime_utc": "2025-10-12T09:00:00+00:00",
+        "numerator_eth": 1.1592427057990677e-05,
+        "denominator_eth": 1.1422506459238871e-05,
+        "health_factor_unadjusted": 1.0148759468298982,
+        "health_factor_adjusted": 0.7844245300341034,
+        "price_details_eth": {
+            "cbBTC": 29.14134504271161,
+            "USDC": 0.0002611873518679
+        }
+    },
+    {
+        "datetime_utc": "2025-10-12T10:00:00+00:00",
+        "numerator_eth": 1.1574113299021518e-05,
+        "denominator_eth": 1.1371562610147977e-05,
+        "health_factor_unadjusted": 1.0178120365527237,
+        "health_factor_adjusted": 0.7866939116350364,
+        "price_details_eth": {
+            "cbBTC": 29.095307438465355,
+            "USDC": 0.0002600224683911
+        }
+    },
+    {
+        "datetime_utc": "2025-10-12T11:00:00+00:00",
+        "numerator_eth": 1.164535351277959e-05,
+        "denominator_eth": 1.1448573168026441e-05,
+        "health_factor_unadjusted": 1.0171881982029618,
+        "health_factor_adjusted": 0.7862117304326365,
+        "price_details_eth": {
+            "cbBTC": 29.274392943136228,
+            "USDC": 0.0002617833939594
+        }
+    },
+    {
+        "datetime_utc": "2025-10-12T12:00:00+00:00",
+        "numerator_eth": 1.1640868403934527e-05,
+        "denominator_eth": 1.1435747229094668e-05,
+        "health_factor_unadjusted": 1.0179368405693676,
+        "health_factor_adjusted": 0.7867903759688382,
+        "price_details_eth": {
+            "cbBTC": 29.26311815971475,
+            "USDC": 0.0002614901156814
+        }
+    },
+    {
+        "datetime_utc": "2025-10-12T13:00:00+00:00",
+        "numerator_eth": 1.162220584034377e-05,
+        "denominator_eth": 1.141861870917907e-05,
+        "health_factor_unadjusted": 1.0178294009415554,
+        "health_factor_adjusted": 0.7867073330316033,
+        "price_details_eth": {
+            "cbBTC": 29.21620372132672,
+            "USDC": 0.0002610984544664
+        }
+    },
+    {
+        "datetime_utc": "2025-10-12T14:00:00+00:00",
+        "numerator_eth": 1.160379606282107e-05,
+        "denominator_eth": 1.1445318446848462e-05,
+        "health_factor_unadjusted": 1.013846501231798,
+        "health_factor_adjusted": 0.7836288442342696,
+        "price_details_eth": {
+            "cbBTC": 29.169924743139948,
+            "USDC": 0.000261708971414
+        }
+    },
+    {
+        "datetime_utc": "2025-10-12T15:00:00+00:00",
+        "numerator_eth": 1.1172395543240454e-05,
+        "denominator_eth": 1.0897631360778719e-05,
+        "health_factor_unadjusted": 1.0252132021505727,
+        "health_factor_adjusted": 0.7924144687769532,
+        "price_details_eth": {
+            "cbBTC": 28.08545888195187,
+            "USDC": 0.0002491855432003
+        }
+    },
+    {
+        "datetime_utc": "2025-10-12T16:00:00+00:00",
+        "numerator_eth": 1.1105598693867622e-05,
+        "denominator_eth": 1.0754807826842573e-05,
+        "health_factor_unadjusted": 1.0326171208889035,
+        "health_factor_adjusted": 0.7981371538941513,
+        "price_details_eth": {
+            "cbBTC": 27.91754322239221,
+            "USDC": 0.0002459197362825
+        }
+    },
+    {
+        "datetime_utc": "2025-10-12T17:00:00+00:00",
+        "numerator_eth": 1.1064775935980446e-05,
+        "denominator_eth": 1.0647969904757198e-05,
+        "health_factor_unadjusted": 1.0391441781815172,
+        "health_factor_adjusted": 0.8031820895488558,
+        "price_details_eth": {
+            "cbBTC": 27.814921910458636,
+            "USDC": 0.0002434767773708
+        }
+    },
+    {
+        "datetime_utc": "2025-10-12T18:00:00+00:00",
+        "numerator_eth": 1.0972607687781475e-05,
+        "denominator_eth": 1.0582041011968952e-05,
+        "health_factor_unadjusted": 1.0369084447292132,
+        "health_factor_adjusted": 0.801454031880248,
+        "price_details_eth": {
+            "cbBTC": 27.583226967776454,
+            "USDC": 0.0002419692454661
+        }
+    },
+    {
+        "datetime_utc": "2025-10-12T19:00:00+00:00",
+        "numerator_eth": 1.1008933955127764e-05,
+        "denominator_eth": 1.0645093858451036e-05,
+        "health_factor_unadjusted": 1.0341791346807034,
+        "health_factor_adjusted": 0.7993444757726201,
+        "price_details_eth": {
+            "cbBTC": 27.67454488468518,
+            "USDC": 0.0002434110136156
+        }
+    },
+    {
+        "datetime_utc": "2025-10-12T20:00:00+00:00",
+        "numerator_eth": 1.0992380608460404e-05,
+        "denominator_eth": 1.056324704491509e-05,
+        "health_factor_unadjusted": 1.0406251564240268,
+        "health_factor_adjusted": 0.8043267769025172,
+        "price_details_eth": {
+            "cbBTC": 27.632932650730023,
+            "USDC": 0.0002415395020903
+        }
+    },
+    {
+        "datetime_utc": "2025-10-12T21:00:00+00:00",
+        "numerator_eth": 1.1061625596513943e-05,
+        "denominator_eth": 1.0546978979620196e-05,
+        "health_factor_unadjusted": 1.0487956426089589,
+        "health_factor_adjusted": 0.8106419623257064,
+        "price_details_eth": {
+            "cbBTC": 27.807002505062705,
+            "USDC": 0.0002411675160547
+        }
+    },
+    {
+        "datetime_utc": "2025-10-12T22:00:00+00:00",
+        "numerator_eth": 1.1025383530961102e-05,
+        "denominator_eth": 1.0556418234214163e-05,
+        "health_factor_unadjusted": 1.0444246605564553,
+        "health_factor_adjusted": 0.8072635143951662,
+        "price_details_eth": {
+            "cbBTC": 27.71589625681524,
+            "USDC": 0.000241383354314
+        }
+    },
+    {
+        "datetime_utc": "2025-10-12T23:00:00+00:00",
+        "numerator_eth": 1.1089549206685555e-05,
+        "denominator_eth": 1.0555302301339228e-05,
+        "health_factor_unadjusted": 1.050614079075551,
+        "health_factor_adjusted": 0.8120474800888962,
+        "price_details_eth": {
+            "cbBTC": 27.87719760353332,
+            "USDC": 0.0002413578373617
+        }
+    },
+    {
+        "datetime_utc": "2025-10-13T00:00:00+00:00",
+        "numerator_eth": 1.1007663569224362e-05,
+        "denominator_eth": 1.0512628122056192e-05,
+        "health_factor_unadjusted": 1.0470895994246723,
+        "health_factor_adjusted": 0.8093233163106618,
+        "price_details_eth": {
+            "cbBTC": 27.671351355516244,
+            "USDC": 0.0002403820483858
+        }
+    },
+    {
+        "datetime_utc": "2025-10-13T01:00:00+00:00",
+        "numerator_eth": 1.1059674619267074e-05,
+        "denominator_eth": 1.0533457502602833e-05,
+        "health_factor_unadjusted": 1.0499567323012613,
+        "health_factor_adjusted": 0.8115393993366601,
+        "price_details_eth": {
+            "cbBTC": 27.80209808764976,
+            "USDC": 0.0002408583335834
+        }
+    },
+    {
+        "datetime_utc": "2025-10-13T02:00:00+00:00",
+        "numerator_eth": 1.102378964094036e-05,
+        "denominator_eth": 1.0458176723770377e-05,
+        "health_factor_unadjusted": 1.0540833198854254,
+        "health_factor_adjusted": 0.81472894830219,
+        "price_details_eth": {
+            "cbBTC": 27.71188949457104,
+            "USDC": 0.0002391369611911
+        }
+    },
+    {
+        "datetime_utc": "2025-10-13T03:00:00+00:00",
+        "numerator_eth": 1.1027512958236483e-05,
+        "denominator_eth": 1.049409662046923e-05,
+        "health_factor_unadjusted": 1.0508301340323853,
+        "health_factor_adjusted": 0.812214474694006,
+        "price_details_eth": {
+            "cbBTC": 27.72124926655727,
+            "USDC": 0.0002399583065527
+        }
+    },
+    {
+        "datetime_utc": "2025-10-13T04:00:00+00:00",
+        "numerator_eth": 1.1032136598657789e-05,
+        "denominator_eth": 1.0561804922492987e-05,
+        "health_factor_unadjusted": 1.0445313731522496,
+        "health_factor_adjusted": 0.807345995390076,
+        "price_details_eth": {
+            "cbBTC": 27.73287229426292,
+            "USDC": 0.0002415065264787
+        }
+    },
+    {
+        "datetime_utc": "2025-10-13T05:00:00+00:00",
+        "numerator_eth": 1.1014266955748373e-05,
+        "denominator_eth": 1.0553452193908817e-05,
+        "health_factor_unadjusted": 1.0436648362424503,
+        "health_factor_adjusted": 0.8066762260351615,
+        "price_details_eth": {
+            "cbBTC": 27.68795112053387,
+            "USDC": 0.0002413155327535
+        }
+    },
+    {
+        "datetime_utc": "2025-10-13T06:00:00+00:00",
+        "numerator_eth": 1.104687969284283e-05,
+        "denominator_eth": 1.0580245518020303e-05,
+        "health_factor_unadjusted": 1.0441042860515624,
+        "health_factor_adjusted": 0.807015888445196,
+        "price_details_eth": {
+            "cbBTC": 27.769933868383184,
+            "USDC": 0.0002419281896513
+        }
+    },
+    {
+        "datetime_utc": "2025-10-13T07:00:00+00:00",
+        "numerator_eth": 1.09820922742995e-05,
+        "denominator_eth": 1.0474771728786454e-05,
+        "health_factor_unadjusted": 1.0484326111010938,
+        "health_factor_adjusted": 0.8103613656470343,
+        "price_details_eth": {
+            "cbBTC": 27.60706956837481,
+            "USDC": 0.0002395164230395
+        }
+    },
+    {
+        "datetime_utc": "2025-10-13T08:00:00+00:00",
+        "numerator_eth": 1.097846707486727e-05,
+        "denominator_eth": 1.0471671625498777e-05,
+        "health_factor_unadjusted": 1.0483968049699375,
+        "health_factor_adjusted": 0.8103336901388185,
+        "price_details_eth": {
+            "cbBTC": 27.597956447630143,
+            "USDC": 0.0002394455359911
+        }
+    },
+    {
+        "datetime_utc": "2025-10-13T09:00:00+00:00",
+        "numerator_eth": 1.0969165692939544e-05,
+        "denominator_eth": 1.0451820582709637e-05,
+        "health_factor_unadjusted": 1.0494980856335927,
+        "health_factor_adjusted": 0.8111848991656181,
+        "price_details_eth": {
+            "cbBTC": 27.57457439150212,
+            "USDC": 0.000238991621492
+        }
+    },
+    {
+        "datetime_utc": "2025-10-13T10:00:00+00:00",
+        "numerator_eth": 1.1006832318309908e-05,
+        "denominator_eth": 1.0500127648798595e-05,
+        "health_factor_unadjusted": 1.0482570009107737,
+        "health_factor_adjusted": 0.8102256318744079,
+        "price_details_eth": {
+            "cbBTC": 27.669261735319026,
+            "USDC": 0.000240096212215
+        }
+    },
+    {
+        "datetime_utc": "2025-10-13T11:00:00+00:00",
+        "numerator_eth": 1.1002261550045953e-05,
+        "denominator_eth": 1.0522981197303783e-05,
+        "health_factor_unadjusted": 1.04554606187693,
+        "health_factor_adjusted": 0.8081302752111464,
+        "price_details_eth": {
+            "cbBTC": 27.65777161901949,
+            "USDC": 0.0002406187820937
+        }
+    },
+    {
+        "datetime_utc": "2025-10-13T12:00:00+00:00",
+        "numerator_eth": 1.1151937416998325e-05,
+        "denominator_eth": 1.0723724037830596e-05,
+        "health_factor_unadjusted": 1.0399314060728437,
+        "health_factor_adjusted": 0.8037905588604131,
+        "price_details_eth": {
+            "cbBTC": 28.03403071140856,
+            "USDC": 0.0002452089734944
+        }
+    },
+    {
+        "datetime_utc": "2025-10-13T13:00:00+00:00",
+        "numerator_eth": 1.1097579149107607e-05,
+        "denominator_eth": 1.0655702079293423e-05,
+        "health_factor_unadjusted": 1.0414686021180017,
+        "health_factor_adjusted": 0.8049786984444282,
+        "price_details_eth": {
+            "cbBTC": 27.897383481919576,
+            "USDC": 0.0002436535814898
+        }
+    },
+    {
+        "datetime_utc": "2025-10-13T14:00:00+00:00",
+        "numerator_eth": 1.0999808480508866e-05,
+        "denominator_eth": 1.0503248739356174e-05,
+        "health_factor_unadjusted": 1.0472767763075115,
+        "health_factor_adjusted": 0.8094679902866418,
+        "price_details_eth": {
+            "cbBTC": 27.65160502893129,
+            "USDC": 0.0002401675791589
+        }
+    },
+    {
+        "datetime_utc": "2025-10-13T15:00:00+00:00",
+        "numerator_eth": 1.1104930715071638e-05,
+        "denominator_eth": 1.0684916819513549e-05,
+        "health_factor_unadjusted": 1.0393090468229973,
+        "health_factor_adjusted": 0.803309520893558,
+        "price_details_eth": {
+            "cbBTC": 27.915864039898537,
+            "USDC": 0.000244321606556
+        }
+    },
+    {
+        "datetime_utc": "2025-10-13T16:00:00+00:00",
+        "numerator_eth": 1.1022539547494321e-05,
+        "denominator_eth": 1.0570493329985597e-05,
+        "health_factor_unadjusted": 1.042764912043073,
+        "health_factor_adjusted": 0.8059806507588257,
+        "price_details_eth": {
+            "cbBTC": 27.708746977109907,
+            "USDC": 0.0002417051958472
+        }
+    },
+    {
+        "datetime_utc": "2025-10-13T17:00:00+00:00",
+        "numerator_eth": 1.0938801399249283e-05,
+        "denominator_eth": 1.0479043126151424e-05,
+        "health_factor_unadjusted": 1.0438740701381874,
+        "health_factor_adjusted": 0.8068379484612802,
+        "price_details_eth": {
+            "cbBTC": 27.498243839239024,
+            "USDC": 0.000239614092931
+        }
+    },
+    {
+        "datetime_utc": "2025-10-13T18:00:00+00:00",
+        "numerator_eth": 1.078534672661995e-05,
+        "denominator_eth": 1.0362023230800396e-05,
+        "health_factor_unadjusted": 1.040853362937969,
+        "health_factor_adjusted": 0.8045031637683299,
+        "price_details_eth": {
+            "cbBTC": 27.112485486726875,
+            "USDC": 0.0002369383127341
+        }
+    },
+    {
+        "datetime_utc": "2025-10-13T19:00:00+00:00",
+        "numerator_eth": 1.0854825407815325e-05,
+        "denominator_eth": 1.035795953704324e-05,
+        "health_factor_unadjusted": 1.0479694740064527,
+        "health_factor_adjusted": 0.8100033947059159,
+        "price_details_eth": {
+            "cbBTC": 27.287142804965622,
+            "USDC": 0.0002368453921991
+        }
+    },
+    {
+        "datetime_utc": "2025-10-13T20:00:00+00:00",
+        "numerator_eth": 1.0797063397772799e-05,
+        "denominator_eth": 1.0245854271753178e-05,
+        "health_factor_unadjusted": 1.0537982594130049,
+        "health_factor_adjusted": 0.8145086175043144,
+        "price_details_eth": {
+            "cbBTC": 27.141939159810956,
+            "USDC": 0.0002342819900705
+        }
+    },
+    {
+        "datetime_utc": "2025-10-13T21:00:00+00:00",
+        "numerator_eth": 1.0778958722123324e-05,
+        "denominator_eth": 1.0249349101852296e-05,
+        "health_factor_unadjusted": 1.0516725125671946,
+        "health_factor_adjusted": 0.8128655714003006,
+        "price_details_eth": {
+            "cbBTC": 27.096427154658937,
+            "USDC": 0.0002343619029532
+        }
+    },
+    {
+        "datetime_utc": "2025-10-13T22:00:00+00:00",
+        "numerator_eth": 1.080398874404124e-05,
+        "denominator_eth": 1.0258039345868508e-05,
+        "health_factor_unadjusted": 1.0532216128019256,
+        "health_factor_adjusted": 0.8140629120480913,
+        "price_details_eth": {
+            "cbBTC": 27.159348275619003,
+            "USDC": 0.0002345606143157
+        }
+    },
+    {
+        "datetime_utc": "2025-10-13T23:00:00+00:00",
+        "numerator_eth": 1.0756404051161373e-05,
+        "denominator_eth": 1.0223722889211473e-05,
+        "health_factor_unadjusted": 1.0521024647990027,
+        "health_factor_adjusted": 0.8131978928809965,
+        "price_details_eth": {
+            "cbBTC": 27.03972863539812,
+            "USDC": 0.0002337759332589
+        }
+    },
+    {
+        "datetime_utc": "2025-10-14T00:00:00+00:00",
+        "numerator_eth": 1.0788522556891339e-05,
+        "denominator_eth": 1.0299247604910187e-05,
+        "health_factor_unadjusted": 1.047505892736076,
+        "health_factor_adjusted": 0.8096450804495936,
+        "price_details_eth": {
+            "cbBTC": 27.12046897157199,
+            "USDC": 0.0002355028835184
+        }
+    },
+    {
+        "datetime_utc": "2025-10-14T01:00:00+00:00",
+        "numerator_eth": 1.0803469344548221e-05,
+        "denominator_eth": 1.0322578195096052e-05,
+        "health_factor_unadjusted": 1.0465863411604504,
+        "health_factor_adjusted": 0.8089343346537103,
+        "price_details_eth": {
+            "cbBTC": 27.15804259564661,
+            "USDC": 0.0002360363614455
+        }
+    },
+    {
+        "datetime_utc": "2025-10-14T02:00:00+00:00",
+        "numerator_eth": 1.0818626590210192e-05,
+        "denominator_eth": 1.0385932888209192e-05,
+        "health_factor_unadjusted": 1.0416615153071347,
+        "health_factor_adjusted": 0.8051278061636481,
+        "price_details_eth": {
+            "cbBTC": 27.196145274535425,
+            "USDC": 0.0002374850316285
+        }
+    },
+    {
+        "datetime_utc": "2025-10-14T03:00:00+00:00",
+        "numerator_eth": 1.0828832802435929e-05,
+        "denominator_eth": 1.0469631454507219e-05,
+        "health_factor_unadjusted": 1.034308881787245,
+        "health_factor_adjusted": 0.799444760751676,
+        "price_details_eth": {
+            "cbBTC": 27.221801916631293,
+            "USDC": 0.0002393988853842
+        }
+    },
+    {
+        "datetime_utc": "2025-10-14T04:00:00+00:00",
+        "numerator_eth": 1.0866202631096915e-05,
+        "denominator_eth": 1.0511224300636878e-05,
+        "health_factor_unadjusted": 1.0337713591021485,
+        "health_factor_adjusted": 0.7990292952152658,
+        "price_details_eth": {
+            "cbBTC": 27.315743165150614,
+            "USDC": 0.000240349948566
+        }
+    },
+    {
+        "datetime_utc": "2025-10-14T05:00:00+00:00",
+        "numerator_eth": 1.0992830220651452e-05,
+        "denominator_eth": 1.0677998384331047e-05,
+        "health_factor_unadjusted": 1.0294841621986375,
+        "health_factor_adjusted": 0.7957156070480519,
+        "price_details_eth": {
+            "cbBTC": 27.63406289756524,
+            "USDC": 0.0002441634094238
+        }
+    },
+    {
+        "datetime_utc": "2025-10-14T06:00:00+00:00",
+        "numerator_eth": 1.101968871073968e-05,
+        "denominator_eth": 1.0738359540627349e-05,
+        "health_factor_unadjusted": 1.0261985239968876,
+        "health_factor_adjusted": 0.7931760501590346,
+        "price_details_eth": {
+            "cbBTC": 27.70158046943107,
+            "USDC": 0.0002455436293103
+        }
+    },
+    {
+        "datetime_utc": "2025-10-14T07:00:00+00:00",
+        "numerator_eth": 1.1121317439424192e-05,
+        "denominator_eth": 1.0909077897521378e-05,
+        "health_factor_unadjusted": 1.0194553145459742,
+        "health_factor_adjusted": 0.7879640447696302,
+        "price_details_eth": {
+            "cbBTC": 27.957057414339346,
+            "USDC": 0.0002494472800293
+        }
+    },
+    {
+        "datetime_utc": "2025-10-14T08:00:00+00:00",
+        "numerator_eth": 1.1167155564857342e-05,
+        "denominator_eth": 1.0981032042257521e-05,
+        "health_factor_unadjusted": 1.0169495473543446,
+        "health_factor_adjusted": 0.7860272708636089,
+        "price_details_eth": {
+            "cbBTC": 28.0722864878264,
+            "USDC": 0.0002510925855134
+        }
+    },
+    {
+        "datetime_utc": "2025-10-14T09:00:00+00:00",
+        "numerator_eth": 1.1145770131040243e-05,
+        "denominator_eth": 1.0947961839767233e-05,
+        "health_factor_unadjusted": 1.0180680472007577,
+        "health_factor_adjusted": 0.7868917890533507,
+        "price_details_eth": {
+            "cbBTC": 28.01852722735104,
+            "USDC": 0.0002503364013392
+        }
+    },
+    {
+        "datetime_utc": "2025-10-14T10:00:00+00:00",
+        "numerator_eth": 1.113363726399505e-05,
+        "denominator_eth": 1.0993061743104312e-05,
+        "health_factor_unadjusted": 1.0127876586319473,
+        "health_factor_adjusted": 0.7828104367122839,
+        "price_details_eth": {
+            "cbBTC": 27.98802731019369,
+            "USDC": 0.0002513676569891
+        }
+    },
+    {
+        "datetime_utc": "2025-10-14T11:00:00+00:00",
+        "numerator_eth": 1.1165246936737757e-05,
+        "denominator_eth": 1.1102539636336069e-05,
+        "health_factor_unadjusted": 1.005648014099086,
+        "health_factor_adjusted": 0.7772920161360605,
+        "price_details_eth": {
+            "cbBTC": 28.06748852875253,
+            "USDC": 0.0002538709815548
+        }
+    },
+    {
+        "datetime_utc": "2025-10-14T12:00:00+00:00",
+        "numerator_eth": 1.117371819957056e-05,
+        "denominator_eth": 1.1001721599026809e-05,
+        "health_factor_unadjusted": 1.015633607794526,
+        "health_factor_adjusted": 0.7850101462840104,
+        "price_details_eth": {
+            "cbBTC": 28.088783809880745,
+            "USDC": 0.0002515656734966
+        }
+    },
+    {
+        "datetime_utc": "2025-10-14T13:00:00+00:00",
+        "numerator_eth": 1.1184334220400314e-05,
+        "denominator_eth": 1.1062799135703708e-05,
+        "health_factor_unadjusted": 1.0109859252803721,
+        "health_factor_adjusted": 0.7814178292295951,
+        "price_details_eth": {
+            "cbBTC": 28.115470639518133,
+            "USDC": 0.0002529622741569
+        }
+    },
+    {
+        "datetime_utc": "2025-10-14T14:00:00+00:00",
+        "numerator_eth": 1.1159182826486808e-05,
+        "denominator_eth": 1.1049399749899873e-05,
+        "health_factor_unadjusted": 1.0099356597708333,
+        "health_factor_adjusted": 0.780606051168144,
+        "price_details_eth": {
+            "cbBTC": 28.052244410474632,
+            "USDC": 0.0002526558834267
+        }
+    },
+    {
+        "datetime_utc": "2025-10-14T15:00:00+00:00",
+        "numerator_eth": 1.1165966183557108e-05,
+        "denominator_eth": 1.0986617219902818e-05,
+        "health_factor_unadjusted": 1.0163243116661413,
+        "health_factor_adjusted": 0.7855440096212754,
+        "price_details_eth": {
+            "cbBTC": 28.06929659013853,
+            "USDC": 0.0002512202963415
+        }
+    },
+    {
+        "datetime_utc": "2025-10-14T16:00:00+00:00",
+        "numerator_eth": 1.1006711827828773e-05,
+        "denominator_eth": 1.0745086557584044e-05,
+        "health_factor_unadjusted": 1.0243483632116552,
+        "health_factor_adjusted": 0.7917460118287571,
+        "price_details_eth": {
+            "cbBTC": 27.668958843209584,
+            "USDC": 0.000245697449468
+        }
+    },
+    {
+        "datetime_utc": "2025-10-14T17:00:00+00:00",
+        "numerator_eth": 1.0849824311544518e-05,
+        "denominator_eth": 1.0569208501021243e-05,
+        "health_factor_unadjusted": 1.026550314576173,
+        "health_factor_adjusted": 0.7934479584259398,
+        "price_details_eth": {
+            "cbBTC": 27.27457091891533,
+            "USDC": 0.0002416758169122
+        }
+    },
+    {
+        "datetime_utc": "2025-10-14T18:00:00+00:00",
+        "numerator_eth": 1.0906021464253708e-05,
+        "denominator_eth": 1.0624168513165544e-05,
+        "health_factor_unadjusted": 1.0265294127007576,
+        "health_factor_adjusted": 0.7934318028121915,
+        "price_details_eth": {
+            "cbBTC": 27.415840784951502,
+            "USDC": 0.0002429325340856
+        }
+    },
+    {
+        "datetime_utc": "2025-10-14T19:00:00+00:00",
+        "numerator_eth": 1.0899230977874024e-05,
+        "denominator_eth": 1.0615662407951693e-05,
+        "health_factor_unadjusted": 1.0267122821944605,
+        "health_factor_adjusted": 0.7935731474928922,
+        "price_details_eth": {
+            "cbBTC": 27.398770683444003,
+            "USDC": 0.0002427380332461
+        }
+    },
+    {
+        "datetime_utc": "2025-10-14T20:00:00+00:00",
+        "numerator_eth": 1.0915584031951354e-05,
+        "denominator_eth": 1.0645471692621527e-05,
+        "health_factor_unadjusted": 1.0253734495876818,
+        "health_factor_adjusted": 0.7925383282702599,
+        "price_details_eth": {
+            "cbBTC": 27.43987941667007,
+            "USDC": 0.0002434196531823
+        }
+    },
+    {
+        "datetime_utc": "2025-10-14T21:00:00+00:00",
+        "numerator_eth": 1.0922682014050461e-05,
+        "denominator_eth": 1.0615501619842393e-05,
+        "health_factor_unadjusted": 1.0289369645645279,
+        "health_factor_adjusted": 0.7952926634870058,
+        "price_details_eth": {
+            "cbBTC": 27.45772250892524,
+            "USDC": 0.0002427343566607
+        }
+    },
+    {
+        "datetime_utc": "2025-10-14T22:00:00+00:00",
+        "numerator_eth": 1.089682594408721e-05,
+        "denominator_eth": 1.0596371727204106e-05,
+        "health_factor_unadjusted": 1.028354442880835,
+        "health_factor_adjusted": 0.7948424170313748,
+        "price_details_eth": {
+            "cbBTC": 27.39272484687584,
+            "USDC": 0.0002422969320011
+        }
+    },
+    {
+        "datetime_utc": "2025-10-14T23:00:00+00:00",
+        "numerator_eth": 1.0929908458516861e-05,
+        "denominator_eth": 1.0622308990496925e-05,
+        "health_factor_unadjusted": 1.0289578723698516,
+        "health_factor_adjusted": 0.7953088236841376,
+        "price_details_eth": {
+            "cbBTC": 27.47588853322489,
+            "USDC": 0.0002428900141883
+        }
+    },
+    {
+        "datetime_utc": "2025-10-15T00:00:00+00:00",
+        "numerator_eth": 1.0909309899892674e-05,
+        "denominator_eth": 1.0590914130851343e-05,
+        "health_factor_unadjusted": 1.0300631055173834,
+        "health_factor_adjusted": 0.7961630876905306,
+        "price_details_eth": {
+            "cbBTC": 27.42410734010225,
+            "USDC": 0.0002421721384504
+        }
+    },
+    {
+        "datetime_utc": "2025-10-15T01:00:00+00:00",
+        "numerator_eth": 1.0921882136381492e-05,
+        "denominator_eth": 1.062530381244295e-05,
+        "health_factor_unadjusted": 1.0279124558858475,
+        "health_factor_adjusted": 0.7945007935631003,
+        "price_details_eth": {
+            "cbBTC": 27.45571175560958,
+            "USDC": 0.0002429584938706
+        }
+    },
+    {
+        "datetime_utc": "2025-10-15T02:00:00+00:00",
+        "numerator_eth": 1.0894953984358887e-05,
+        "denominator_eth": 1.0616294064557572e-05,
+        "health_factor_unadjusted": 1.0262483233891966,
+        "health_factor_adjusted": 0.7932145414298446,
+        "price_details_eth": {
+            "cbBTC": 27.388019065758893,
+            "USDC": 0.0002427524767237
+        }
+    },
+    {
+        "datetime_utc": "2025-10-15T03:00:00+00:00",
+        "numerator_eth": 1.0906558555344673e-05,
+        "denominator_eth": 1.0608540645395858e-05,
+        "health_factor_unadjusted": 1.0280922626316331,
+        "health_factor_adjusted": 0.794639770964723,
+        "price_details_eth": {
+            "cbBTC": 27.41719093852356,
+            "USDC": 0.0002425751868245
+        }
+    },
+    {
+        "datetime_utc": "2025-10-15T04:00:00+00:00",
+        "numerator_eth": 1.0921955079334014e-05,
+        "denominator_eth": 1.0706312951974108e-05,
+        "health_factor_unadjusted": 1.020141586401147,
+        "health_factor_adjusted": 0.7884944824838662,
+        "price_details_eth": {
+            "cbBTC": 27.4558951215033,
+            "USDC": 0.0002448108511187
+        }
+    },
+    {
+        "datetime_utc": "2025-10-15T05:00:00+00:00",
+        "numerator_eth": 1.0858445173082464e-05,
+        "denominator_eth": 1.0616878960540983e-05,
+        "health_factor_unadjusted": 1.0227530344312386,
+        "health_factor_adjusted": 0.7905129399121971,
+        "price_details_eth": {
+            "cbBTC": 27.29624226516456,
+            "USDC": 0.0002427658509716
+        }
+    },
+    {
+        "datetime_utc": "2025-10-15T06:00:00+00:00",
+        "numerator_eth": 1.0879087970300082e-05,
+        "denominator_eth": 1.0633034266732875e-05,
+        "health_factor_unadjusted": 1.0231404975658758,
+        "health_factor_adjusted": 0.790812420443037,
+        "price_details_eth": {
+            "cbBTC": 27.34813466641549,
+            "USDC": 0.0002431352586544
+        }
+    },
+    {
+        "datetime_utc": "2025-10-15T07:00:00+00:00",
+        "numerator_eth": 1.0877855404640548e-05,
+        "denominator_eth": 1.0627610504752307e-05,
+        "health_factor_unadjusted": 1.0235466758756673,
+        "health_factor_adjusted": 0.7911263664290105,
+        "price_details_eth": {
+            "cbBTC": 27.34503621076055,
+            "USDC": 0.0002430112387614
+        }
+    },
+    {
+        "datetime_utc": "2025-10-15T08:00:00+00:00",
+        "numerator_eth": 1.0868384610129743e-05,
+        "denominator_eth": 1.0604432159819041e-05,
+        "health_factor_unadjusted": 1.02489076702389,
+        "health_factor_adjusted": 0.7921652501177618,
+        "price_details_eth": {
+            "cbBTC": 27.321228280869136,
+            "USDC": 0.0002424812420785
+        }
+    },
+    {
+        "datetime_utc": "2025-10-15T09:00:00+00:00",
+        "numerator_eth": 1.0765549093499537e-05,
+        "denominator_eth": 1.0453753704326191e-05,
+        "health_factor_unadjusted": 1.029826165604448,
+        "health_factor_adjusted": 0.795979950549059,
+        "price_details_eth": {
+            "cbBTC": 27.06271768099431,
+            "USDC": 0.0002390358243049
+        }
+    },
+    {
+        "datetime_utc": "2025-10-15T10:00:00+00:00",
+        "numerator_eth": 1.0779323696594556e-05,
+        "denominator_eth": 1.0523982273641036e-05,
+        "health_factor_unadjusted": 1.0242628138583112,
+        "health_factor_adjusted": 0.7916798884651074,
+        "price_details_eth": {
+            "cbBTC": 27.097344636989835,
+            "USDC": 0.0002406416727332
+        }
+    },
+    {
+        "datetime_utc": "2025-10-15T11:00:00+00:00",
+        "numerator_eth": 1.0843885702638303e-05,
+        "denominator_eth": 1.0605593438182166e-05,
+        "health_factor_unadjusted": 1.0224685460408316,
+        "health_factor_adjusted": 0.7902930512916793,
+        "price_details_eth": {
+            "cbBTC": 27.25964228918628,
+            "USDC": 0.000242507795902
+        }
+    },
+    {
+        "datetime_utc": "2025-10-15T12:00:00+00:00",
+        "numerator_eth": 1.0858566559953886e-05,
+        "denominator_eth": 1.0657525301157983e-05,
+        "health_factor_unadjusted": 1.0188637843321902,
+        "health_factor_adjusted": 0.787506835382219,
+        "price_details_eth": {
+            "cbBTC": 27.296547410643253,
+            "USDC": 0.0002436952713319
+        }
+    },
+    {
+        "datetime_utc": "2025-10-15T13:00:00+00:00",
+        "numerator_eth": 1.0850099200658065e-05,
+        "denominator_eth": 1.067307289446528e-05,
+        "health_factor_unadjusted": 1.0165862547687259,
+        "health_factor_adjusted": 0.7857464723910182,
+        "price_details_eth": {
+            "cbBTC": 27.27526194232797,
+            "USDC": 0.0002440507830349
+        }
+    },
+    {
+        "datetime_utc": "2025-10-15T14:00:00+00:00",
+        "numerator_eth": 1.0924462632169465e-05,
+        "denominator_eth": 1.0774829565613972e-05,
+        "health_factor_unadjusted": 1.0138872792042133,
+        "health_factor_adjusted": 0.7836603626104293,
+        "price_details_eth": {
+            "cbBTC": 27.462198673125854,
+            "USDC": 0.0002463775539207
+        }
+    },
+    {
+        "datetime_utc": "2025-10-15T15:00:00+00:00",
+        "numerator_eth": 1.1046091233905155e-05,
+        "denominator_eth": 1.091974186311328e-05,
+        "health_factor_unadjusted": 1.0115707287201248,
+        "health_factor_adjusted": 0.7818698393149885,
+        "price_details_eth": {
+            "cbBTC": 27.76795181977163,
+            "USDC": 0.0002496911225645
+        }
+    },
+    {
+        "datetime_utc": "2025-10-15T16:00:00+00:00",
+        "numerator_eth": 1.10671418095053e-05,
+        "denominator_eth": 1.0988420135499006e-05,
+        "health_factor_unadjusted": 1.0071640575292509,
+        "health_factor_adjusted": 0.7784638063030588,
+        "price_details_eth": {
+            "cbBTC": 27.820869304940423,
+            "USDC": 0.0002512615218599
+        }
+    },
+    {
+        "datetime_utc": "2025-10-15T17:00:00+00:00",
+        "numerator_eth": 1.1081638033549582e-05,
+        "denominator_eth": 1.0993647934800297e-05,
+        "health_factor_unadjusted": 1.008003721719226,
+        "health_factor_adjusted": 0.7791128050202567,
+        "price_details_eth": {
+            "cbBTC": 27.85731029047155,
+            "USDC": 0.0002513810608648
+        }
+    },
+    {
+        "datetime_utc": "2025-10-15T18:00:00+00:00",
+        "numerator_eth": 1.1055026727508643e-05,
+        "denominator_eth": 1.0946376662215125e-05,
+        "health_factor_unadjusted": 1.0099256647789727,
+        "health_factor_adjusted": 0.780598325773905,
+        "price_details_eth": {
+            "cbBTC": 27.790414096301262,
+            "USDC": 0.000250300154625
+        }
+    },
+    {
+        "datetime_utc": "2025-10-15T19:00:00+00:00",
+        "numerator_eth": 1.104962922641121e-05,
+        "denominator_eth": 1.0917542706634204e-05,
+        "health_factor_unadjusted": 1.0120985576449124,
+        "health_factor_adjusted": 0.7822778122870135,
+        "price_details_eth": {
+            "cbBTC": 27.77684571747413,
+            "USDC": 0.000249640836591
+        }
+    },
+    {
+        "datetime_utc": "2025-10-15T20:00:00+00:00",
+        "numerator_eth": 1.110820900488366e-05,
+        "denominator_eth": 1.0973094254620854e-05,
+        "health_factor_unadjusted": 1.012313277105581,
+        "health_factor_adjusted": 0.7824437746517244,
+        "price_details_eth": {
+            "cbBTC": 27.924105090205277,
+            "USDC": 0.0002509110798395
+        }
+    },
+    {
+        "datetime_utc": "2025-10-15T21:00:00+00:00",
+        "numerator_eth": 1.1149792981710714e-05,
+        "denominator_eth": 1.1016138842495244e-05,
+        "health_factor_unadjusted": 1.0121325757714574,
+        "health_factor_adjusted": 0.7823041057990542,
+        "price_details_eth": {
+            "cbBTC": 28.028639974134524,
+            "USDC": 0.0002518953385886
+        }
+    },
+    {
+        "datetime_utc": "2025-10-15T22:00:00+00:00",
+        "numerator_eth": 1.1171559020381194e-05,
+        "denominator_eth": 1.1084341536235331e-05,
+        "health_factor_unadjusted": 1.0078685309236226,
+        "health_factor_adjusted": 0.7790083124695787,
+        "price_details_eth": {
+            "cbBTC": 28.0833560090025,
+            "USDC": 0.0002534548632894
+        }
+    },
+    {
+        "datetime_utc": "2025-10-15T23:00:00+00:00",
+        "numerator_eth": 1.1107817019598427e-05,
+        "denominator_eth": 1.1029912534454116e-05,
+        "health_factor_unadjusted": 1.0070630193032775,
+        "health_factor_adjusted": 0.7783857111790465,
+        "price_details_eth": {
+            "cbBTC": 27.923119707386693,
+            "USDC": 0.0002522102882138
+        }
+    },
+    {
+        "datetime_utc": "2025-10-16T00:00:00+00:00",
+        "numerator_eth": 1.1063763567797536e-05,
+        "denominator_eth": 1.0977309954437337e-05,
+        "health_factor_unadjusted": 1.0078756647775307,
+        "health_factor_adjusted": 0.7790138264144274,
+        "price_details_eth": {
+            "cbBTC": 27.81237699295509,
+            "USDC": 0.0002510074761493
+        }
+    },
+    {
+        "datetime_utc": "2025-10-16T01:00:00+00:00",
+        "numerator_eth": 1.1032064509527308e-05,
+        "denominator_eth": 1.0974564525801526e-05,
+        "health_factor_unadjusted": 1.0052393863638596,
+        "health_factor_adjusted": 0.7769761769242187,
+        "price_details_eth": {
+            "cbBTC": 27.73269107472928,
+            "USDC": 0.0002509446991014
+        }
+    },
+    {
+        "datetime_utc": "2025-10-16T02:00:00+00:00",
+        "numerator_eth": 1.1027459051933178e-05,
+        "denominator_eth": 1.0905736801507989e-05,
+        "health_factor_unadjusted": 1.0111613046088144,
+        "health_factor_adjusted": 0.7815533845629545,
+        "price_details_eth": {
+            "cbBTC": 27.72111375548813,
+            "USDC": 0.0002493708824345
+        }
+    },
+    {
+        "datetime_utc": "2025-10-16T03:00:00+00:00",
+        "numerator_eth": 1.1001055793864097e-05,
+        "denominator_eth": 1.0842375403395609e-05,
+        "health_factor_unadjusted": 1.0146352053461267,
+        "health_factor_adjusted": 0.7842384545577291,
+        "price_details_eth": {
+            "cbBTC": 27.654740557727745,
+            "USDC": 0.0002479220589348
+        }
+    },
+    {
+        "datetime_utc": "2025-10-16T04:00:00+00:00",
+        "numerator_eth": 1.1045989286171117e-05,
+        "denominator_eth": 1.0887541702956106e-05,
+        "health_factor_unadjusted": 1.0145531091901112,
+        "health_factor_adjusted": 0.7841750002618605,
+        "price_details_eth": {
+            "cbBTC": 27.767695540902757,
+            "USDC": 0.0002489548328026
+        }
+    },
+    {
+        "datetime_utc": "2025-10-16T05:00:00+00:00",
+        "numerator_eth": 1.1045807453774274e-05,
+        "denominator_eth": 1.0926297397790239e-05,
+        "health_factor_unadjusted": 1.010937836636975,
+        "health_factor_adjusted": 0.7813806602419818,
+        "price_details_eth": {
+            "cbBTC": 27.76723844588807,
+            "USDC": 0.0002498410216036
+        }
+    },
+    {
+        "datetime_utc": "2025-10-16T06:00:00+00:00",
+        "numerator_eth": 1.1052468188075167e-05,
+        "denominator_eth": 1.0951501429957723e-05,
+        "health_factor_unadjusted": 1.0092194443623275,
+        "health_factor_adjusted": 0.7800524692875453,
+        "price_details_eth": {
+            "cbBTC": 27.783982373240743,
+            "USDC": 0.0002504173377074
+        }
+    },
+    {
+        "datetime_utc": "2025-10-16T07:00:00+00:00",
+        "numerator_eth": 1.0979118714077488e-05,
+        "denominator_eth": 1.0811257059847006e-05,
+        "health_factor_unadjusted": 1.0155265621103322,
+        "health_factor_adjusted": 0.7849274078362443,
+        "price_details_eth": {
+            "cbBTC": 27.59959455524758,
+            "USDC": 0.0002472105060217
+        }
+    },
+    {
+        "datetime_utc": "2025-10-16T08:00:00+00:00",
+        "numerator_eth": 1.10030635718461e-05,
+        "denominator_eth": 1.0928200978631208e-05,
+        "health_factor_unadjusted": 1.0068504041389135,
+        "health_factor_adjusted": 0.7782213752807475,
+        "price_details_eth": {
+            "cbBTC": 27.659787762307943,
+            "USDC": 0.0002498845489363
+        }
+    },
+    {
+        "datetime_utc": "2025-10-16T09:00:00+00:00",
+        "numerator_eth": 1.1038955122814276e-05,
+        "denominator_eth": 1.0944586065999493e-05,
+        "health_factor_unadjusted": 1.0086224418398015,
+        "health_factor_adjusted": 0.7795910302076022,
+        "price_details_eth": {
+            "cbBTC": 27.75001287786394,
+            "USDC": 0.0002502592108019
+        }
+    },
+    {
+        "datetime_utc": "2025-10-16T10:00:00+00:00",
+        "numerator_eth": 1.0986641423367089e-05,
+        "denominator_eth": 1.0854355792630304e-05,
+        "health_factor_unadjusted": 1.0121873313593241,
+        "health_factor_adjusted": 0.7823464278448305,
+        "price_details_eth": {
+            "cbBTC": 27.618505337775485,
+            "USDC": 0.0002481960028498
+        }
+    },
+    {
+        "datetime_utc": "2025-10-16T11:00:00+00:00",
+        "numerator_eth": 1.0939125870596265e-05,
+        "denominator_eth": 1.078023584642549e-05,
+        "health_factor_unadjusted": 1.0147390118763924,
+        "health_factor_adjusted": 0.7843186893775339,
+        "price_details_eth": {
+            "cbBTC": 27.49905950376135,
+            "USDC": 0.0002465011740888
+        }
+    },
+    {
+        "datetime_utc": "2025-10-16T12:00:00+00:00",
+        "numerator_eth": 1.0903086380173956e-05,
+        "denominator_eth": 1.0763185523379266e-05,
+        "health_factor_unadjusted": 1.0129980902485425,
+        "health_factor_adjusted": 0.7829730848886128,
+        "price_details_eth": {
+            "cbBTC": 27.40846249415273,
+            "USDC": 0.0002461113009256
+        }
+    },
+    {
+        "datetime_utc": "2025-10-16T13:00:00+00:00",
+        "numerator_eth": 1.0942320608652465e-05,
+        "denominator_eth": 1.0775400775276314e-05,
+        "health_factor_unadjusted": 1.0154908236693285,
+        "health_factor_adjusted": 0.7848997846475422,
+        "price_details_eth": {
+            "cbBTC": 27.507090519488347,
+            "USDC": 0.0002463906152168
+        }
+    },
+    {
+        "datetime_utc": "2025-10-16T14:00:00+00:00",
+        "numerator_eth": 1.0985087221299625e-05,
+        "denominator_eth": 1.08643628071576e-05,
+        "health_factor_unadjusted": 1.0111119645288804,
+        "health_factor_adjusted": 0.7815152483068585,
+        "price_details_eth": {
+            "cbBTC": 27.61459834414184,
+            "USDC": 0.0002484248235236
+        }
+    },
+    {
+        "datetime_utc": "2025-10-16T15:00:00+00:00",
+        "numerator_eth": 1.0947427504141847e-05,
+        "denominator_eth": 1.0880590286120563e-05,
+        "health_factor_unadjusted": 1.0061427933837874,
+        "health_factor_adjusted": 0.7776744441649096,
+        "price_details_eth": {
+            "cbBTC": 27.51992836636965,
+            "USDC": 0.000248795881511
+        }
+    },
+    {
+        "datetime_utc": "2025-10-16T16:00:00+00:00",
+        "numerator_eth": 1.108132110668404e-05,
+        "denominator_eth": 1.1182761515161282e-05,
+        "health_factor_unadjusted": 0.9909288588208098,
+        "health_factor_adjusted": 0.7659151907243178,
+        "price_details_eth": {
+            "cbBTC": 27.856513591463145,
+            "USDC": 0.0002557053372776
+        }
+    },
+    {
+        "datetime_utc": "2025-10-16T17:00:00+00:00",
+        "numerator_eth": 1.0997082948564475e-05,
+        "denominator_eth": 1.1105589366926622e-05,
+        "health_factor_unadjusted": 0.9902295668624946,
+        "health_factor_adjusted": 0.7653746894271184,
+        "price_details_eth": {
+            "cbBTC": 27.6447535157478,
+            "USDC": 0.0002539407167797
+        }
+    },
+    {
+        "datetime_utc": "2025-10-16T18:00:00+00:00",
+        "numerator_eth": 1.0991827816544387e-05,
+        "denominator_eth": 1.115114973055556e-05,
+        "health_factor_unadjusted": 0.9857125123542544,
+        "health_factor_adjusted": 0.7618833382222419,
+        "price_details_eth": {
+            "cbBTC": 27.63154302801505,
+            "USDC": 0.0002549825013275
+        }
+    },
+    {
+        "datetime_utc": "2025-10-16T19:00:00+00:00",
+        "numerator_eth": 1.1054657358196793e-05,
+        "denominator_eth": 1.1196963166769495e-05,
+        "health_factor_unadjusted": 0.9872906781550341,
+        "health_factor_adjusted": 0.7631031444167422,
+        "price_details_eth": {
+            "cbBTC": 27.789485566105565,
+            "USDC": 0.0002560300726401
+        }
+    },
+    {
+        "datetime_utc": "2025-10-16T20:00:00+00:00",
+        "numerator_eth": 1.1082120187675133e-05,
+        "denominator_eth": 1.126184667196964e-05,
+        "health_factor_unadjusted": 0.9840411178086947,
+        "health_factor_adjusted": 0.7605914730588221,
+        "price_details_eth": {
+            "cbBTC": 27.858522342069215,
+            "USDC": 0.000257513700683
+        }
+    },
+    {
+        "datetime_utc": "2025-10-16T21:00:00+00:00",
+        "numerator_eth": 1.1119595719330593e-05,
+        "denominator_eth": 1.1342467405467951e-05,
+        "health_factor_unadjusted": 0.9803506875382408,
+        "health_factor_adjusted": 0.7577390416463259,
+        "price_details_eth": {
+            "cbBTC": 27.95272930952889,
+            "USDC": 0.0002593571766279
+        }
+    },
+    {
+        "datetime_utc": "2025-10-16T22:00:00+00:00",
+        "numerator_eth": 1.1117825866540742e-05,
+        "denominator_eth": 1.1269478362363811e-05,
+        "health_factor_unadjusted": 0.986543077598912,
+        "health_factor_adjusted": 0.7625253041233339,
+        "price_details_eth": {
+            "cbBTC": 27.948280207493067,
+            "USDC": 0.0002576882071288
+        }
+    },
+    {
+        "datetime_utc": "2025-10-16T23:00:00+00:00",
+        "numerator_eth": 1.1075447031058748e-05,
+        "denominator_eth": 1.128512108793481e-05,
+        "health_factor_unadjusted": 0.9814203095170835,
+        "health_factor_adjusted": 0.7585657808361634,
+        "price_details_eth": {
+            "cbBTC": 27.84174718717634,
+            "USDC": 0.0002580458941288
+        }
+    },
+    {
+        "datetime_utc": "2025-10-17T00:00:00+00:00",
+        "numerator_eth": 1.104843875901869e-05,
+        "denominator_eth": 1.1229375718935119e-05,
+        "health_factor_unadjusted": 0.9838871755255877,
+        "health_factor_adjusted": 0.7604724869862328,
+        "price_details_eth": {
+            "cbBTC": 27.77385308953919,
+            "USDC": 0.0002567712189636
+        }
+    },
+    {
+        "datetime_utc": "2025-10-17T01:00:00+00:00",
+        "numerator_eth": 1.1010118065380673e-05,
+        "denominator_eth": 1.1136664343498567e-05,
+        "health_factor_unadjusted": 0.9886369675681418,
+        "health_factor_adjusted": 0.764143727202713,
+        "price_details_eth": {
+            "cbBTC": 27.677521531877005,
+            "USDC": 0.0002546512780623
+        }
+    },
+    {
+        "datetime_utc": "2025-10-17T02:00:00+00:00",
+        "numerator_eth": 1.1057408724403079e-05,
+        "denominator_eth": 1.1183945329174292e-05,
+        "health_factor_unadjusted": 0.9886858705897701,
+        "health_factor_adjusted": 0.7641815256448554,
+        "price_details_eth": {
+            "cbBTC": 27.79640202212941,
+            "USDC": 0.0002557324064019
+        }
+    },
+    {
+        "datetime_utc": "2025-10-17T03:00:00+00:00",
+        "numerator_eth": 1.1036828530206795e-05,
+        "denominator_eth": 1.1144279512536211e-05,
+        "health_factor_unadjusted": 0.9903581938869583,
+        "health_factor_adjusted": 0.765474108665036,
+        "price_details_eth": {
+            "cbBTC": 27.7446669939839,
+            "USDC": 0.0002548254067303
+        }
+    },
+    {
+        "datetime_utc": "2025-10-17T04:00:00+00:00",
+        "numerator_eth": 1.1037664584450907e-05,
+        "denominator_eth": 1.1115740534395928e-05,
+        "health_factor_unadjusted": 0.9929760910032555,
+        "health_factor_adjusted": 0.7674975507631008,
+        "price_details_eth": {
+            "cbBTC": 27.74676868891631,
+            "USDC": 0.0002541728336587
+        }
+    },
+    {
+        "datetime_utc": "2025-10-17T05:00:00+00:00",
+        "numerator_eth": 1.1072328730578278e-05,
+        "denominator_eth": 1.117565368238813e-05,
+        "health_factor_unadjusted": 0.9907544601196184,
+        "health_factor_adjusted": 0.7657803933437631,
+        "price_details_eth": {
+            "cbBTC": 27.83390832221789,
+            "USDC": 0.0002555428093748
+        }
+    },
+    {
+        "datetime_utc": "2025-10-17T06:00:00+00:00",
+        "numerator_eth": 1.1056053786835632e-05,
+        "denominator_eth": 1.12099408233677e-05,
+        "health_factor_unadjusted": 0.9862722703931422,
+        "health_factor_adjusted": 0.7623159900531962,
+        "price_details_eth": {
+            "cbBTC": 27.7929959447854,
+            "USDC": 0.0002563268200985
+        }
+    },
+    {
+        "datetime_utc": "2025-10-17T07:00:00+00:00",
+        "numerator_eth": 1.1141000838754929e-05,
+        "denominator_eth": 1.1444972028584653e-05,
+        "health_factor_unadjusted": 0.9734406349731101,
+        "health_factor_adjusted": 0.7523980787898852,
+        "price_details_eth": {
+            "cbBTC": 28.0065380561964,
+            "USDC": 0.0002617010502043
+        }
+    },
+    {
+        "datetime_utc": "2025-10-17T08:00:00+00:00",
+        "numerator_eth": 1.1168922671626043e-05,
+        "denominator_eth": 1.1614723592262305e-05,
+        "health_factor_unadjusted": 0.9616176039752463,
+        "health_factor_adjusted": 0.7432597446288999,
+        "price_details_eth": {
+            "cbBTC": 28.076728686842745,
+            "USDC": 0.0002655825942026
+        }
+    },
+    {
+        "datetime_utc": "2025-10-17T09:00:00+00:00",
+        "numerator_eth": 1.1246564759955736e-05,
+        "denominator_eth": 1.1788507318068544e-05,
+        "health_factor_unadjusted": 0.9540278897496921,
+        "health_factor_adjusted": 0.7373934532530226,
+        "price_details_eth": {
+            "cbBTC": 28.271907390537294,
+            "USDC": 0.0002695563377328
+        }
+    },
+    {
+        "datetime_utc": "2025-10-17T10:00:00+00:00",
+        "numerator_eth": 1.1169935501431885e-05,
+        "denominator_eth": 1.169742480673965e-05,
+        "health_factor_unadjusted": 0.9549055186057837,
+        "health_factor_adjusted": 0.7380717958673435,
+        "price_details_eth": {
+            "cbBTC": 28.07927476478604,
+            "USDC": 0.0002674736424837
+        }
+    },
+    {
+        "datetime_utc": "2025-10-17T11:00:00+00:00",
+        "numerator_eth": 1.1164847710357516e-05,
+        "denominator_eth": 1.1733652206338342e-05,
+        "health_factor_unadjusted": 0.9515236615183151,
+        "health_factor_adjusted": 0.7354578688501879,
+        "price_details_eth": {
+            "cbBTC": 28.06648494308073,
+            "USDC": 0.0002683020192152
+        }
+    },
+    {
+        "datetime_utc": "2025-10-17T12:00:00+00:00",
+        "numerator_eth": 1.1132863957732324e-05,
+        "denominator_eth": 1.1578921780156319e-05,
+        "health_factor_unadjusted": 0.9614767392946346,
+        "health_factor_adjusted": 0.7431508665820485,
+        "price_details_eth": {
+            "cbBTC": 27.98608335277105,
+            "USDC": 0.0002647639489666
+        }
+    },
+    {
+        "datetime_utc": "2025-10-17T13:00:00+00:00",
+        "numerator_eth": 1.1089462089666525e-05,
+        "denominator_eth": 1.1571519568752254e-05,
+        "health_factor_unadjusted": 0.9583410392886101,
+        "health_factor_adjusted": 0.7407272009003099,
+        "price_details_eth": {
+            "cbBTC": 27.876978606502075,
+            "USDC": 0.0002645946897938
+        }
+    },
+    {
+        "datetime_utc": "2025-10-17T14:00:00+00:00",
+        "numerator_eth": 1.10629921282824e-05,
+        "denominator_eth": 1.1495388943809708e-05,
+        "health_factor_unadjusted": 0.9623851948254301,
+        "health_factor_adjusted": 0.7438530359506567,
+        "price_details_eth": {
+            "cbBTC": 27.81043772821116,
+            "USDC": 0.0002628538847966
+        }
+    },
+    {
+        "datetime_utc": "2025-10-17T15:00:00+00:00",
+        "numerator_eth": 1.1163012818115003e-05,
+        "denominator_eth": 1.1629340639553755e-05,
+        "health_factor_unadjusted": 0.9599007513931894,
+        "health_factor_adjusted": 0.7419327437436936,
+        "price_details_eth": {
+            "cbBTC": 28.06187234317497,
+            "USDC": 0.0002659168280144
+        }
+    }
+]

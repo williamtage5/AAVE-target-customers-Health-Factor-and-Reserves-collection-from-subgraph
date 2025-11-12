@@ -1,0 +1,47 @@
+{
+    "txHash": "0x5080e4df6da8a0f4f0b0d4fd7e92c7b4b3a37721a9f07516c9e14cdbdacba885",
+    "user_id": "0x64d920358366a309c6d0363b361a18a7f81855ff",
+    "simulation_time_range_utc": {
+        "start_utc": "2025-10-27T16:00:00+00:00",
+        "end_utc": "2025-10-30T13:00:00+00:00",
+        "duration_days": 2.8668518518518518,
+        "is_truncated_90d": false
+    },
+    "health_factor_anchors": {
+        "HF_True_OnChain": 0.447460947459494,
+        "HF_Simulated_Final_Unadjusted": 0.9989189178794852,
+        "Adjustment_Factor_GAF": 0.4479452130202604
+    },
+    "numerator_collaterals": [
+        {
+            "symbol": "cbETH",
+            "amount_raw": "862685721914231983",
+            "decimals": 18,
+            "liquidation_threshold": "0.7900"
+        },
+        {
+            "symbol": "WETH",
+            "amount_raw": "100590084925665881",
+            "decimals": 18,
+            "liquidation_threshold": "0.8300"
+        },
+        {
+            "symbol": "cbBTC",
+            "amount_raw": "4297629",
+            "decimals": 8,
+            "liquidation_threshold": "0.7800"
+        }
+    ],
+    "denominator_debts": [
+        {
+            "symbol": "USDC",
+            "amount_raw": "6817096739",
+            "decimals": 6
+        },
+        {
+            "symbol": "cbBTC",
+            "amount_raw": "1",
+            "decimals": 8
+        }
+    ]
+}

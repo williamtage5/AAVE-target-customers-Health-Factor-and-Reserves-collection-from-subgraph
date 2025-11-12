@@ -1,0 +1,53 @@
+{
+    "txHash": "0x6f142ea37d6ca73a96d018c5f36b2dac3b7f9dbff45e72be052c7b45e3d86d6b",
+    "user_id": "0x62156613c98fc9bf5b47a5f559abe29f7e7d745f",
+    "simulation_time_range_utc": {
+        "start_utc": "2025-10-10T22:00:00+00:00",
+        "end_utc": "2025-10-17T08:00:00+00:00",
+        "duration_days": 6.437268518518518,
+        "is_truncated_90d": false
+    },
+    "health_factor_anchors": {
+        "HF_True_OnChain": 0.9153624896050325,
+        "HF_Simulated_Final_Unadjusted": 1.0121342492740424,
+        "Adjustment_Factor_GAF": 0.9043884151352255
+    },
+    "numerator_collaterals": [
+        {
+            "symbol": "WETH",
+            "amount_raw": "53578408816527635",
+            "decimals": 18,
+            "liquidation_threshold": "0.8300"
+        },
+        {
+            "symbol": "EURC",
+            "amount_raw": "396272",
+            "decimals": 6,
+            "liquidation_threshold": "0.7800"
+        },
+        {
+            "symbol": "AAVE",
+            "amount_raw": "129179112934440130",
+            "decimals": 18,
+            "liquidation_threshold": "0.6500"
+        },
+        {
+            "symbol": "cbBTC",
+            "amount_raw": "135000",
+            "decimals": 8,
+            "liquidation_threshold": "0.7800"
+        }
+    ],
+    "denominator_debts": [
+        {
+            "symbol": "USDC",
+            "amount_raw": "292857716",
+            "decimals": 6
+        },
+        {
+            "symbol": "cbBTC",
+            "amount_raw": "1",
+            "decimals": 8
+        }
+    ]
+}

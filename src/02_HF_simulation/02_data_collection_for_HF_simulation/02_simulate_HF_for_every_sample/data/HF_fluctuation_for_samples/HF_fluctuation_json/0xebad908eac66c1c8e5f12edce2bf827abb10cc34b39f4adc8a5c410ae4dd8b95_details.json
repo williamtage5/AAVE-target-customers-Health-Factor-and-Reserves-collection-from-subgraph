@@ -1,0 +1,2758 @@
+[
+    {
+        "datetime_utc": "2025-10-21T17:00:00+00:00",
+        "numerator_eth": 0.10652988685721344,
+        "denominator_eth": 0.09975128924733673,
+        "health_factor_unadjusted": 1.06795498745955,
+        "health_factor_adjusted": 1.041391283289622,
+        "price_details_eth": {
+            "WETH": 0.999784081070987,
+            "wstETH": 1.2178785630033189,
+            "cbBTC": 27.8313303391606,
+            "USDC": 0.0002455165600486
+        }
+    },
+    {
+        "datetime_utc": "2025-10-21T18:00:00+00:00",
+        "numerator_eth": 0.10667370743788203,
+        "denominator_eth": 0.10106340088393047,
+        "health_factor_unadjusted": 1.0555127425446023,
+        "health_factor_adjusted": 1.0292585196889725,
+        "price_details_eth": {
+            "WETH": 1.0008658510015858,
+            "wstETH": 1.2167613147403216,
+            "cbBTC": 27.96499480044568,
+            "USDC": 0.0002487460434753
+        }
+    },
+    {
+        "datetime_utc": "2025-10-21T19:00:00+00:00",
+        "numerator_eth": 0.10656751527972154,
+        "denominator_eth": 0.10115954961498838,
+        "health_factor_unadjusted": 1.0534597641578654,
+        "health_factor_adjusted": 1.0272566059174797,
+        "price_details_eth": {
+            "WETH": 0.9999273590512944,
+            "wstETH": 1.2167073416434446,
+            "cbBTC": 27.87236216663648,
+            "USDC": 0.0002489826931054
+        }
+    },
+    {
+        "datetime_utc": "2025-10-21T20:00:00+00:00",
+        "numerator_eth": 0.1065490638922429,
+        "denominator_eth": 0.1012181280868834,
+        "health_factor_unadjusted": 1.0526677968276943,
+        "health_factor_adjusted": 1.0264843375316628,
+        "price_details_eth": {
+            "WETH": 0.99970441029139,
+            "wstETH": 1.2155735207190748,
+            "cbBTC": 27.89934727172884,
+            "USDC": 0.0002491268715418
+        }
+    },
+    {
+        "datetime_utc": "2025-10-21T21:00:00+00:00",
+        "numerator_eth": 0.10656197019191772,
+        "denominator_eth": 0.10263657732955146,
+        "health_factor_unadjusted": 1.0382455549912033,
+        "health_factor_adjusted": 1.0124208263253112,
+        "price_details_eth": {
+            "WETH": 0.9994497323991288,
+            "wstETH": 1.2155530054129664,
+            "cbBTC": 28.061379109406168,
+            "USDC": 0.0002526180823451
+        }
+    },
+    {
+        "datetime_utc": "2025-10-21T22:00:00+00:00",
+        "numerator_eth": 0.10668641851939466,
+        "denominator_eth": 0.10293857958657822,
+        "health_factor_unadjusted": 1.036408496677033,
+        "health_factor_adjusted": 1.010629461953464,
+        "price_details_eth": {
+            "WETH": 1.000600177172156,
+            "wstETH": 1.2172868214915815,
+            "cbBTC": 28.089563355928384,
+            "USDC": 0.0002533613966003
+        }
+    },
+    {
+        "datetime_utc": "2025-10-21T23:00:00+00:00",
+        "numerator_eth": 0.10660780389231055,
+        "denominator_eth": 0.10413244294102685,
+        "health_factor_unadjusted": 1.0237712751316663,
+        "health_factor_adjusted": 0.9983065714600636,
+        "price_details_eth": {
+            "WETH": 0.9998659438210749,
+            "wstETH": 1.217498992196053,
+            "cbBTC": 27.942409884487716,
+            "USDC": 0.0002562998370572
+        }
+    },
+    {
+        "datetime_utc": "2025-10-22T00:00:00+00:00",
+        "numerator_eth": 0.10657190310286255,
+        "denominator_eth": 0.10476201508949197,
+        "health_factor_unadjusted": 1.017276185569975,
+        "health_factor_adjusted": 0.9919730370572506,
+        "price_details_eth": {
+            "WETH": 0.999416333844103,
+            "wstETH": 1.2160769222827386,
+            "cbBTC": 27.957013084342996,
+            "USDC": 0.000257849394856
+        }
+    },
+    {
+        "datetime_utc": "2025-10-22T01:00:00+00:00",
+        "numerator_eth": 0.1066801475658436,
+        "denominator_eth": 0.10566331768674171,
+        "health_factor_unadjusted": 1.0096233007004045,
+        "health_factor_adjusted": 0.9845105056876955,
+        "price_details_eth": {
+            "WETH": 1.0001840224593117,
+            "wstETH": 1.216814405328617,
+            "cbBTC": 28.10265897246748,
+            "USDC": 0.0002600677592993
+        }
+    },
+    {
+        "datetime_utc": "2025-10-22T02:00:00+00:00",
+        "numerator_eth": 0.10665352948348358,
+        "denominator_eth": 0.10516596950822095,
+        "health_factor_unadjusted": 1.0141448795862273,
+        "health_factor_adjusted": 0.9889196173952998,
+        "price_details_eth": {
+            "WETH": 1.0000741857890048,
+            "wstETH": 1.216851540476447,
+            "cbBTC": 28.031588635038883,
+            "USDC": 0.0002588436426502
+        }
+    },
+    {
+        "datetime_utc": "2025-10-22T03:00:00+00:00",
+        "numerator_eth": 0.10663533816614966,
+        "denominator_eth": 0.10507363339969411,
+        "health_factor_unadjusted": 1.0148629557761166,
+        "health_factor_adjusted": 0.9896198325669779,
+        "price_details_eth": {
+            "WETH": 0.9999407975206296,
+            "wstETH": 1.2165736274603085,
+            "cbBTC": 28.00477965469252,
+            "USDC": 0.0002586163769787
+        }
+    },
+    {
+        "datetime_utc": "2025-10-22T04:00:00+00:00",
+        "numerator_eth": 0.10656534838499504,
+        "denominator_eth": 0.10522983672736264,
+        "health_factor_unadjusted": 1.0126913782171167,
+        "health_factor_adjusted": 0.987502269591492,
+        "price_details_eth": {
+            "WETH": 0.9992356159056154,
+            "wstETH": 1.2152406142330845,
+            "cbBTC": 28.002903774993527,
+            "USDC": 0.0002590008382119
+        }
+    },
+    {
+        "datetime_utc": "2025-10-22T05:00:00+00:00",
+        "numerator_eth": 0.10664701330512219,
+        "denominator_eth": 0.10469444612472649,
+        "health_factor_unadjusted": 1.018650150534915,
+        "health_factor_adjusted": 0.99331282680011,
+        "price_details_eth": {
+            "WETH": 1.000133907524762,
+            "wstETH": 1.2166188546778245,
+            "cbBTC": 27.98013029726681,
+            "USDC": 0.0002576830882356
+        }
+    },
+    {
+        "datetime_utc": "2025-10-22T06:00:00+00:00",
+        "numerator_eth": 0.10666907538531974,
+        "denominator_eth": 0.10516707904043092,
+        "health_factor_unadjusted": 1.0142820011603764,
+        "health_factor_adjusted": 0.9890533282855026,
+        "price_details_eth": {
+            "WETH": 1.0002764677054137,
+            "wstETH": 1.2165774266679894,
+            "cbBTC": 27.99254846830176,
+            "USDC": 0.0002588463735275
+        }
+    },
+    {
+        "datetime_utc": "2025-10-22T07:00:00+00:00",
+        "numerator_eth": 0.10665114009746646,
+        "denominator_eth": 0.10518367371718775,
+        "health_factor_unadjusted": 1.01395146535977,
+        "health_factor_adjusted": 0.9887310140441643,
+        "price_details_eth": {
+            "WETH": 1.0001337790584566,
+            "wstETH": 1.21638073189546,
+            "cbBTC": 27.964408507848862,
+            "USDC": 0.0002588872177911
+        }
+    },
+    {
+        "datetime_utc": "2025-10-22T08:00:00+00:00",
+        "numerator_eth": 0.10673118605673775,
+        "denominator_eth": 0.10512623483234694,
+        "health_factor_unadjusted": 1.015266895337309,
+        "health_factor_adjusted": 0.9900137247655642,
+        "price_details_eth": {
+            "WETH": 1.0009121909940162,
+            "wstETH": 1.215997917879467,
+            "cbBTC": 27.976842323013297,
+            "USDC": 0.0002587458442056
+        }
+    },
+    {
+        "datetime_utc": "2025-10-22T09:00:00+00:00",
+        "numerator_eth": 0.10656992711690859,
+        "denominator_eth": 0.10530709004753484,
+        "health_factor_unadjusted": 1.011991947254489,
+        "health_factor_adjusted": 0.9868202358763107,
+        "price_details_eth": {
+            "WETH": 0.9992164482806032,
+            "wstETH": 1.215846908745405,
+            "cbBTC": 28.045921696382724,
+            "USDC": 0.0002591909808112
+        }
+    },
+    {
+        "datetime_utc": "2025-10-22T10:00:00+00:00",
+        "numerator_eth": 0.10666019140830013,
+        "denominator_eth": 0.10576308144798045,
+        "health_factor_unadjusted": 1.008482260048001,
+        "health_factor_adjusted": 0.9833978466306703,
+        "price_details_eth": {
+            "WETH": 0.999923738947543,
+            "wstETH": 1.2164247673911148,
+            "cbBTC": 28.14337558583983,
+            "USDC": 0.0002603133065565
+        }
+    },
+    {
+        "datetime_utc": "2025-10-22T11:00:00+00:00",
+        "numerator_eth": 0.10677465018634068,
+        "denominator_eth": 0.1059966024869688,
+        "health_factor_unadjusted": 1.0073403079072043,
+        "health_factor_adjusted": 0.9822842987570951,
+        "price_details_eth": {
+            "WETH": 1.001046643032821,
+            "wstETH": 1.2153414787598813,
+            "cbBTC": 28.122568709612477,
+            "USDC": 0.0002608880688741
+        }
+    },
+    {
+        "datetime_utc": "2025-10-22T12:00:00+00:00",
+        "numerator_eth": 0.10655429701417049,
+        "denominator_eth": 0.10608347236192384,
+        "health_factor_unadjusted": 1.0044382469932767,
+        "health_factor_adjusted": 0.97945442205365,
+        "price_details_eth": {
+            "WETH": 0.9989174281754426,
+            "wstETH": 1.2154810231193245,
+            "cbBTC": 28.084568575335407,
+            "USDC": 0.0002611018805755
+        }
+    },
+    {
+        "datetime_utc": "2025-10-22T13:00:00+00:00",
+        "numerator_eth": 0.10671736096035346,
+        "denominator_eth": 0.10554912430268477,
+        "health_factor_unadjusted": 1.01106817953618,
+        "health_factor_adjusted": 0.9859194454301519,
+        "price_details_eth": {
+            "WETH": 1.0006079019120433,
+            "wstETH": 1.2168979864586562,
+            "cbBTC": 28.06814956951216,
+            "USDC": 0.0002597866965978
+        }
+    },
+    {
+        "datetime_utc": "2025-10-22T14:00:00+00:00",
+        "numerator_eth": 0.10656040637055397,
+        "denominator_eth": 0.10531111628411481,
+        "health_factor_unadjusted": 1.0118628510504888,
+        "health_factor_adjusted": 0.98669435073777,
+        "price_details_eth": {
+            "WETH": 0.9991748377173448,
+            "wstETH": 1.2160529971702416,
+            "cbBTC": 28.004562550141134,
+            "USDC": 0.0002592008905353
+        }
+    },
+    {
+        "datetime_utc": "2025-10-22T15:00:00+00:00",
+        "numerator_eth": 0.10651965835811397,
+        "denominator_eth": 0.10638619999910233,
+        "health_factor_unadjusted": 1.0012544705893507,
+        "health_factor_adjusted": 0.9763498370908711,
+        "price_details_eth": {
+            "WETH": 0.9982583367252073,
+            "wstETH": 1.2146739703654623,
+            "cbBTC": 28.30588914037792,
+            "USDC": 0.0002618469801995
+        }
+    },
+    {
+        "datetime_utc": "2025-10-22T16:00:00+00:00",
+        "numerator_eth": 0.10666682004201988,
+        "denominator_eth": 0.10575119808570838,
+        "health_factor_unadjusted": 1.0086582655599743,
+        "health_factor_adjusted": 0.9835694742817719,
+        "price_details_eth": {
+            "WETH": 0.9999010686009356,
+            "wstETH": 1.216232323150014,
+            "cbBTC": 28.213737247583392,
+            "USDC": 0.0002602840581904
+        }
+    },
+    {
+        "datetime_utc": "2025-10-22T17:00:00+00:00",
+        "numerator_eth": 0.10648542328011014,
+        "denominator_eth": 0.10555781685546364,
+        "health_factor_unadjusted": 1.0087876620820666,
+        "health_factor_adjusted": 0.9836956522684634,
+        "price_details_eth": {
+            "WETH": 0.9981854475925832,
+            "wstETH": 1.2144818578916714,
+            "cbBTC": 28.1790511341248,
+            "USDC": 0.0002598080914657
+        }
+    },
+    {
+        "datetime_utc": "2025-10-22T18:00:00+00:00",
+        "numerator_eth": 0.10685209341804874,
+        "denominator_eth": 0.1068606759967965,
+        "health_factor_unadjusted": 0.999919684405253,
+        "health_factor_adjusted": 0.9750482516181712,
+        "price_details_eth": {
+            "WETH": 1.0013657437168495,
+            "wstETH": 1.2174411000985628,
+            "cbBTC": 28.386644569094145,
+            "USDC": 0.0002630148018453
+        }
+    },
+    {
+        "datetime_utc": "2025-10-22T19:00:00+00:00",
+        "numerator_eth": 0.106731158544382,
+        "denominator_eth": 0.1068602477101062,
+        "health_factor_unadjusted": 0.9987919814103895,
+        "health_factor_adjusted": 0.973948598465388,
+        "price_details_eth": {
+            "WETH": 1.0001523963295995,
+            "wstETH": 1.2159723905580606,
+            "cbBTC": 28.405767003940323,
+            "USDC": 0.0002630137477088
+        }
+    },
+    {
+        "datetime_utc": "2025-10-22T20:00:00+00:00",
+        "numerator_eth": 0.10672342060052213,
+        "denominator_eth": 0.10671397314756945,
+        "health_factor_unadjusted": 1.0000885306082608,
+        "health_factor_adjusted": 0.9752128980368813,
+        "price_details_eth": {
+            "WETH": 1.000169492084349,
+            "wstETH": 1.2166926077561275,
+            "cbBTC": 28.346653132381352,
+            "USDC": 0.000262653724017
+        }
+    },
+    {
+        "datetime_utc": "2025-10-22T21:00:00+00:00",
+        "numerator_eth": 0.10693786173565444,
+        "denominator_eth": 0.1074446043316515,
+        "health_factor_unadjusted": 0.9952836850286787,
+        "health_factor_adjusted": 0.9705275654499412,
+        "price_details_eth": {
+            "WETH": 1.0020554614745636,
+            "wstETH": 1.218685825823547,
+            "cbBTC": 28.450620408114272,
+            "USDC": 0.0002644520171151
+        }
+    },
+    {
+        "datetime_utc": "2025-10-22T22:00:00+00:00",
+        "numerator_eth": 0.10672051639818186,
+        "denominator_eth": 0.10832074043119798,
+        "health_factor_unadjusted": 0.985226983986206,
+        "health_factor_adjusted": 0.9607210090620228,
+        "price_details_eth": {
+            "WETH": 0.9996778186520192,
+            "wstETH": 1.213718015478109,
+            "cbBTC": 28.554517535649392,
+            "USDC": 0.0002666084395826
+        }
+    },
+    {
+        "datetime_utc": "2025-10-22T23:00:00+00:00",
+        "numerator_eth": 0.1068369682869491,
+        "denominator_eth": 0.10832371366196868,
+        "health_factor_unadjusted": 0.9862749777979448,
+        "health_factor_adjusted": 0.9617429356725089,
+        "price_details_eth": {
+            "WETH": 1.0007909370798007,
+            "wstETH": 1.216395057894587,
+            "cbBTC": 28.579376747333196,
+            "USDC": 0.0002666157575571
+        }
+    },
+    {
+        "datetime_utc": "2025-10-23T00:00:00+00:00",
+        "numerator_eth": 0.10675536243232944,
+        "denominator_eth": 0.1067326435281029,
+        "health_factor_unadjusted": 1.0002128580673688,
+        "health_factor_adjusted": 0.9753341330455746,
+        "price_details_eth": {
+            "WETH": 1.0005390461472037,
+            "wstETH": 1.216314153720215,
+            "cbBTC": 28.30112816138909,
+            "USDC": 0.0002626996771835
+        }
+    },
+    {
+        "datetime_utc": "2025-10-23T01:00:00+00:00",
+        "numerator_eth": 0.10659130724187238,
+        "denominator_eth": 0.10633963753540351,
+        "health_factor_unadjusted": 1.0023666594348235,
+        "health_factor_adjusted": 0.9774343619843804,
+        "price_details_eth": {
+            "WETH": 0.9990479378644436,
+            "wstETH": 1.2152136624269372,
+            "cbBTC": 28.243406085050736,
+            "USDC": 0.0002617323766089
+        }
+    },
+    {
+        "datetime_utc": "2025-10-23T02:00:00+00:00",
+        "numerator_eth": 0.10670558602393725,
+        "denominator_eth": 0.10630066972833999,
+        "health_factor_unadjusted": 1.0038091603433172,
+        "health_factor_adjusted": 0.978840982946764,
+        "price_details_eth": {
+            "WETH": 1.0000948645145098,
+            "wstETH": 1.216481759204055,
+            "cbBTC": 28.30767149200752,
+            "USDC": 0.0002616364656486
+        }
+    },
+    {
+        "datetime_utc": "2025-10-23T03:00:00+00:00",
+        "numerator_eth": 0.10673769056894909,
+        "denominator_eth": 0.10626852363939078,
+        "health_factor_unadjusted": 1.0044149190511988,
+        "health_factor_adjusted": 0.9794316743575184,
+        "price_details_eth": {
+            "WETH": 1.0003902062511605,
+            "wstETH": 1.2167214064712273,
+            "cbBTC": 28.32683003226097,
+            "USDC": 0.000261557344895
+        }
+    },
+    {
+        "datetime_utc": "2025-10-23T04:00:00+00:00",
+        "numerator_eth": 0.10671248646508012,
+        "denominator_eth": 0.10612863662919958,
+        "health_factor_unadjusted": 1.00550134114999,
+        "health_factor_adjusted": 0.9804910734117293,
+        "price_details_eth": {
+            "WETH": 1.0001785441322062,
+            "wstETH": 1.2167921662811971,
+            "cbBTC": 28.312006447967548,
+            "USDC": 0.0002612130428033
+        }
+    },
+    {
+        "datetime_utc": "2025-10-23T05:00:00+00:00",
+        "numerator_eth": 0.10679354416117287,
+        "denominator_eth": 0.10583817847138018,
+        "health_factor_unadjusted": 1.0090266641356742,
+        "health_factor_adjusted": 0.9839287095210986,
+        "price_details_eth": {
+            "WETH": 1.000958262737644,
+            "wstETH": 1.2166440681535822,
+            "cbBTC": 28.354008645804992,
+            "USDC": 0.0002604981418904
+        }
+    },
+    {
+        "datetime_utc": "2025-10-23T06:00:00+00:00",
+        "numerator_eth": 0.10670388574800822,
+        "denominator_eth": 0.10554811145923632,
+        "health_factor_unadjusted": 1.0109502128725276,
+        "health_factor_adjusted": 0.9858044130021105,
+        "price_details_eth": {
+            "WETH": 1.0001834183062894,
+            "wstETH": 1.216627292759311,
+            "cbBTC": 28.298254561076984,
+            "USDC": 0.0002597842036993
+        }
+    },
+    {
+        "datetime_utc": "2025-10-23T07:00:00+00:00",
+        "numerator_eth": 0.10672018557172691,
+        "denominator_eth": 0.104512171477275,
+        "health_factor_unadjusted": 1.0211268607592947,
+        "health_factor_adjusted": 0.9957279327448266,
+        "price_details_eth": {
+            "WETH": 1.0004295788948443,
+            "wstETH": 1.2171322567248697,
+            "cbBTC": 28.331787679965476,
+            "USDC": 0.0002572344579997
+        }
+    },
+    {
+        "datetime_utc": "2025-10-23T08:00:00+00:00",
+        "numerator_eth": 0.10673010474210251,
+        "denominator_eth": 0.10462067427680849,
+        "health_factor_unadjusted": 1.0201626540822402,
+        "health_factor_adjusted": 0.9947877091955525,
+        "price_details_eth": {
+            "WETH": 1.000712305018261,
+            "wstETH": 1.2173067114016702,
+            "cbBTC": 28.175306472155576,
+            "USDC": 0.000257501514539
+        }
+    },
+    {
+        "datetime_utc": "2025-10-23T09:00:00+00:00",
+        "numerator_eth": 0.10687609143048864,
+        "denominator_eth": 0.10445839275721171,
+        "health_factor_unadjusted": 1.0231450878140187,
+        "health_factor_adjusted": 0.9976959595691486,
+        "price_details_eth": {
+            "WETH": 1.0021564307194817,
+            "wstETH": 1.2192985948302213,
+            "cbBTC": 28.184327074805587,
+            "USDC": 0.0002571020931305
+        }
+    },
+    {
+        "datetime_utc": "2025-10-23T10:00:00+00:00",
+        "numerator_eth": 0.10666532030869798,
+        "denominator_eth": 0.10452856956140243,
+        "health_factor_unadjusted": 1.0204417869321398,
+        "health_factor_adjusted": 0.9950598990539067,
+        "price_details_eth": {
+            "WETH": 1.0001118635420605,
+            "wstETH": 1.2164339624577,
+            "cbBTC": 28.155496466650945,
+            "USDC": 0.0002572748183924
+        }
+    },
+    {
+        "datetime_utc": "2025-10-23T11:00:00+00:00",
+        "numerator_eth": 0.10666914500276337,
+        "denominator_eth": 0.1047179804258759,
+        "health_factor_unadjusted": 1.018632564999366,
+        "health_factor_adjusted": 0.9932956786771574,
+        "price_details_eth": {
+            "WETH": 1.0000280712067722,
+            "wstETH": 1.2165040041006625,
+            "cbBTC": 28.232625431713718,
+            "USDC": 0.0002577410129071
+        }
+    },
+    {
+        "datetime_utc": "2025-10-23T12:00:00+00:00",
+        "numerator_eth": 0.10671604214794761,
+        "denominator_eth": 0.10508636196897665,
+        "health_factor_unadjusted": 1.0155080083508083,
+        "health_factor_adjusted": 0.9902488404712768,
+        "price_details_eth": {
+            "WETH": 1.0004156663764483,
+            "wstETH": 1.2167161415335523,
+            "cbBTC": 28.254567149758547,
+            "USDC": 0.0002586477056419
+        }
+    },
+    {
+        "datetime_utc": "2025-10-23T13:00:00+00:00",
+        "numerator_eth": 0.10668898412234537,
+        "denominator_eth": 0.10556842719354538,
+        "health_factor_unadjusted": 1.0106145081307842,
+        "health_factor_adjusted": 0.9854770583889333,
+        "price_details_eth": {
+            "WETH": 0.999970241690202,
+            "wstETH": 1.216829448401998,
+            "cbBTC": 28.348774335913724,
+            "USDC": 0.0002598342065538
+        }
+    },
+    {
+        "datetime_utc": "2025-10-23T14:00:00+00:00",
+        "numerator_eth": 0.1066393249395394,
+        "denominator_eth": 0.10543963271138714,
+        "health_factor_unadjusted": 1.011378000826654,
+        "health_factor_adjusted": 0.9862215604022863,
+        "price_details_eth": {
+            "WETH": 0.9993918972736108,
+            "wstETH": 1.2162169971441068,
+            "cbBTC": 28.432295689651948,
+            "USDC": 0.0002595172063581
+        }
+    },
+    {
+        "datetime_utc": "2025-10-23T15:00:00+00:00",
+        "numerator_eth": 0.10674707505165876,
+        "denominator_eth": 0.10578244569604756,
+        "health_factor_unadjusted": 1.0091189927521902,
+        "health_factor_adjusted": 0.9840187416081875,
+        "price_details_eth": {
+            "WETH": 1.0003265634143428,
+            "wstETH": 1.2174000184995115,
+            "cbBTC": 28.49713180516671,
+            "USDC": 0.0002603609675302
+        }
+    },
+    {
+        "datetime_utc": "2025-10-23T16:00:00+00:00",
+        "numerator_eth": 0.10651581975403963,
+        "denominator_eth": 0.10459852191164662,
+        "health_factor_unadjusted": 1.0183300663083226,
+        "health_factor_adjusted": 0.9930007041662855,
+        "price_details_eth": {
+            "WETH": 0.9984236484922328,
+            "wstETH": 1.2149298419496806,
+            "cbBTC": 28.32055469621892,
+            "USDC": 0.0002574469912087
+        }
+    },
+    {
+        "datetime_utc": "2025-10-23T17:00:00+00:00",
+        "numerator_eth": 0.1058633240741986,
+        "denominator_eth": 0.10345756440411613,
+        "health_factor_unadjusted": 1.0232535888887284,
+        "health_factor_adjusted": 0.9978017618499161,
+        "price_details_eth": {
+            "WETH": 0.9924477162398708,
+            "wstETH": 1.2075890151515327,
+            "cbBTC": 28.085471296116506,
+            "USDC": 0.0002546387672296
+        }
+    },
+    {
+        "datetime_utc": "2025-10-23T18:00:00+00:00",
+        "numerator_eth": 0.10678273808753234,
+        "denominator_eth": 0.1036969871389212,
+        "health_factor_unadjusted": 1.0297573828685804,
+        "health_factor_adjusted": 1.0041437841621494,
+        "price_details_eth": {
+            "WETH": 1.0011138049492512,
+            "wstETH": 1.2171980623947976,
+            "cbBTC": 28.356933748294345,
+            "USDC": 0.0002552280553149
+        }
+    },
+    {
+        "datetime_utc": "2025-10-23T19:00:00+00:00",
+        "numerator_eth": 0.10673325162698817,
+        "denominator_eth": 0.10492531616366008,
+        "health_factor_unadjusted": 1.0172306887358635,
+        "health_factor_adjusted": 0.991928671885481,
+        "price_details_eth": {
+            "WETH": 1.0001866499505954,
+            "wstETH": 1.2179319420645465,
+            "cbBTC": 28.583999436987487,
+            "USDC": 0.000258251325681
+        }
+    },
+    {
+        "datetime_utc": "2025-10-23T20:00:00+00:00",
+        "numerator_eth": 0.10665985998108642,
+        "denominator_eth": 0.1052239055939803,
+        "health_factor_unadjusted": 1.0136466554724448,
+        "health_factor_adjusted": 0.9884337858243906,
+        "price_details_eth": {
+            "WETH": 0.9994131100347508,
+            "wstETH": 1.217333183817466,
+            "cbBTC": 28.595713963773736,
+            "USDC": 0.0002589862399899
+        }
+    },
+    {
+        "datetime_utc": "2025-10-23T21:00:00+00:00",
+        "numerator_eth": 0.10673648628743665,
+        "denominator_eth": 0.10552173499040989,
+        "health_factor_unadjusted": 1.0115118586435028,
+        "health_factor_adjusted": 0.9863520887160293,
+        "price_details_eth": {
+            "WETH": 1.0002033196418465,
+            "wstETH": 1.2169016946876683,
+            "cbBTC": 28.5376647190054,
+            "USDC": 0.0002597192836372
+        }
+    },
+    {
+        "datetime_utc": "2025-10-23T22:00:00+00:00",
+        "numerator_eth": 0.10658226879048965,
+        "denominator_eth": 0.10591246518707087,
+        "health_factor_unadjusted": 1.006324124381731,
+        "health_factor_adjusted": 0.9812933912019295,
+        "price_details_eth": {
+            "WETH": 0.998617977306915,
+            "wstETH": 1.215550417011975,
+            "cbBTC": 28.55381782047006,
+            "USDC": 0.0002606809828244
+        }
+    },
+    {
+        "datetime_utc": "2025-10-23T23:00:00+00:00",
+        "numerator_eth": 0.1067355769034811,
+        "denominator_eth": 0.10545667375777155,
+        "health_factor_unadjusted": 1.0121272850748841,
+        "health_factor_adjusted": 0.9869522073808348,
+        "price_details_eth": {
+            "WETH": 1.0001901749770967,
+            "wstETH": 1.2167668816517117,
+            "cbBTC": 28.547330621867133,
+            "USDC": 0.0002595591492655
+        }
+    },
+    {
+        "datetime_utc": "2025-10-24T00:00:00+00:00",
+        "numerator_eth": 0.1066992039109289,
+        "denominator_eth": 0.10535561424293381,
+        "health_factor_unadjusted": 1.012752900523146,
+        "health_factor_adjusted": 0.9875622616267173,
+        "price_details_eth": {
+            "WETH": 0.9998713321218552,
+            "wstETH": 1.217024844244888,
+            "cbBTC": 28.526634449313235,
+            "USDC": 0.0002593104127867
+        }
+    },
+    {
+        "datetime_utc": "2025-10-24T01:00:00+00:00",
+        "numerator_eth": 0.10681902445079099,
+        "denominator_eth": 0.10498597197445181,
+        "health_factor_unadjusted": 1.0174599752887485,
+        "health_factor_adjusted": 0.9921522552952255,
+        "price_details_eth": {
+            "WETH": 1.0010049345480885,
+            "wstETH": 1.2177815824193092,
+            "cbBTC": 28.59784681933514,
+            "USDC": 0.0002584006170448
+        }
+    },
+    {
+        "datetime_utc": "2025-10-24T02:00:00+00:00",
+        "numerator_eth": 0.1067706292578411,
+        "denominator_eth": 0.1047188239510834,
+        "health_factor_unadjusted": 1.0195934716352062,
+        "health_factor_adjusted": 0.9942326842685631,
+        "price_details_eth": {
+            "WETH": 1.0006549863821523,
+            "wstETH": 1.215619338192279,
+            "cbBTC": 28.524757619921104,
+            "USDC": 0.0002577430890648
+        }
+    },
+    {
+        "datetime_utc": "2025-10-24T03:00:00+00:00",
+        "numerator_eth": 0.10676218463997818,
+        "denominator_eth": 0.10453406673740284,
+        "health_factor_unadjusted": 1.0213147538607918,
+        "health_factor_adjusted": 0.9959111523003201,
+        "price_details_eth": {
+            "WETH": 1.0006525416389178,
+            "wstETH": 1.2167792589149085,
+            "cbBTC": 28.47932178810393,
+            "USDC": 0.0002572883485207
+        }
+    },
+    {
+        "datetime_utc": "2025-10-24T04:00:00+00:00",
+        "numerator_eth": 0.10674970435984893,
+        "denominator_eth": 0.10448705139033,
+        "health_factor_unadjusted": 1.0216548647838322,
+        "health_factor_adjusted": 0.99624280349795,
+        "price_details_eth": {
+            "WETH": 1.0005789906129934,
+            "wstETH": 1.2176230509656436,
+            "cbBTC": 28.44518554379002,
+            "USDC": 0.0002571726302541
+        }
+    },
+    {
+        "datetime_utc": "2025-10-24T05:00:00+00:00",
+        "numerator_eth": 0.10657332572128361,
+        "denominator_eth": 0.10216085675449074,
+        "health_factor_unadjusted": 1.0431913856928272,
+        "health_factor_adjusted": 1.0172436372506568,
+        "price_details_eth": {
+            "WETH": 0.99973337197552,
+            "wstETH": 1.2056945784271695,
+            "cbBTC": 27.972370393028143,
+            "USDC": 0.0002514471974371
+        }
+    },
+    {
+        "datetime_utc": "2025-10-24T06:00:00+00:00",
+        "numerator_eth": 0.10662449985095471,
+        "denominator_eth": 0.10211458272959453,
+        "health_factor_unadjusted": 1.0441652602479188,
+        "health_factor_adjusted": 1.0181932882046754,
+        "price_details_eth": {
+            "WETH": 1.0002834570340653,
+            "wstETH": 1.2170005779955566,
+            "cbBTC": 27.9399446159549,
+            "USDC": 0.0002513333037772
+        }
+    },
+    {
+        "datetime_utc": "2025-10-24T07:00:00+00:00",
+        "numerator_eth": 0.10657596762635729,
+        "denominator_eth": 0.10201349380656609,
+        "health_factor_unadjusted": 1.0447242188218981,
+        "health_factor_adjusted": 1.0187383435614061,
+        "price_details_eth": {
+            "WETH": 0.9997679811371724,
+            "wstETH": 1.2166637293457516,
+            "cbBTC": 27.97996508150141,
+            "USDC": 0.0002510844949164
+        }
+    },
+    {
+        "datetime_utc": "2025-10-24T08:00:00+00:00",
+        "numerator_eth": 0.10664793439543528,
+        "denominator_eth": 0.10298311116337719,
+        "health_factor_unadjusted": 1.0355866431947667,
+        "health_factor_adjusted": 1.0098280507866793,
+        "price_details_eth": {
+            "WETH": 1.0001079644215656,
+            "wstETH": 1.217491341055167,
+            "cbBTC": 28.17486309873564,
+            "USDC": 0.0002534710015952
+        }
+    },
+    {
+        "datetime_utc": "2025-10-24T09:00:00+00:00",
+        "numerator_eth": 0.10666428055846713,
+        "denominator_eth": 0.10276839294814759,
+        "health_factor_unadjusted": 1.0379093950830314,
+        "health_factor_adjusted": 1.012093027867256,
+        "price_details_eth": {
+            "WETH": 1.0003371427997414,
+            "wstETH": 1.2168634741437256,
+            "cbBTC": 28.14191613519341,
+            "USDC": 0.0002529425184249
+        }
+    },
+    {
+        "datetime_utc": "2025-10-24T10:00:00+00:00",
+        "numerator_eth": 0.10672588444249584,
+        "denominator_eth": 0.10265334240495963,
+        "health_factor_unadjusted": 1.0396727660505232,
+        "health_factor_adjusted": 1.013812537749522,
+        "price_details_eth": {
+            "WETH": 1.0009604513372483,
+            "wstETH": 1.2179115062896329,
+            "cbBTC": 28.139312554951367,
+            "USDC": 0.0002526593460087
+        }
+    },
+    {
+        "datetime_utc": "2025-10-24T11:00:00+00:00",
+        "numerator_eth": 0.10659742027540639,
+        "denominator_eth": 0.10260599455250591,
+        "health_factor_unadjusted": 1.038900512005251,
+        "health_factor_adjusted": 1.0130594923115819,
+        "price_details_eth": {
+            "WETH": 0.9997640433505792,
+            "wstETH": 1.216680974308111,
+            "cbBTC": 28.09135546916368,
+            "USDC": 0.0002525428093509
+        }
+    },
+    {
+        "datetime_utc": "2025-10-24T12:00:00+00:00",
+        "numerator_eth": 0.10658243506280211,
+        "denominator_eth": 0.10288126652537731,
+        "health_factor_unadjusted": 1.0359751455481145,
+        "health_factor_adjusted": 1.0102068897537375,
+        "price_details_eth": {
+            "WETH": 0.9995489891540458,
+            "wstETH": 1.217103964804732,
+            "cbBTC": 28.11780287188775,
+            "USDC": 0.0002532203327029
+        }
+    },
+    {
+        "datetime_utc": "2025-10-24T13:00:00+00:00",
+        "numerator_eth": 0.10661530874740109,
+        "denominator_eth": 0.10240261481780437,
+        "health_factor_unadjusted": 1.0411385386700525,
+        "health_factor_adjusted": 1.0152418515756536,
+        "price_details_eth": {
+            "WETH": 0.9999983419040293,
+            "wstETH": 1.2197032299498696,
+            "cbBTC": 28.06521374430224,
+            "USDC": 0.0002520422334363
+        }
+    },
+    {
+        "datetime_utc": "2025-10-24T14:00:00+00:00",
+        "numerator_eth": 0.10683096148469153,
+        "denominator_eth": 0.10315703957136892,
+        "health_factor_unadjusted": 1.0356148444021682,
+        "health_factor_adjusted": 1.0098555505333082,
+        "price_details_eth": {
+            "WETH": 1.0019259457320415,
+            "wstETH": 1.2177302575774405,
+            "cbBTC": 28.14344465180065,
+            "USDC": 0.0002538990893397
+        }
+    },
+    {
+        "datetime_utc": "2025-10-24T15:00:00+00:00",
+        "numerator_eth": 0.10667877761282303,
+        "denominator_eth": 0.10420077713411967,
+        "health_factor_unadjusted": 1.0237810172520485,
+        "health_factor_adjusted": 0.9983160712604914,
+        "price_details_eth": {
+            "WETH": 1.0002092322876162,
+            "wstETH": 1.216852023061098,
+            "cbBTC": 28.215049347509268,
+            "USDC": 0.0002564680271242
+        }
+    },
+    {
+        "datetime_utc": "2025-10-24T16:00:00+00:00",
+        "numerator_eth": 0.10688499894561183,
+        "denominator_eth": 0.10444404979860317,
+        "health_factor_unadjusted": 1.023370878012826,
+        "health_factor_adjusted": 0.9979161335911356,
+        "price_details_eth": {
+            "WETH": 1.00205561037383,
+            "wstETH": 1.2199255879985995,
+            "cbBTC": 28.33414159801114,
+            "USDC": 0.0002570667909917
+        }
+    },
+    {
+        "datetime_utc": "2025-10-24T17:00:00+00:00",
+        "numerator_eth": 0.10680898961326898,
+        "denominator_eth": 0.10469922184807312,
+        "health_factor_unadjusted": 1.0201507492410717,
+        "health_factor_adjusted": 0.9947761004686236,
+        "price_details_eth": {
+            "WETH": 1.001198194245107,
+            "wstETH": 1.2186328219855664,
+            "cbBTC": 28.39589360099988,
+            "USDC": 0.0002576948426618
+        }
+    },
+    {
+        "datetime_utc": "2025-10-24T18:00:00+00:00",
+        "numerator_eth": 0.1066492038655553,
+        "denominator_eth": 0.10438342841654609,
+        "health_factor_unadjusted": 1.0217062754441018,
+        "health_factor_adjusted": 0.9962929353987339,
+        "price_details_eth": {
+            "WETH": 0.9997219418799276,
+            "wstETH": 1.2171122309979967,
+            "cbBTC": 28.35199634006064,
+            "USDC": 0.0002569175843669
+        }
+    },
+    {
+        "datetime_utc": "2025-10-24T19:00:00+00:00",
+        "numerator_eth": 0.10672815334536147,
+        "denominator_eth": 0.10388741763723348,
+        "health_factor_unadjusted": 1.027344367323169,
+        "health_factor_adjusted": 1.00179078859123,
+        "price_details_eth": {
+            "WETH": 1.000648863054744,
+            "wstETH": 1.2178622027582318,
+            "cbBTC": 28.281791119355123,
+            "USDC": 0.0002556967594412
+        }
+    },
+    {
+        "datetime_utc": "2025-10-24T20:00:00+00:00",
+        "numerator_eth": 0.10654693848671698,
+        "denominator_eth": 0.10332903832563323,
+        "health_factor_unadjusted": 1.0311422637162537,
+        "health_factor_adjusted": 1.0054942182722917,
+        "price_details_eth": {
+            "WETH": 0.9991156467658212,
+            "wstETH": 1.2164046376112436,
+            "cbBTC": 28.140480582974437,
+            "USDC": 0.0002543224276524
+        }
+    },
+    {
+        "datetime_utc": "2025-10-24T21:00:00+00:00",
+        "numerator_eth": 0.10666386898484388,
+        "denominator_eth": 0.10319304877098634,
+        "health_factor_unadjusted": 1.0336342443138806,
+        "health_factor_adjusted": 1.0079242147636875,
+        "price_details_eth": {
+            "WETH": 1.0002528341007095,
+            "wstETH": 1.2172384836476378,
+            "cbBTC": 28.163660846052,
+            "USDC": 0.0002539877183177
+        }
+    },
+    {
+        "datetime_utc": "2025-10-24T22:00:00+00:00",
+        "numerator_eth": 0.10663725500100683,
+        "denominator_eth": 0.10307168672131561,
+        "health_factor_unadjusted": 1.0345930914018295,
+        "health_factor_adjusted": 1.0088592120352233,
+        "price_details_eth": {
+            "WETH": 0.9999812550877312,
+            "wstETH": 1.2170038667582277,
+            "cbBTC": 28.183305890263888,
+            "USDC": 0.0002536890114721
+        }
+    },
+    {
+        "datetime_utc": "2025-10-24T23:00:00+00:00",
+        "numerator_eth": 0.1067758785199652,
+        "denominator_eth": 0.1032885303877896,
+        "health_factor_unadjusted": 1.0337631692413727,
+        "health_factor_adjusted": 1.0080499328859545,
+        "price_details_eth": {
+            "WETH": 1.0012441684571418,
+            "wstETH": 1.2174147830183808,
+            "cbBTC": 28.241008509415103,
+            "USDC": 0.0002542227259881
+        }
+    },
+    {
+        "datetime_utc": "2025-10-25T00:00:00+00:00",
+        "numerator_eth": 0.10664175284421513,
+        "denominator_eth": 0.10328527086477611,
+        "health_factor_unadjusted": 1.0324971987906526,
+        "health_factor_adjusted": 1.00681545146327,
+        "price_details_eth": {
+            "WETH": 0.999952361549369,
+            "wstETH": 1.2173662245263916,
+            "cbBTC": 28.22004198726113,
+            "USDC": 0.0002542147033662
+        }
+    },
+    {
+        "datetime_utc": "2025-10-25T01:00:00+00:00",
+        "numerator_eth": 0.10688638386827515,
+        "denominator_eth": 0.10371631716274013,
+        "health_factor_unadjusted": 1.030564782786887,
+        "health_factor_adjusted": 1.004931101274693,
+        "price_details_eth": {
+            "WETH": 1.0022259401507172,
+            "wstETH": 1.219949351134847,
+            "cbBTC": 28.281778800712573,
+            "USDC": 0.0002552756320529
+        }
+    },
+    {
+        "datetime_utc": "2025-10-25T02:00:00+00:00",
+        "numerator_eth": 0.10661874653931429,
+        "denominator_eth": 0.10326880364649486,
+        "health_factor_unadjusted": 1.0324390597598747,
+        "health_factor_adjusted": 1.006758758549634,
+        "price_details_eth": {
+            "WETH": 0.9997289119140312,
+            "wstETH": 1.2167510635392202,
+            "cbBTC": 28.21947150989623,
+            "USDC": 0.0002541741728145
+        }
+    },
+    {
+        "datetime_utc": "2025-10-25T03:00:00+00:00",
+        "numerator_eth": 0.10664418168716137,
+        "denominator_eth": 0.10320672818692682,
+        "health_factor_unadjusted": 1.0333064865113124,
+        "health_factor_adjusted": 1.007604609422046,
+        "price_details_eth": {
+            "WETH": 0.9999797137685572,
+            "wstETH": 1.2172033117516303,
+            "cbBTC": 28.224980590518843,
+            "USDC": 0.0002540213872875
+        }
+    },
+    {
+        "datetime_utc": "2025-10-25T04:00:00+00:00",
+        "numerator_eth": 0.10666711039473506,
+        "denominator_eth": 0.103495225224271,
+        "health_factor_unadjusted": 1.0306476474020003,
+        "health_factor_adjusted": 1.0050119047625605,
+        "price_details_eth": {
+            "WETH": 1.0000814182097064,
+            "wstETH": 1.216305522291797,
+            "cbBTC": 28.29428099376085,
+            "USDC": 0.0002547314613199
+        }
+    },
+    {
+        "datetime_utc": "2025-10-25T05:00:00+00:00",
+        "numerator_eth": 0.10669205672580033,
+        "denominator_eth": 0.10349856841566318,
+        "health_factor_unadjusted": 1.0308553863016896,
+        "health_factor_adjusted": 1.0052144764831639,
+        "price_details_eth": {
+            "WETH": 1.000239479024405,
+            "wstETH": 1.2170645282527184,
+            "cbBTC": 28.362668993690228,
+            "USDC": 0.0002547396898737
+        }
+    },
+    {
+        "datetime_utc": "2025-10-25T06:00:00+00:00",
+        "numerator_eth": 0.10669440764022799,
+        "denominator_eth": 0.10338443601112418,
+        "health_factor_unadjusted": 1.0320161501751353,
+        "health_factor_adjusted": 1.0063463681770632,
+        "price_details_eth": {
+            "WETH": 1.000305416538832,
+            "wstETH": 1.2180661364423622,
+            "cbBTC": 28.340085477478496,
+            "USDC": 0.0002544587772603
+        }
+    },
+    {
+        "datetime_utc": "2025-10-25T07:00:00+00:00",
+        "numerator_eth": 0.10669153490612605,
+        "denominator_eth": 0.10334153730621679,
+        "health_factor_unadjusted": 1.032416757939092,
+        "health_factor_adjusted": 1.0067370114516407,
+        "price_details_eth": {
+            "WETH": 1.000258768428074,
+            "wstETH": 1.2173167673641363,
+            "cbBTC": 28.358770998906454,
+            "USDC": 0.0002543531912319
+        }
+    },
+    {
+        "datetime_utc": "2025-10-25T08:00:00+00:00",
+        "numerator_eth": 0.10662862880369779,
+        "denominator_eth": 0.10336207939335691,
+        "health_factor_unadjusted": 1.0316029769284114,
+        "health_factor_adjusted": 1.005943471966381,
+        "price_details_eth": {
+            "WETH": 0.99961219038814,
+            "wstETH": 1.2167615750048408,
+            "cbBTC": 28.37884979770037,
+            "USDC": 0.0002544037512057
+        }
+    },
+    {
+        "datetime_utc": "2025-10-25T09:00:00+00:00",
+        "numerator_eth": 0.1065978065226531,
+        "denominator_eth": 0.10282350012039285,
+        "health_factor_unadjusted": 1.036706651668549,
+        "health_factor_adjusted": 1.0109202008075167,
+        "price_details_eth": {
+            "WETH": 0.999519465315402,
+            "wstETH": 1.216105876718116,
+            "cbBTC": 28.26576349312543,
+            "USDC": 0.0002530781529963
+        }
+    },
+    {
+        "datetime_utc": "2025-10-25T10:00:00+00:00",
+        "numerator_eth": 0.10662834481878128,
+        "denominator_eth": 0.10302457017332987,
+        "health_factor_unadjusted": 1.0349797590942469,
+        "health_factor_adjusted": 1.0092362619756623,
+        "price_details_eth": {
+            "WETH": 0.99971939358553,
+            "wstETH": 1.2168607776081537,
+            "cbBTC": 28.32517039681553,
+            "USDC": 0.000253573044121
+        }
+    },
+    {
+        "datetime_utc": "2025-10-25T11:00:00+00:00",
+        "numerator_eth": 0.10668425106030793,
+        "denominator_eth": 0.10303645294359462,
+        "health_factor_unadjusted": 1.0354029861520002,
+        "health_factor_adjusted": 1.009648961924604,
+        "price_details_eth": {
+            "WETH": 1.000277636697635,
+            "wstETH": 1.2174922623581197,
+            "cbBTC": 28.317290566315787,
+            "USDC": 0.00025360229103
+        }
+    },
+    {
+        "datetime_utc": "2025-10-25T12:00:00+00:00",
+        "numerator_eth": 0.10666610159686435,
+        "denominator_eth": 0.10304232109622966,
+        "health_factor_unadjusted": 1.0351678850212478,
+        "health_factor_adjusted": 1.0094197085654906,
+        "price_details_eth": {
+            "WETH": 1.0000631614828916,
+            "wstETH": 1.2173620613320368,
+            "cbBTC": 28.34508807706791,
+            "USDC": 0.0002536167342383
+        }
+    },
+    {
+        "datetime_utc": "2025-10-25T13:00:00+00:00",
+        "numerator_eth": 0.10672021488677479,
+        "denominator_eth": 0.10288157982674079,
+        "health_factor_unadjusted": 1.0373111986275727,
+        "health_factor_adjusted": 1.0115097106097641,
+        "price_details_eth": {
+            "WETH": 1.0006161633048114,
+            "wstETH": 1.2180558933316743,
+            "cbBTC": 28.344311313930977,
+            "USDC": 0.0002532211038275
+        }
+    },
+    {
+        "datetime_utc": "2025-10-25T14:00:00+00:00",
+        "numerator_eth": 0.1065934370372806,
+        "denominator_eth": 0.10302773381658949,
+        "health_factor_unadjusted": 1.0346091589963415,
+        "health_factor_adjusted": 1.0088748799735396,
+        "price_details_eth": {
+            "WETH": 0.9993749528036306,
+            "wstETH": 1.216824752117345,
+            "cbBTC": 28.325807027949644,
+            "USDC": 0.0002535808307553
+        }
+    },
+    {
+        "datetime_utc": "2025-10-25T15:00:00+00:00",
+        "numerator_eth": 0.10666053021210938,
+        "denominator_eth": 0.10320135566306539,
+        "health_factor_unadjusted": 1.0335186929165698,
+        "health_factor_adjusted": 1.0078115375260284,
+        "price_details_eth": {
+            "WETH": 0.9999743444899852,
+            "wstETH": 1.2172335865124455,
+            "cbBTC": 28.3563640242461,
+            "USDC": 0.0002540081639639
+        }
+    },
+    {
+        "datetime_utc": "2025-10-25T16:00:00+00:00",
+        "numerator_eth": 0.10668163008858854,
+        "denominator_eth": 0.10332693706526862,
+        "health_factor_unadjusted": 1.0324667808666472,
+        "health_factor_adjusted": 1.0067857901373836,
+        "price_details_eth": {
+            "WETH": 1.0001853983350852,
+            "wstETH": 1.2172432201200194,
+            "cbBTC": 28.341274435981987,
+            "USDC": 0.0002543172558474
+        }
+    },
+    {
+        "datetime_utc": "2025-10-25T17:00:00+00:00",
+        "numerator_eth": 0.10660271979198609,
+        "denominator_eth": 0.10330040109721018,
+        "health_factor_unadjusted": 1.0319681110595909,
+        "health_factor_adjusted": 1.0062995239591213,
+        "price_details_eth": {
+            "WETH": 0.999442502111512,
+            "wstETH": 1.2170284832111735,
+            "cbBTC": 28.317862731462185,
+            "USDC": 0.0002542519432119
+        }
+    },
+    {
+        "datetime_utc": "2025-10-25T18:00:00+00:00",
+        "numerator_eth": 0.10647657704831373,
+        "denominator_eth": 0.10326325849230424,
+        "health_factor_unadjusted": 1.031117733479706,
+        "health_factor_adjusted": 1.005470298186878,
+        "price_details_eth": {
+            "WETH": 0.9982710803398056,
+            "wstETH": 1.2159317292591736,
+            "cbBTC": 28.26720715519484,
+            "USDC": 0.0002541605245981
+        }
+    },
+    {
+        "datetime_utc": "2025-10-25T19:00:00+00:00",
+        "numerator_eth": 0.10623355817888999,
+        "denominator_eth": 0.10268977330666368,
+        "health_factor_unadjusted": 1.0345096182230675,
+        "health_factor_adjusted": 1.0087778151207727,
+        "price_details_eth": {
+            "WETH": 0.996072554296454,
+            "wstETH": 1.2139970990744398,
+            "cbBTC": 28.17274943184449,
+            "USDC": 0.0002527490129166
+        }
+    },
+    {
+        "datetime_utc": "2025-10-25T20:00:00+00:00",
+        "numerator_eth": 0.10617187937591283,
+        "denominator_eth": 0.10269741180280093,
+        "health_factor_unadjusted": 1.0338320850751679,
+        "health_factor_adjusted": 1.0081171345465465,
+        "price_details_eth": {
+            "WETH": 0.9954582654048691,
+            "wstETH": 1.213767018645015,
+            "cbBTC": 28.178159594321443,
+            "USDC": 0.0002527678134485
+        }
+    },
+    {
+        "datetime_utc": "2025-10-25T21:00:00+00:00",
+        "numerator_eth": 0.10633194851936029,
+        "denominator_eth": 0.10293800866569382,
+        "health_factor_unadjusted": 1.0329707160422035,
+        "health_factor_adjusted": 1.0072771907163682,
+        "price_details_eth": {
+            "WETH": 0.9969547285216892,
+            "wstETH": 1.2155566982540056,
+            "cbBTC": 28.215676409905495,
+            "USDC": 0.0002533599914001
+        }
+    },
+    {
+        "datetime_utc": "2025-10-25T22:00:00+00:00",
+        "numerator_eth": 0.10653751607735402,
+        "denominator_eth": 0.10287877832071621,
+        "health_factor_unadjusted": 1.0355635809090968,
+        "health_factor_adjusted": 1.0098055621391695,
+        "price_details_eth": {
+            "WETH": 0.9989991617538097,
+            "wstETH": 1.2162876205351174,
+            "cbBTC": 28.203238577339896,
+            "USDC": 0.0002532142085169
+        }
+    },
+    {
+        "datetime_utc": "2025-10-25T23:00:00+00:00",
+        "numerator_eth": 0.10665344990345317,
+        "denominator_eth": 0.10247219009399443,
+        "health_factor_unadjusted": 1.0408038493724336,
+        "health_factor_adjusted": 1.014915487149022,
+        "price_details_eth": {
+            "WETH": 1.0002367169697417,
+            "wstETH": 1.2174416495720977,
+            "cbBTC": 28.166067872164355,
+            "USDC": 0.0002522134781651
+        }
+    },
+    {
+        "datetime_utc": "2025-10-26T00:00:00+00:00",
+        "numerator_eth": 0.10661449084491381,
+        "denominator_eth": 0.102734560973418,
+        "health_factor_unadjusted": 1.0377665493942172,
+        "health_factor_adjusted": 1.0119537352407562,
+        "price_details_eth": {
+            "WETH": 0.9997540401252992,
+            "wstETH": 1.2169882283360185,
+            "cbBTC": 28.218898804813637,
+            "USDC": 0.0002528592482224
+        }
+    },
+    {
+        "datetime_utc": "2025-10-26T01:00:00+00:00",
+        "numerator_eth": 0.10668025161061051,
+        "denominator_eth": 0.10280110465380515,
+        "health_factor_unadjusted": 1.0377344870939746,
+        "health_factor_adjusted": 1.0119224704399108,
+        "price_details_eth": {
+            "WETH": 1.000313113033147,
+            "wstETH": 1.2180999518363762,
+            "cbBTC": 28.281355248861505,
+            "USDC": 0.0002530230313236
+        }
+    },
+    {
+        "datetime_utc": "2025-10-26T02:00:00+00:00",
+        "numerator_eth": 0.10675133944678264,
+        "denominator_eth": 0.10296416479606273,
+        "health_factor_unadjusted": 1.036781482744225,
+        "health_factor_adjusted": 1.0109931705776318,
+        "price_details_eth": {
+            "WETH": 1.0009038936168175,
+            "wstETH": 1.2186226042883463,
+            "cbBTC": 28.350668192013465,
+            "USDC": 0.000253424369146
+        }
+    },
+    {
+        "datetime_utc": "2025-10-26T03:00:00+00:00",
+        "numerator_eth": 0.10666784756996127,
+        "denominator_eth": 0.10335891725077553,
+        "health_factor_unadjusted": 1.032013980091891,
+        "health_factor_adjusted": 1.0063442520712338,
+        "price_details_eth": {
+            "WETH": 0.9999950949867604,
+            "wstETH": 1.2173976806990667,
+            "cbBTC": 28.38130496521266,
+            "USDC": 0.000254395968265
+        }
+    },
+    {
+        "datetime_utc": "2025-10-26T04:00:00+00:00",
+        "numerator_eth": 0.10665765573375663,
+        "denominator_eth": 0.10331769544301811,
+        "health_factor_unadjusted": 1.0323270885632614,
+        "health_factor_adjusted": 1.006649572460799,
+        "price_details_eth": {
+            "WETH": 0.999957724482968,
+            "wstETH": 1.2169818816638227,
+            "cbBTC": 28.335827595480943,
+            "USDC": 0.0002542945095619
+        }
+    },
+    {
+        "datetime_utc": "2025-10-26T05:00:00+00:00",
+        "numerator_eth": 0.10657803889929052,
+        "denominator_eth": 0.10310295658789637,
+        "health_factor_unadjusted": 1.0337049724508298,
+        "health_factor_adjusted": 1.007993183649237,
+        "price_details_eth": {
+            "WETH": 0.999218875293002,
+            "wstETH": 1.2169886064595914,
+            "cbBTC": 28.322138897741294,
+            "USDC": 0.0002537659755909
+        }
+    },
+    {
+        "datetime_utc": "2025-10-26T06:00:00+00:00",
+        "numerator_eth": 0.10665141733563646,
+        "denominator_eth": 0.10296366533429457,
+        "health_factor_unadjusted": 1.0358160520934134,
+        "health_factor_adjusted": 1.0100517534990268,
+        "price_details_eth": {
+            "WETH": 0.9999730843061831,
+            "wstETH": 1.2173561574562712,
+            "cbBTC": 28.309989489065075,
+            "USDC": 0.0002534231398272
+        }
+    },
+    {
+        "datetime_utc": "2025-10-26T07:00:00+00:00",
+        "numerator_eth": 0.10667546174224601,
+        "denominator_eth": 0.1029855598589942,
+        "health_factor_unadjusted": 1.03582931323871,
+        "health_factor_adjusted": 1.0100646847941472,
+        "price_details_eth": {
+            "WETH": 1.000214296812416,
+            "wstETH": 1.217370931836753,
+            "cbBTC": 28.30407815359481,
+            "USDC": 0.0002534770285381
+        }
+    },
+    {
+        "datetime_utc": "2025-10-26T08:00:00+00:00",
+        "numerator_eth": 0.10672708235611142,
+        "denominator_eth": 0.10278784542460592,
+        "health_factor_unadjusted": 1.0383239566432483,
+        "health_factor_adjusted": 1.012497277859312,
+        "price_details_eth": {
+            "WETH": 1.0007779265541277,
+            "wstETH": 1.2178150217969423,
+            "cbBTC": 28.27923368177388,
+            "USDC": 0.000252990396554
+        }
+    },
+    {
+        "datetime_utc": "2025-10-26T09:00:00+00:00",
+        "numerator_eth": 0.10660825300710623,
+        "denominator_eth": 0.10256859310522289,
+        "health_factor_unadjusted": 1.0393849596604992,
+        "health_factor_adjusted": 1.013531890091741,
+        "price_details_eth": {
+            "WETH": 0.999674679318096,
+            "wstETH": 1.2172670276379638,
+            "cbBTC": 28.24930977147802,
+            "USDC": 0.0002524507536517
+        }
+    },
+    {
+        "datetime_utc": "2025-10-26T10:00:00+00:00",
+        "numerator_eth": 0.10665990517753496,
+        "denominator_eth": 0.10199608046830025,
+        "health_factor_unadjusted": 1.0457255287440599,
+        "health_factor_adjusted": 1.0197147474707986,
+        "price_details_eth": {
+            "WETH": 1.0002645582861516,
+            "wstETH": 1.2185057906521144,
+            "cbBTC": 28.24064241373456,
+            "USDC": 0.0002510416356918
+        }
+    },
+    {
+        "datetime_utc": "2025-10-26T11:00:00+00:00",
+        "numerator_eth": 0.10662343003005056,
+        "denominator_eth": 0.10192497636923487,
+        "health_factor_unadjusted": 1.0460971768469685,
+        "health_factor_adjusted": 1.0200771514104447,
+        "price_details_eth": {
+            "WETH": 0.9999241553540176,
+            "wstETH": 1.2177720784501824,
+            "cbBTC": 28.23321254122469,
+            "USDC": 0.000250866628091
+        }
+    },
+    {
+        "datetime_utc": "2025-10-26T12:00:00+00:00",
+        "numerator_eth": 0.10655588214628037,
+        "denominator_eth": 0.10048363726044042,
+        "health_factor_unadjusted": 1.0604301859625311,
+        "health_factor_adjusted": 1.0340536494197516,
+        "price_details_eth": {
+            "WETH": 0.99976467816105,
+            "wstETH": 1.2162250745092162,
+            "cbBTC": 27.97642837389033,
+            "USDC": 0.0002473190787558
+        }
+    },
+    {
+        "datetime_utc": "2025-10-26T13:00:00+00:00",
+        "numerator_eth": 0.10654505262798797,
+        "denominator_eth": 0.09977771871128134,
+        "health_factor_unadjusted": 1.0678240994493842,
+        "health_factor_adjusted": 1.0412636509132818,
+        "price_details_eth": {
+            "WETH": 0.9998283933931722,
+            "wstETH": 1.2163995110628434,
+            "cbBTC": 27.911310413355007,
+            "USDC": 0.0002455816105469
+        }
+    },
+    {
+        "datetime_utc": "2025-10-26T14:00:00+00:00",
+        "numerator_eth": 0.10659167260776042,
+        "denominator_eth": 0.09951427789368808,
+        "health_factor_unadjusted": 1.0711193897385578,
+        "health_factor_adjusted": 1.0444769760284325,
+        "price_details_eth": {
+            "WETH": 1.0003619479827977,
+            "wstETH": 1.2176278704515735,
+            "cbBTC": 27.87784433838884,
+            "USDC": 0.0002449332070646
+        }
+    },
+    {
+        "datetime_utc": "2025-10-26T15:00:00+00:00",
+        "numerator_eth": 0.1065993564749164,
+        "denominator_eth": 0.09988084014007807,
+        "health_factor_unadjusted": 1.0672653166054265,
+        "health_factor_adjusted": 1.0407187669155642,
+        "price_details_eth": {
+            "WETH": 1.0003305182591131,
+            "wstETH": 1.2173760881702662,
+            "cbBTC": 27.926313120785448,
+            "USDC": 0.0002458354219879
+        }
+    },
+    {
+        "datetime_utc": "2025-10-26T16:00:00+00:00",
+        "numerator_eth": 0.10656686453469082,
+        "denominator_eth": 0.09968938034493396,
+        "health_factor_unadjusted": 1.068989135712953,
+        "health_factor_adjusted": 1.0423997087283055,
+        "price_details_eth": {
+            "WETH": 1.0000780857666018,
+            "wstETH": 1.217139197409266,
+            "cbBTC": 27.89219464637413,
+            "USDC": 0.0002453641844666
+        }
+    },
+    {
+        "datetime_utc": "2025-10-26T17:00:00+00:00",
+        "numerator_eth": 0.10661325034899995,
+        "denominator_eth": 0.10013449763416724,
+        "health_factor_unadjusted": 1.0647005064977935,
+        "health_factor_adjusted": 1.0382177524339185,
+        "price_details_eth": {
+            "WETH": 1.0003219291447156,
+            "wstETH": 1.2175403140301868,
+            "cbBTC": 28.01591828999061,
+            "USDC": 0.0002464597459024
+        }
+    },
+    {
+        "datetime_utc": "2025-10-26T18:00:00+00:00",
+        "numerator_eth": 0.10665667221668237,
+        "denominator_eth": 0.10000198225067584,
+        "health_factor_unadjusted": 1.066545580559845,
+        "health_factor_adjusted": 1.040016933174499,
+        "price_details_eth": {
+            "WETH": 1.0008274924016602,
+            "wstETH": 1.2184110921153866,
+            "cbBTC": 27.96694189700039,
+            "USDC": 0.0002461335875003
+        }
+    },
+    {
+        "datetime_utc": "2025-10-26T19:00:00+00:00",
+        "numerator_eth": 0.10649041079930653,
+        "denominator_eth": 0.09968958457629032,
+        "health_factor_unadjusted": 1.0682200277182585,
+        "health_factor_adjusted": 1.0416497310878727,
+        "price_details_eth": {
+            "WETH": 0.9993090076985438,
+            "wstETH": 1.2163768362120675,
+            "cbBTC": 27.90582280505528,
+            "USDC": 0.0002453646871386
+        }
+    },
+    {
+        "datetime_utc": "2025-10-26T20:00:00+00:00",
+        "numerator_eth": 0.1065522707931639,
+        "denominator_eth": 0.09988476183216934,
+        "health_factor_unadjusted": 1.0667520134071862,
+        "health_factor_adjusted": 1.0402182313287567,
+        "price_details_eth": {
+            "WETH": 0.9998645489964204,
+            "wstETH": 1.2171553405241755,
+            "cbBTC": 27.92828255491237,
+            "USDC": 0.000245845074398
+        }
+    },
+    {
+        "datetime_utc": "2025-10-26T21:00:00+00:00",
+        "numerator_eth": 0.10654517952690894,
+        "denominator_eth": 0.09984059674114323,
+        "health_factor_unadjusted": 1.0671528717236003,
+        "health_factor_adjusted": 1.0406091189236926,
+        "price_details_eth": {
+            "WETH": 0.9998262771610344,
+            "wstETH": 1.2170927340537454,
+            "cbBTC": 27.90781845827026,
+            "USDC": 0.0002457363714298
+        }
+    },
+    {
+        "datetime_utc": "2025-10-26T22:00:00+00:00",
+        "numerator_eth": 0.1066034080505473,
+        "denominator_eth": 0.09949495092237773,
+        "health_factor_unadjusted": 1.0714454056439038,
+        "health_factor_adjusted": 1.0447948827998113,
+        "price_details_eth": {
+            "WETH": 1.00059629968876,
+            "wstETH": 1.2176104859748758,
+            "cbBTC": 27.786023692670582,
+            "USDC": 0.0002448856378397
+        }
+    },
+    {
+        "datetime_utc": "2025-10-26T23:00:00+00:00",
+        "numerator_eth": 0.10648125461618904,
+        "denominator_eth": 0.09754569031923652,
+        "health_factor_unadjusted": 1.0916038860118702,
+        "health_factor_adjusted": 1.0644519526071288,
+        "price_details_eth": {
+            "WETH": 0.9999466948657708,
+            "wstETH": 1.2173216366159023,
+            "cbBTC": 27.541989955749237,
+            "USDC": 0.0002400879478897
+        }
+    },
+    {
+        "datetime_utc": "2025-10-27T00:00:00+00:00",
+        "numerator_eth": 0.10648933307476935,
+        "denominator_eth": 0.0976189049333366,
+        "health_factor_unadjusted": 1.0908679332911009,
+        "health_factor_adjusted": 1.063734305555219,
+        "price_details_eth": {
+            "WETH": 1.0000468749680818,
+            "wstETH": 1.218131194610386,
+            "cbBTC": 27.51849573887712,
+            "USDC": 0.0002402681500739
+        }
+    },
+    {
+        "datetime_utc": "2025-10-27T01:00:00+00:00",
+        "numerator_eth": 0.10639578295600091,
+        "denominator_eth": 0.09734418372786963,
+        "health_factor_unadjusted": 1.0929855167663172,
+        "health_factor_adjusted": 1.0657992174650124,
+        "price_details_eth": {
+            "WETH": 0.9991654149947602,
+            "wstETH": 1.2165752145396784,
+            "cbBTC": 27.51508365148801,
+            "USDC": 0.0002395919823186
+        }
+    },
+    {
+        "datetime_utc": "2025-10-27T02:00:00+00:00",
+        "numerator_eth": 0.10635111757845687,
+        "denominator_eth": 0.09691831352938293,
+        "health_factor_unadjusted": 1.0973273647215722,
+        "health_factor_adjusted": 1.070033068766861,
+        "price_details_eth": {
+            "WETH": 0.998790612514996,
+            "wstETH": 1.217515912831689,
+            "cbBTC": 27.505966544069576,
+            "USDC": 0.0002385437934987
+        }
+    },
+    {
+        "datetime_utc": "2025-10-27T03:00:00+00:00",
+        "numerator_eth": 0.10640915830649617,
+        "denominator_eth": 0.09658754162541038,
+        "health_factor_unadjusted": 1.1016861648594016,
+        "health_factor_adjusted": 1.074283450592349,
+        "price_details_eth": {
+            "WETH": 0.9996524980524684,
+            "wstETH": 1.216865757787971,
+            "cbBTC": 27.308900815296543,
+            "USDC": 0.000237729668883
+        }
+    },
+    {
+        "datetime_utc": "2025-10-27T04:00:00+00:00",
+        "numerator_eth": 0.10642842784524849,
+        "denominator_eth": 0.09659362310708083,
+        "health_factor_unadjusted": 1.1018162940970242,
+        "health_factor_adjusted": 1.074410343069422,
+        "price_details_eth": {
+            "WETH": 0.9997995048820452,
+            "wstETH": 1.2168287356842804,
+            "cbBTC": 27.341758778695272,
+            "USDC": 0.0002377446371553
+        }
+    },
+    {
+        "datetime_utc": "2025-10-27T05:00:00+00:00",
+        "numerator_eth": 0.1064072133225192,
+        "denominator_eth": 0.09634283403124316,
+        "health_factor_unadjusted": 1.1044642229230277,
+        "health_factor_adjusted": 1.0769924088217728,
+        "price_details_eth": {
+            "WETH": 0.9996517273469312,
+            "wstETH": 1.215811275805351,
+            "cbBTC": 27.31834575385234,
+            "USDC": 0.0002371273732416
+        }
+    },
+    {
+        "datetime_utc": "2025-10-27T06:00:00+00:00",
+        "numerator_eth": 0.10644651797027886,
+        "denominator_eth": 0.0959871375542105,
+        "health_factor_unadjusted": 1.1089664790781082,
+        "health_factor_adjusted": 1.081382678421235,
+        "price_details_eth": {
+            "WETH": 1.0001113447557253,
+            "wstETH": 1.2176958353822052,
+            "cbBTC": 27.295472276794506,
+            "USDC": 0.0002362519020961
+        }
+    },
+    {
+        "datetime_utc": "2025-10-27T07:00:00+00:00",
+        "numerator_eth": 0.10649863926928355,
+        "denominator_eth": 0.09598481548112434,
+        "health_factor_unadjusted": 1.109536323380512,
+        "health_factor_adjusted": 1.0819383487409808,
+        "price_details_eth": {
+            "WETH": 1.000530509604642,
+            "wstETH": 1.217879590101548,
+            "cbBTC": 27.369219825141016,
+            "USDC": 0.0002362461868076
+        }
+    },
+    {
+        "datetime_utc": "2025-10-27T08:00:00+00:00",
+        "numerator_eth": 0.10650633468986234,
+        "denominator_eth": 0.09672748371881426,
+        "health_factor_unadjusted": 1.1010969229746024,
+        "health_factor_adjusted": 1.0737088651746258,
+        "price_details_eth": {
+            "WETH": 1.0003326139541169,
+            "wstETH": 1.2176004207600477,
+            "cbBTC": 27.512170945566705,
+            "USDC": 0.0002380741065503
+        }
+    },
+    {
+        "datetime_utc": "2025-10-27T09:00:00+00:00",
+        "numerator_eth": 0.10650939339367249,
+        "denominator_eth": 0.09748163359623623,
+        "health_factor_unadjusted": 1.0926098534091948,
+        "health_factor_adjusted": 1.065432898144299,
+        "price_details_eth": {
+            "WETH": 1.0001576921337385,
+            "wstETH": 1.215847406745656,
+            "cbBTC": 27.599989167113343,
+            "USDC": 0.0002399302859046
+        }
+    },
+    {
+        "datetime_utc": "2025-10-27T10:00:00+00:00",
+        "numerator_eth": 0.10650735787949439,
+        "denominator_eth": 0.09764599634566144,
+        "health_factor_unadjusted": 1.0907498706087673,
+        "health_factor_adjusted": 1.0636191794968106,
+        "price_details_eth": {
+            "WETH": 0.9999841399014904,
+            "wstETH": 1.21720534560135,
+            "cbBTC": 27.704880811525864,
+            "USDC": 0.0002403348298172
+        }
+    },
+    {
+        "datetime_utc": "2025-10-27T11:00:00+00:00",
+        "numerator_eth": 0.10650483558647549,
+        "denominator_eth": 0.0974283192183484,
+        "health_factor_unadjusted": 1.0931609663488655,
+        "health_factor_adjusted": 1.065970303014561,
+        "price_details_eth": {
+            "WETH": 1.0000239878996058,
+            "wstETH": 1.2161043456589853,
+            "cbBTC": 27.675217144729192,
+            "USDC": 0.0002397990639148
+        }
+    },
+    {
+        "datetime_utc": "2025-10-27T12:00:00+00:00",
+        "numerator_eth": 0.10639442777850192,
+        "denominator_eth": 0.09763630515387221,
+        "health_factor_unadjusted": 1.0897014958813438,
+        "health_factor_adjusted": 1.0625968814453197,
+        "price_details_eth": {
+            "WETH": 0.9988384150558012,
+            "wstETH": 1.2173569661904868,
+            "cbBTC": 27.733641298917703,
+            "USDC": 0.000240310977012
+        }
+    },
+    {
+        "datetime_utc": "2025-10-27T13:00:00+00:00",
+        "numerator_eth": 0.10662841935491195,
+        "denominator_eth": 0.09802716909043775,
+        "health_factor_unadjusted": 1.0877435342087547,
+        "health_factor_adjusted": 1.0606876209963378,
+        "price_details_eth": {
+            "WETH": 1.001037333758107,
+            "wstETH": 1.218130615778801,
+            "cbBTC": 27.775706269014066,
+            "USDC": 0.0002412730053715
+        }
+    },
+    {
+        "datetime_utc": "2025-10-27T14:00:00+00:00",
+        "numerator_eth": 0.10648072031125841,
+        "denominator_eth": 0.09727678946775457,
+        "health_factor_unadjusted": 1.0946158985495174,
+        "health_factor_adjusted": 1.0673890460602211,
+        "price_details_eth": {
+            "WETH": 0.9999741687725396,
+            "wstETH": 1.2168565517830976,
+            "cbBTC": 27.542475423754112,
+            "USDC": 0.0002394261056965
+        }
+    },
+    {
+        "datetime_utc": "2025-10-27T15:00:00+00:00",
+        "numerator_eth": 0.10639904558334344,
+        "denominator_eth": 0.09790035024774367,
+        "health_factor_unadjusted": 1.0868096519991322,
+        "health_factor_adjusted": 1.059776967640962,
+        "price_details_eth": {
+            "WETH": 0.9989135010119182,
+            "wstETH": 1.2151681533883871,
+            "cbBTC": 27.68446952447571,
+            "USDC": 0.0002409608677917
+        }
+    },
+    {
+        "datetime_utc": "2025-10-27T16:00:00+00:00",
+        "numerator_eth": 0.10648988721698996,
+        "denominator_eth": 0.09735128360264593,
+        "health_factor_unadjusted": 1.093872451149639,
+        "health_factor_adjusted": 1.0666640907475824,
+        "price_details_eth": {
+            "WETH": 1.0000419038397093,
+            "wstETH": 1.217739790220841,
+            "cbBTC": 27.552844913419648,
+            "USDC": 0.0002396094571487
+        }
+    },
+    {
+        "datetime_utc": "2025-10-27T17:00:00+00:00",
+        "numerator_eth": 0.10651127235720884,
+        "denominator_eth": 0.09637260346460716,
+        "health_factor_unadjusted": 1.1052028120867887,
+        "health_factor_adjusted": 1.0777126267392925,
+        "price_details_eth": {
+            "WETH": 1.0005646590709665,
+            "wstETH": 1.2176357255838943,
+            "cbBTC": 27.40229108773882,
+            "USDC": 0.0002372006443635
+        }
+    },
+    {
+        "datetime_utc": "2025-10-27T18:00:00+00:00",
+        "numerator_eth": 0.10639541568948803,
+        "denominator_eth": 0.0962297276166483,
+        "health_factor_unadjusted": 1.1056397885000455,
+        "health_factor_adjusted": 1.078138734050099,
+        "price_details_eth": {
+            "WETH": 0.9994670533163234,
+            "wstETH": 1.2173726991401024,
+            "cbBTC": 27.383487982329065,
+            "USDC": 0.000236848985884
+        }
+    },
+    {
+        "datetime_utc": "2025-10-27T19:00:00+00:00",
+        "numerator_eth": 0.1064574271431321,
+        "denominator_eth": 0.09632934656816453,
+        "health_factor_unadjusted": 1.1051401357508508,
+        "health_factor_adjusted": 1.0776515093788412,
+        "price_details_eth": {
+            "WETH": 1.0000759526157994,
+            "wstETH": 1.217327202357798,
+            "cbBTC": 27.374423112741376,
+            "USDC": 0.0002370941767229
+        }
+    },
+    {
+        "datetime_utc": "2025-10-27T20:00:00+00:00",
+        "numerator_eth": 0.10636611282214868,
+        "denominator_eth": 0.0966882960242768,
+        "health_factor_unadjusted": 1.1000929501895653,
+        "health_factor_adjusted": 1.0727298646368928,
+        "price_details_eth": {
+            "WETH": 0.9991570592184984,
+            "wstETH": 1.2168268310990271,
+            "cbBTC": 27.35591957675185,
+            "USDC": 0.0002379776543838
+        }
+    },
+    {
+        "datetime_utc": "2025-10-27T21:00:00+00:00",
+        "numerator_eth": 0.10661059270941614,
+        "denominator_eth": 0.09830770659839161,
+        "health_factor_unadjusted": 1.0844581406516136,
+        "health_factor_adjusted": 1.057483946447543,
+        "price_details_eth": {
+            "WETH": 1.00088019729579,
+            "wstETH": 1.2183283889103282,
+            "cbBTC": 27.73400704761307,
+            "USDC": 0.000241963488717
+        }
+    },
+    {
+        "datetime_utc": "2025-10-27T22:00:00+00:00",
+        "numerator_eth": 0.10657307656825712,
+        "denominator_eth": 0.09841381419761172,
+        "health_factor_unadjusted": 1.0829076937741877,
+        "health_factor_adjusted": 1.0559720645027844,
+        "price_details_eth": {
+            "WETH": 1.0004894901302666,
+            "wstETH": 1.2176024375886323,
+            "cbBTC": 27.74083041534729,
+            "USDC": 0.0002422246499807
+        }
+    },
+    {
+        "datetime_utc": "2025-10-27T23:00:00+00:00",
+        "numerator_eth": 0.10663291266790258,
+        "denominator_eth": 0.09869142346381735,
+        "health_factor_unadjusted": 1.0804678757825068,
+        "health_factor_adjusted": 1.05359293315438,
+        "price_details_eth": {
+            "WETH": 1.0010802137879882,
+            "wstETH": 1.2213704572081714,
+            "cbBTC": 27.71184768981031,
+            "USDC": 0.0002429079260826
+        }
+    },
+    {
+        "datetime_utc": "2025-10-28T00:00:00+00:00",
+        "numerator_eth": 0.10649883262049172,
+        "denominator_eth": 0.09852220585822058,
+        "health_factor_unadjusted": 1.0809627301052311,
+        "health_factor_adjusted": 1.0540754787524949,
+        "price_details_eth": {
+            "WETH": 0.9998233558989088,
+            "wstETH": 1.217411951518519,
+            "cbBTC": 27.67991478691631,
+            "USDC": 0.0002424914329752
+        }
+    },
+    {
+        "datetime_utc": "2025-10-28T01:00:00+00:00",
+        "numerator_eth": 0.10642551104455293,
+        "denominator_eth": 0.0986232023704119,
+        "health_factor_unadjusted": 1.0791123030545782,
+        "health_factor_adjusted": 1.052271078170503,
+        "price_details_eth": {
+            "WETH": 0.9991061157383416,
+            "wstETH": 1.216203510559388,
+            "cbBTC": 27.66712364584941,
+            "USDC": 0.0002427400143864
+        }
+    },
+    {
+        "datetime_utc": "2025-10-28T02:00:00+00:00",
+        "numerator_eth": 0.1064954077900638,
+        "denominator_eth": 0.09819204586925319,
+        "health_factor_unadjusted": 1.0845624698752778,
+        "health_factor_adjusted": 1.057585680645512,
+        "price_details_eth": {
+            "WETH": 0.999868848730577,
+            "wstETH": 1.2173976938421571,
+            "cbBTC": 27.649801067236915,
+            "USDC": 0.000241678814458
+        }
+    },
+    {
+        "datetime_utc": "2025-10-28T03:00:00+00:00",
+        "numerator_eth": 0.10655625571749094,
+        "denominator_eth": 0.09922144399882729,
+        "health_factor_unadjusted": 1.0739236542329533,
+        "health_factor_adjusted": 1.047211488844791,
+        "price_details_eth": {
+            "WETH": 1.0000849184680982,
+            "wstETH": 1.2174257586707833,
+            "cbBTC": 27.850348419245293,
+            "USDC": 0.0002442124587808
+        }
+    },
+    {
+        "datetime_utc": "2025-10-28T04:00:00+00:00",
+        "numerator_eth": 0.10664164426154278,
+        "denominator_eth": 0.09933361403516987,
+        "health_factor_unadjusted": 1.0735705661910726,
+        "health_factor_adjusted": 1.0468671833137844,
+        "price_details_eth": {
+            "WETH": 1.0009079370628735,
+            "wstETH": 1.218398045655671,
+            "cbBTC": 27.852458322036323,
+            "USDC": 0.0002444885414427
+        }
+    },
+    {
+        "datetime_utc": "2025-10-28T05:00:00+00:00",
+        "numerator_eth": 0.10651295875610861,
+        "denominator_eth": 0.09895442777178681,
+        "health_factor_unadjusted": 1.076383959308558,
+        "health_factor_adjusted": 1.0496105976930608,
+        "price_details_eth": {
+            "WETH": 0.9997909418191038,
+            "wstETH": 1.2173774155676478,
+            "cbBTC": 27.772644599684195,
+            "USDC": 0.0002435552551894
+        }
+    },
+    {
+        "datetime_utc": "2025-10-28T06:00:00+00:00",
+        "numerator_eth": 0.1064984686615883,
+        "denominator_eth": 0.09970906948309798,
+        "health_factor_unadjusted": 1.0680920924614707,
+        "health_factor_adjusted": 1.0415249780198046,
+        "price_details_eth": {
+            "WETH": 0.9994174097888946,
+            "wstETH": 1.2167451921561954,
+            "cbBTC": 27.880940614174516,
+            "USDC": 0.0002454126450881
+        }
+    },
+    {
+        "datetime_utc": "2025-10-28T07:00:00+00:00",
+        "numerator_eth": 0.1064986676981053,
+        "denominator_eth": 0.09882330988325626,
+        "health_factor_unadjusted": 1.0776674837537443,
+        "health_factor_adjusted": 1.0508621964821498,
+        "price_details_eth": {
+            "WETH": 0.999720070870668,
+            "wstETH": 1.217126469827352,
+            "cbBTC": 27.73058670017245,
+            "USDC": 0.0002432325364236
+        }
+    },
+    {
+        "datetime_utc": "2025-10-28T08:00:00+00:00",
+        "numerator_eth": 0.10655305413960472,
+        "denominator_eth": 0.09873769406428573,
+        "health_factor_unadjusted": 1.07915275062258,
+        "health_factor_adjusted": 1.0523105196687326,
+        "price_details_eth": {
+            "WETH": 1.0002369409082528,
+            "wstETH": 1.2179393541935477,
+            "cbBTC": 27.753049639127795,
+            "USDC": 0.000243021811314
+        }
+    },
+    {
+        "datetime_utc": "2025-10-28T09:00:00+00:00",
+        "numerator_eth": 0.10657400415695617,
+        "denominator_eth": 0.09850602503765538,
+        "health_factor_unadjusted": 1.0819034075957963,
+        "health_factor_adjusted": 1.0549927583668648,
+        "price_details_eth": {
+            "WETH": 1.0004803897029373,
+            "wstETH": 1.2186065977096907,
+            "cbBTC": 27.746176748683343,
+            "USDC": 0.0002424516073305
+        }
+    },
+    {
+        "datetime_utc": "2025-10-28T10:00:00+00:00",
+        "numerator_eth": 0.10656925012702789,
+        "denominator_eth": 0.09853638613414076,
+        "health_factor_unadjusted": 1.0815218043612005,
+        "health_factor_adjusted": 1.0546206469138077,
+        "price_details_eth": {
+            "WETH": 1.000393797072158,
+            "wstETH": 1.2180524202591896,
+            "cbBTC": 27.77460014206076,
+            "USDC": 0.0002425263347052
+        }
+    },
+    {
+        "datetime_utc": "2025-10-28T11:00:00+00:00",
+        "numerator_eth": 0.10651716089143368,
+        "denominator_eth": 0.09867986070567326,
+        "health_factor_unadjusted": 1.0794214759700187,
+        "health_factor_adjusted": 1.0525725608949152,
+        "price_details_eth": {
+            "WETH": 0.9998048354173688,
+            "wstETH": 1.2172903092976792,
+            "cbBTC": 27.821067752906785,
+            "USDC": 0.0002428794668153
+        }
+    },
+    {
+        "datetime_utc": "2025-10-28T12:00:00+00:00",
+        "numerator_eth": 0.10664275209416667,
+        "denominator_eth": 0.0988391347815461,
+        "health_factor_unadjusted": 1.0789527076483227,
+        "health_factor_adjusted": 1.052115452449495,
+        "price_details_eth": {
+            "WETH": 1.001013574275179,
+            "wstETH": 1.218594744019804,
+            "cbBTC": 27.82612569616232,
+            "USDC": 0.0002432714860414
+        }
+    },
+    {
+        "datetime_utc": "2025-10-28T13:00:00+00:00",
+        "numerator_eth": 0.10636900083233407,
+        "denominator_eth": 0.09833647349315947,
+        "health_factor_unadjusted": 1.081684110217084,
+        "health_factor_adjusted": 1.0547789156662633,
+        "price_details_eth": {
+            "WETH": 0.9985227539901425,
+            "wstETH": 1.2149055733951355,
+            "cbBTC": 27.71695893750345,
+            "USDC": 0.0002420342923036
+        }
+    },
+    {
+        "datetime_utc": "2025-10-28T14:00:00+00:00",
+        "numerator_eth": 0.10654251947142349,
+        "denominator_eth": 0.09778537404391295,
+        "health_factor_unadjusted": 1.089554757172355,
+        "health_factor_adjusted": 1.0624537926314122,
+        "price_details_eth": {
+            "WETH": 1.000217544284604,
+            "wstETH": 1.2176729059792617,
+            "cbBTC": 27.77975374577036,
+            "USDC": 0.000240677878346
+        }
+    },
+    {
+        "datetime_utc": "2025-10-28T15:00:00+00:00",
+        "numerator_eth": 0.10643351142501259,
+        "denominator_eth": 0.09887883336894408,
+        "health_factor_unadjusted": 1.076403389872936,
+        "health_factor_adjusted": 1.0496295449526458,
+        "price_details_eth": {
+            "WETH": 0.998720121070612,
+            "wstETH": 1.2204106182926209,
+            "cbBTC": 28.00818212026866,
+            "USDC": 0.0002433691956619
+        }
+    },
+    {
+        "datetime_utc": "2025-10-28T16:00:00+00:00",
+        "numerator_eth": 0.10658430362901264,
+        "denominator_eth": 0.0991393290285991,
+        "health_factor_unadjusted": 1.0750960761320654,
+        "health_factor_adjusted": 1.0483547485892655,
+        "price_details_eth": {
+            "WETH": 1.0001369149934038,
+            "wstETH": 1.2178253289116947,
+            "cbBTC": 28.03465782648994,
+            "USDC": 0.000244010350265
+        }
+    },
+    {
+        "datetime_utc": "2025-10-28T17:00:00+00:00",
+        "numerator_eth": 0.10661007966681221,
+        "denominator_eth": 0.09821613515986632,
+        "health_factor_unadjusted": 1.0854640074493165,
+        "health_factor_adjusted": 1.0584647938873495,
+        "price_details_eth": {
+            "WETH": 1.000646339499038,
+            "wstETH": 1.2186568226729817,
+            "cbBTC": 27.923195308926477,
+            "USDC": 0.0002417381051179
+        }
+    },
+    {
+        "datetime_utc": "2025-10-28T18:00:00+00:00",
+        "numerator_eth": 0.1065320105509153,
+        "denominator_eth": 0.09808851527839417,
+        "health_factor_unadjusted": 1.086080365765114,
+        "health_factor_adjusted": 1.0590658212574087,
+        "price_details_eth": {
+            "WETH": 0.9999427435227524,
+            "wstETH": 1.2172448391278126,
+            "cbBTC": 27.885214776813697,
+            "USDC": 0.0002414239959517
+        }
+    },
+    {
+        "datetime_utc": "2025-10-28T19:00:00+00:00",
+        "numerator_eth": 0.10661818609971305,
+        "denominator_eth": 0.09881695017898272,
+        "health_factor_unadjusted": 1.0789463336664438,
+        "health_factor_adjusted": 1.0521092370104113,
+        "price_details_eth": {
+            "WETH": 1.0006083258533078,
+            "wstETH": 1.2181674286705884,
+            "cbBTC": 27.957241815593253,
+            "USDC": 0.0002432168833656
+        }
+    },
+    {
+        "datetime_utc": "2025-10-28T20:00:00+00:00",
+        "numerator_eth": 0.10654641308479722,
+        "denominator_eth": 0.10055139860650213,
+        "health_factor_unadjusted": 1.0596213932513856,
+        "health_factor_adjusted": 1.033264974157905,
+        "price_details_eth": {
+            "WETH": 0.9994321526351688,
+            "wstETH": 1.2164594127074195,
+            "cbBTC": 28.15840718665482,
+            "USDC": 0.0002474858588818
+        }
+    },
+    {
+        "datetime_utc": "2025-10-28T21:00:00+00:00",
+        "numerator_eth": 0.10652280857134688,
+        "denominator_eth": 0.1019459187223194,
+        "health_factor_unadjusted": 1.0448952729681513,
+        "health_factor_adjusted": 1.0189051430042388,
+        "price_details_eth": {
+            "WETH": 0.9988218013032412,
+            "wstETH": 1.2156339711560922,
+            "cbBTC": 28.320153955566628,
+            "USDC": 0.0002509181732342
+        }
+    },
+    {
+        "datetime_utc": "2025-10-28T22:00:00+00:00",
+        "numerator_eth": 0.10659540209359672,
+        "denominator_eth": 0.10203830218387576,
+        "health_factor_unadjusted": 1.0446606794917945,
+        "health_factor_adjusted": 1.0186763846724147,
+        "price_details_eth": {
+            "WETH": 0.9993845622607634,
+            "wstETH": 1.216960969470358,
+            "cbBTC": 28.43010496923709,
+            "USDC": 0.0002511455554551
+        }
+    },
+    {
+        "datetime_utc": "2025-10-28T23:00:00+00:00",
+        "numerator_eth": 0.1066783874058626,
+        "denominator_eth": 0.10166960700357097,
+        "health_factor_unadjusted": 1.0492652676636756,
+        "health_factor_adjusted": 1.0231664409403685,
+        "price_details_eth": {
+            "WETH": 1.000370525736601,
+            "wstETH": 1.2177438291403513,
+            "cbBTC": 28.3322140177356,
+            "USDC": 0.0002502380907691
+        }
+    },
+    {
+        "datetime_utc": "2025-10-29T00:00:00+00:00",
+        "numerator_eth": 0.10673925868346182,
+        "denominator_eth": 0.10200436334859281,
+        "health_factor_unadjusted": 1.0464185568090636,
+        "health_factor_adjusted": 1.020390537550385,
+        "price_details_eth": {
+            "WETH": 1.000876635795758,
+            "wstETH": 1.2183261170837274,
+            "cbBTC": 28.372320171938867,
+            "USDC": 0.0002510620222381
+        }
+    },
+    {
+        "datetime_utc": "2025-10-29T01:00:00+00:00",
+        "numerator_eth": 0.10672847306087128,
+        "denominator_eth": 0.10223609138118017,
+        "health_factor_unadjusted": 1.0439412502864724,
+        "health_factor_adjusted": 1.017974850139439,
+        "price_details_eth": {
+            "WETH": 1.0007930425814469,
+            "wstETH": 1.218316457290363,
+            "cbBTC": 28.33199313648412,
+            "USDC": 0.0002516323714522
+        }
+    },
+    {
+        "datetime_utc": "2025-10-29T02:00:00+00:00",
+        "numerator_eth": 0.10671385681297516,
+        "denominator_eth": 0.10198475120636359,
+        "health_factor_unadjusted": 1.0463707127847215,
+        "health_factor_adjusted": 1.0203438835710577,
+        "price_details_eth": {
+            "WETH": 1.0008279624484715,
+            "wstETH": 1.2178447429110533,
+            "cbBTC": 28.215824800681357,
+            "USDC": 0.0002510137511257
+        }
+    },
+    {
+        "datetime_utc": "2025-10-29T03:00:00+00:00",
+        "numerator_eth": 0.10660204358529266,
+        "denominator_eth": 0.10147522013253205,
+        "health_factor_unadjusted": 1.050522910382108,
+        "health_factor_adjusted": 1.0243928017700359,
+        "price_details_eth": {
+            "WETH": 0.999877857227924,
+            "wstETH": 1.217510952303405,
+            "cbBTC": 28.14796421945051,
+            "USDC": 0.0002497596488737
+        }
+    },
+    {
+        "datetime_utc": "2025-10-29T04:00:00+00:00",
+        "numerator_eth": 0.10670883146763863,
+        "denominator_eth": 0.10160472899775025,
+        "health_factor_unadjusted": 1.0502348908386085,
+        "health_factor_adjusted": 1.0241119462606376,
+        "price_details_eth": {
+            "WETH": 1.000908644524923,
+            "wstETH": 1.2173881140839435,
+            "cbBTC": 28.150464928998144,
+            "USDC": 0.0002500784073712
+        }
+    },
+    {
+        "datetime_utc": "2025-10-29T05:00:00+00:00",
+        "numerator_eth": 0.1066268332042074,
+        "denominator_eth": 0.10115250293116276,
+        "health_factor_unadjusted": 1.0541195730645447,
+        "health_factor_adjusted": 1.0279000031131678,
+        "price_details_eth": {
+            "WETH": 1.0002503292089302,
+            "wstETH": 1.217544552960351,
+            "cbBTC": 28.078089082034204,
+            "USDC": 0.0002489653491935
+        }
+    },
+    {
+        "datetime_utc": "2025-10-29T06:00:00+00:00",
+        "numerator_eth": 0.10663591493110708,
+        "denominator_eth": 0.10087870038602305,
+        "health_factor_unadjusted": 1.0570706652945907,
+        "health_factor_adjusted": 1.030777691555697,
+        "price_details_eth": {
+            "WETH": 1.000371930277293,
+            "wstETH": 1.2177303818800636,
+            "cbBTC": 28.07938821023724,
+            "USDC": 0.000248291442525
+        }
+    },
+    {
+        "datetime_utc": "2025-10-29T07:00:00+00:00",
+        "numerator_eth": 0.10655438441606234,
+        "denominator_eth": 0.10086709788095122,
+        "health_factor_unadjusted": 1.056383961218192,
+        "health_factor_adjusted": 1.0301080681654244,
+        "price_details_eth": {
+            "WETH": 0.9995287619083848,
+            "wstETH": 1.2173007775204958,
+            "cbBTC": 28.11321030708385,
+            "USDC": 0.0002482628854291
+        }
+    },
+    {
+        "datetime_utc": "2025-10-29T08:00:00+00:00",
+        "numerator_eth": 0.1067252782313796,
+        "denominator_eth": 0.10090548270774881,
+        "health_factor_unadjusted": 1.057675711640829,
+        "health_factor_adjusted": 1.031367688323686,
+        "price_details_eth": {
+            "WETH": 1.001119900035356,
+            "wstETH": 1.2175958478021884,
+            "cbBTC": 28.179744020004986,
+            "USDC": 0.0002483573615076
+        }
+    },
+    {
+        "datetime_utc": "2025-10-29T09:00:00+00:00",
+        "numerator_eth": 0.10664935138869223,
+        "denominator_eth": 0.10130719136752868,
+        "health_factor_unadjusted": 1.0527322882911927,
+        "health_factor_adjusted": 1.0265472248712253,
+        "price_details_eth": {
+            "WETH": 1.000290008443073,
+            "wstETH": 1.217947269455991,
+            "cbBTC": 28.206139368126127,
+            "USDC": 0.0002493460818443
+        }
+    },
+    {
+        "datetime_utc": "2025-10-29T10:00:00+00:00",
+        "numerator_eth": 0.10664015543724602,
+        "denominator_eth": 0.10154449042434859,
+        "health_factor_unadjusted": 1.050181600120331,
+        "health_factor_adjusted": 1.024059981065338,
+        "price_details_eth": {
+            "WETH": 1.0001206859271865,
+            "wstETH": 1.2184058290476811,
+            "cbBTC": 28.24511288736166,
+            "USDC": 0.0002499301429484
+        }
+    },
+    {
+        "datetime_utc": "2025-10-29T11:00:00+00:00",
+        "numerator_eth": 0.10663932336729397,
+        "denominator_eth": 0.10169776027885961,
+        "health_factor_unadjusted": 1.0485906776598066,
+        "health_factor_adjusted": 1.0225086303040847,
+        "price_details_eth": {
+            "WETH": 1.0000739921877742,
+            "wstETH": 1.2174426175367807,
+            "cbBTC": 28.26047888736921,
+            "USDC": 0.000250307384062
+        }
+    },
+    {
+        "datetime_utc": "2025-10-29T12:00:00+00:00",
+        "numerator_eth": 0.10666570607062997,
+        "denominator_eth": 0.10122057353724713,
+        "health_factor_unadjusted": 1.0537947212023961,
+        "health_factor_adjusted": 1.027583231431239,
+        "price_details_eth": {
+            "WETH": 1.0004697621634293,
+            "wstETH": 1.2179986608441045,
+            "cbBTC": 28.19967903999527,
+            "USDC": 0.0002491328904972
+        }
+    },
+    {
+        "datetime_utc": "2025-10-29T13:00:00+00:00",
+        "numerator_eth": 0.1066014189472534,
+        "denominator_eth": 0.10118415883881339,
+        "health_factor_unadjusted": 1.0535386187977283,
+        "health_factor_adjusted": 1.0273334991719374,
+        "price_details_eth": {
+            "WETH": 0.9998727538231424,
+            "wstETH": 1.2179797370036698,
+            "cbBTC": 28.17557683669787,
+            "USDC": 0.0002490432634702
+        }
+    },
+    {
+        "datetime_utc": "2025-10-29T14:00:00+00:00",
+        "numerator_eth": 0.10661043179168045,
+        "denominator_eth": 0.10172435446938256,
+        "health_factor_unadjusted": 1.0480325222783156,
+        "health_factor_adjusted": 1.0219643581616895,
+        "price_details_eth": {
+            "WETH": 0.9997812980665312,
+            "wstETH": 1.2183812214940553,
+            "cbBTC": 28.264663407359844,
+            "USDC": 0.0002503728399997
+        }
+    },
+    {
+        "datetime_utc": "2025-10-29T15:00:00+00:00",
+        "numerator_eth": 0.10673746301744572,
+        "denominator_eth": 0.10187112841535448,
+        "health_factor_unadjusted": 1.0477695170141825,
+        "health_factor_adjusted": 1.021707894740718,
+        "price_details_eth": {
+            "WETH": 1.0010712105933304,
+            "wstETH": 1.2164754022788438,
+            "cbBTC": 28.218153039036714,
+            "USDC": 0.0002507340928175
+        }
+    },
+    {
+        "datetime_utc": "2025-10-29T16:00:00+00:00",
+        "numerator_eth": 0.1068042868856424,
+        "denominator_eth": 0.10291579741353707,
+        "health_factor_unadjusted": 1.037783212780061,
+        "health_factor_adjusted": 1.0119699841510301,
+        "price_details_eth": {
+            "WETH": 1.0014935234153184,
+            "wstETH": 1.218565625609085,
+            "cbBTC": 28.30103154615317,
+            "USDC": 0.000253305323132
+        }
+    },
+    {
+        "datetime_utc": "2025-10-29T17:00:00+00:00",
+        "numerator_eth": 0.10669928709124038,
+        "denominator_eth": 0.10248197881223695,
+        "health_factor_unadjusted": 1.0411517061622142,
+        "health_factor_adjusted": 1.0152546915471141,
+        "price_details_eth": {
+            "WETH": 1.0008441148049674,
+            "wstETH": 1.2180744075816523,
+            "cbBTC": 28.04168096694738,
+            "USDC": 0.0002522375710109
+        }
+    },
+    {
+        "datetime_utc": "2025-10-29T18:00:00+00:00",
+        "numerator_eth": 0.10651771921568774,
+        "denominator_eth": 0.101369045856084,
+        "health_factor_unadjusted": 1.050791376362696,
+        "health_factor_adjusted": 1.024654590080711,
+        "price_details_eth": {
+            "WETH": 0.9994033291987348,
+            "wstETH": 1.216720185372381,
+            "cbBTC": 27.878993898481525,
+            "USDC": 0.0002494983234982
+        }
+    },
+    {
+        "datetime_utc": "2025-10-29T19:00:00+00:00",
+        "numerator_eth": 0.1067047290265761,
+        "denominator_eth": 0.10316291341590397,
+        "health_factor_unadjusted": 1.0343322565580637,
+        "health_factor_adjusted": 1.0086048650488189,
+        "price_details_eth": {
+            "WETH": 1.0007520825500285,
+            "wstETH": 1.2174802205582165,
+            "cbBTC": 28.089815541318742,
+            "USDC": 0.0002539135465574
+        }
+    },
+    {
+        "datetime_utc": "2025-10-29T20:00:00+00:00",
+        "numerator_eth": 0.10663965112970589,
+        "denominator_eth": 0.1036382443748141,
+        "health_factor_unadjusted": 1.0289604168132858,
+        "health_factor_adjusted": 1.0033666413866513,
+        "price_details_eth": {
+            "WETH": 0.9998607565265056,
+            "wstETH": 1.2177696729283811,
+            "cbBTC": 28.24144498575195,
+            "USDC": 0.0002550834725082
+        }
+    },
+    {
+        "datetime_utc": "2025-10-29T21:00:00+00:00",
+        "numerator_eth": 0.10665924606231113,
+        "denominator_eth": 0.10285169149590984,
+        "health_factor_unadjusted": 1.0370198536457975,
+        "health_factor_adjusted": 1.0112256123771481,
+        "price_details_eth": {
+            "WETH": 1.0001952838016843,
+            "wstETH": 1.21745458967504,
+            "cbBTC": 28.20653137759196,
+            "USDC": 0.0002531475400648
+        }
+    },
+    {
+        "datetime_utc": "2025-10-29T22:00:00+00:00",
+        "numerator_eth": 0.10668609026353466,
+        "denominator_eth": 0.10262283884541011,
+        "health_factor_unadjusted": 1.0395940266693011,
+        "health_factor_adjusted": 1.013735756886827,
+        "price_details_eth": {
+            "WETH": 1.0004831354548962,
+            "wstETH": 1.2177775858934623,
+            "cbBTC": 28.210059775767704,
+            "USDC": 0.0002525842679915
+        }
+    },
+    {
+        "datetime_utc": "2025-10-29T23:00:00+00:00",
+        "numerator_eth": 0.10663914322676554,
+        "denominator_eth": 0.10292143172790787,
+        "health_factor_unadjusted": 1.0361218400914411,
+        "health_factor_adjusted": 1.0103499355005343,
+        "price_details_eth": {
+            "WETH": 1.0000240595953194,
+            "wstETH": 1.2179641892467443,
+            "cbBTC": 28.17888963328168,
+            "USDC": 0.0002533191907972
+        }
+    },
+    {
+        "datetime_utc": "2025-10-30T00:00:00+00:00",
+        "numerator_eth": 0.10666400521345029,
+        "denominator_eth": 0.10423758954211175,
+        "health_factor_unadjusted": 1.0232777415709355,
+        "health_factor_adjusted": 0.9978253137720607,
+        "price_details_eth": {
+            "WETH": 1.0000251584358115,
+            "wstETH": 1.2195651532433374,
+            "cbBTC": 28.24203347213968,
+            "USDC": 0.0002565586330286
+        }
+    },
+    {
+        "datetime_utc": "2025-10-30T01:00:00+00:00",
+        "numerator_eth": 0.10682835839771089,
+        "denominator_eth": 0.1038803715756839,
+        "health_factor_unadjusted": 1.0283786703619864,
+        "health_factor_adjusted": 1.0027993649652835,
+        "price_details_eth": {
+            "WETH": 1.0016671480289492,
+            "wstETH": 1.21914025417379,
+            "cbBTC": 28.256490970344817,
+            "USDC": 0.0002556794170609
+        }
+    },
+    {
+        "datetime_utc": "2025-10-30T02:00:00+00:00",
+        "numerator_eth": 0.10673985808785674,
+        "denominator_eth": 0.1033504100297699,
+        "health_factor_unadjusted": 1.0327956904777689,
+        "health_factor_adjusted": 1.0071065186381485,
+        "price_details_eth": {
+            "WETH": 1.0009897878808116,
+            "wstETH": 1.2177367681850753,
+            "cbBTC": 28.156348282136285,
+            "USDC": 0.0002543750295518
+        }
+    },
+    {
+        "datetime_utc": "2025-10-30T03:00:00+00:00",
+        "numerator_eth": 0.10665051275676816,
+        "denominator_eth": 0.10297360837703753,
+        "health_factor_unadjusted": 1.0357072500195161,
+        "health_factor_adjusted": 1.009945657705954,
+        "price_details_eth": {
+            "WETH": 1.000195466822504,
+            "wstETH": 1.217701488843301,
+            "cbBTC": 28.12683376935261,
+            "USDC": 0.0002534476125099
+        }
+    },
+    {
+        "datetime_utc": "2025-10-30T04:00:00+00:00",
+        "numerator_eth": 0.106638153706966,
+        "denominator_eth": 0.10330345938811109,
+        "health_factor_unadjusted": 1.0322805677429103,
+        "health_factor_adjusted": 1.0066042087728402,
+        "price_details_eth": {
+            "WETH": 1.0000302296848942,
+            "wstETH": 1.218200552117029,
+            "cbBTC": 28.12904859648709,
+            "USDC": 0.0002542594705438
+        }
+    },
+    {
+        "datetime_utc": "2025-10-30T05:00:00+00:00",
+        "numerator_eth": 0.10698223389668461,
+        "denominator_eth": 0.10502252304507141,
+        "health_factor_unadjusted": 1.018659910224897,
+        "health_factor_adjusted": 0.9933223437331214,
+        "price_details_eth": {
+            "WETH": 1.0031852997799795,
+            "wstETH": 1.2234589088383967,
+            "cbBTC": 28.140886147775813,
+            "USDC": 0.0002584905797229
+        }
+    },
+    {
+        "datetime_utc": "2025-10-30T06:00:00+00:00",
+        "numerator_eth": 0.1065166872562253,
+        "denominator_eth": 0.1035905942754164,
+        "health_factor_unadjusted": 1.028246705227207,
+        "health_factor_adjusted": 1.002670682256114,
+        "price_details_eth": {
+            "WETH": 0.998913458659031,
+            "wstETH": 1.216395835984523,
+            "cbBTC": 28.039888290204967,
+            "USDC": 0.0002549661919339
+        }
+    },
+    {
+        "datetime_utc": "2025-10-30T07:00:00+00:00",
+        "numerator_eth": 0.10672319586777826,
+        "denominator_eth": 0.10363727103175568,
+        "health_factor_unadjusted": 1.0297762070083551,
+        "health_factor_adjusted": 1.0041621400809917,
+        "price_details_eth": {
+            "WETH": 1.0006287166781769,
+            "wstETH": 1.2198057474607895,
+            "cbBTC": 28.28369662476473,
+            "USDC": 0.0002550810768315
+        }
+    },
+    {
+        "datetime_utc": "2025-10-30T08:00:00+00:00",
+        "numerator_eth": 0.10657182254994547,
+        "denominator_eth": 0.10316481294076085,
+        "health_factor_unadjusted": 1.0330249191760856,
+        "health_factor_adjusted": 1.0073300456323664,
+        "price_details_eth": {
+            "WETH": 0.9992163918127384,
+            "wstETH": 1.2172366300858577,
+            "cbBTC": 28.2699037855292,
+            "USDC": 0.0002539182218334
+        }
+    },
+    {
+        "datetime_utc": "2025-10-30T09:00:00+00:00",
+        "numerator_eth": 0.10676813404778758,
+        "denominator_eth": 0.10345506619728984,
+        "health_factor_unadjusted": 1.0320242204879526,
+        "health_factor_adjusted": 1.0063542377535155,
+        "price_details_eth": {
+            "WETH": 1.0011756685018336,
+            "wstETH": 1.2186700014469,
+            "cbBTC": 28.21871548401512,
+            "USDC": 0.0002546326184254
+        }
+    },
+    {
+        "datetime_utc": "2025-10-30T10:00:00+00:00",
+        "numerator_eth": 0.10658110526855151,
+        "denominator_eth": 0.10406097154393067,
+        "health_factor_unadjusted": 1.0242178569662588,
+        "health_factor_adjusted": 0.9987420452724256,
+        "price_details_eth": {
+            "WETH": 0.99923174556558,
+            "wstETH": 1.2176675010826072,
+            "cbBTC": 28.24217309678392,
+            "USDC": 0.0002561239254305
+        }
+    },
+    {
+        "datetime_utc": "2025-10-30T11:00:00+00:00",
+        "numerator_eth": 0.10668445236136546,
+        "denominator_eth": 0.10433488576937842,
+        "health_factor_unadjusted": 1.0225194725106663,
+        "health_factor_adjusted": 0.9970859054645711,
+        "price_details_eth": {
+            "WETH": 1.0001509443211216,
+            "wstETH": 1.2174942590698814,
+            "cbBTC": 28.291819352471386,
+            "USDC": 0.0002567981069763
+        }
+    },
+    {
+        "datetime_utc": "2025-10-30T12:00:00+00:00",
+        "numerator_eth": 0.10669775545714308,
+        "denominator_eth": 0.10458022919973427,
+        "health_factor_unadjusted": 1.0202478639950636,
+        "health_factor_adjusted": 0.9948707996455305,
+        "price_details_eth": {
+            "WETH": 1.0002624334233392,
+            "wstETH": 1.217593245866028,
+            "cbBTC": 28.283071162782583,
+            "USDC": 0.0002574019675931
+        }
+    }
+]

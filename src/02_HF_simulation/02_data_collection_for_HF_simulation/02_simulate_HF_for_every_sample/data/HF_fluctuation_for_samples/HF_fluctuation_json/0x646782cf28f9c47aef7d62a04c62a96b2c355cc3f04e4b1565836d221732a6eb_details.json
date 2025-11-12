@@ -1,0 +1,35 @@
+[
+    {
+        "datetime_utc": "2025-10-24T17:00:00+00:00",
+        "numerator_eth": 0.00019298259641461324,
+        "denominator_eth": 0.0001913136303864622,
+        "health_factor_unadjusted": 1.0087237173053465,
+        "health_factor_adjusted": 1.00489470995946,
+        "price_details_eth": {
+            "WETH": 1.001198194245107,
+            "USDC": 0.0002576948426618
+        }
+    },
+    {
+        "datetime_utc": "2025-10-24T18:00:00+00:00",
+        "numerator_eth": 0.00019245945602448108,
+        "denominator_eth": 0.0001910315411847712,
+        "health_factor_unadjusted": 1.0074747595651168,
+        "health_factor_adjusted": 1.0036504931292338,
+        "price_details_eth": {
+            "WETH": 0.9997219418799276,
+            "USDC": 0.0002569175843669
+        }
+    },
+    {
+        "datetime_utc": "2025-10-24T19:00:00+00:00",
+        "numerator_eth": 0.00019176168793833145,
+        "denominator_eth": 0.0001912086616151271,
+        "health_factor_unadjusted": 1.0028922660643769,
+        "health_factor_adjusted": 0.9990853942837159,
+        "price_details_eth": {
+            "WETH": 1.000648863054744,
+            "USDC": 0.0002556967594412
+        }
+    }
+]

@@ -1,0 +1,2 @@
+liquidation_timestamp,txHash,user_id,last_action_timestamp,last_action_type,liquidation_datetime,last_action_datetime,found_network,block_number
+1761516193,0x81000e2a7c8969e22a0e4d5d6449201099078f3ecbcd1a84ee9de8ed0829c939,0xca59b5762f61db0e910b5e4df36f17c6ffa15a0e,1761472087.0,userEmodeSetHistory,2025-10-26 22:03:13,2025-10-26 09:48:07,Base Mainnet,37363423

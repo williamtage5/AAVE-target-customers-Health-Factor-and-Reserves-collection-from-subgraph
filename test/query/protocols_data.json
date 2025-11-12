@@ -1,0 +1,76 @@
+{
+    "data": {
+        "pools": [
+            {
+                "id": "0xe20fcbdbffc4dd138ce8b2e6fbb6cb49777ad64d",
+                "liquidationCallHistory": [
+                    {
+                        "borrowAssetPriceUSD": "1.0001",
+                        "collateralAmount": "4979984150017986",
+                        "collateralAssetPriceUSD": "0",
+                        "liquidator": "0x5d718a6b1b8545fa922c51b76412bc1fc7038129",
+                        "principalAmount": "11232653",
+                        "principalReserve": {
+                            "name": "USD Base Coin"
+                        },
+                        "user": {
+                            "id": "0x87fc2610b80defdbbc72da0c4ea431cd02c634fb"
+                        }
+                    },
+                    {
+                        "borrowAssetPriceUSD": "2415.1",
+                        "collateralAmount": "12635269",
+                        "collateralAssetPriceUSD": "1.00013116",
+                        "liquidator": "0x5d718a6b1b8545fa922c51b76412bc1fc7038129",
+                        "principalAmount": "5007143950694814",
+                        "principalReserve": {
+                            "name": "Wrapped Ether"
+                        },
+                        "user": {
+                            "id": "0x6cebaed286d7dc8ec18cbdc988ac45d91cf24ad1"
+                        }
+                    },
+                    {
+                        "borrowAssetPriceUSD": "0",
+                        "collateralAmount": "39519062",
+                        "collateralAssetPriceUSD": "1.0001",
+                        "liquidator": "0x5d718a6b1b8545fa922c51b76412bc1fc7038129",
+                        "principalAmount": "14159972107038139",
+                        "principalReserve": {
+                            "name": "Coinbase Wrapped Staked ETH"
+                        },
+                        "user": {
+                            "id": "0xb86bfd2409b81790f56398f59f37d602e2d3ece2"
+                        }
+                    },
+                    {
+                        "borrowAssetPriceUSD": "2779.88",
+                        "collateralAmount": "7277341",
+                        "collateralAssetPriceUSD": "0.99996533",
+                        "liquidator": "0x5d718a6b1b8545fa922c51b76412bc1fc7038129",
+                        "principalAmount": "2505043992680164",
+                        "principalReserve": {
+                            "name": "Wrapped Ether"
+                        },
+                        "user": {
+                            "id": "0x6cebaed286d7dc8ec18cbdc988ac45d91cf24ad1"
+                        }
+                    },
+                    {
+                        "borrowAssetPriceUSD": "2808.44",
+                        "collateralAmount": "44354697",
+                        "collateralAssetPriceUSD": "1.0001",
+                        "liquidator": "0x5d718a6b1b8545fa922c51b76412bc1fc7038129",
+                        "principalAmount": "15113459638510437",
+                        "principalReserve": {
+                            "name": "Wrapped Ether"
+                        },
+                        "user": {
+                            "id": "0xb0b28417f075005a8307a4824235198b0d4a2215"
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+}
